@@ -5,7 +5,7 @@
             <div class="it-slider-bg it-slider-overlay d-flex align-items-center it-slider-height p-relative"
                 data-background="{{ asset('assets/img/slider/btec-slider-2.jpg') }}">
                 <div class="it-slider-shape-1 d-none d-xl-block">
-                   <img src="{ asset('assets/img/slider/slider-shape-2.png') }}" alt="">
+                   <img src="{{ asset('assets/img/slider/slider-shape-2.png') }}" alt="">
                 </div>
                 <div class="it-slider-shape-2 d-none d-xl-block">
                    <img src="{{ asset('assets/img/slider/slider-shape-1.png') }}" alt="">
