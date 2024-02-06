@@ -15,9 +15,9 @@
                     <div class="row">
                         <div class="col-xl-7 col-lg-8">
                             <div class="it-hero-2-content z-index-5">
-                                <h1 class="it-hero-2-title">Welcome to Battambang Teacher Education College (BTEC)</h1>
+                                <h1 class="it-hero-2-title">B.T.E.C – Building up Teachers today for a better Education tomorrow in Cambodia</h1>
                                 <div class="it-hero-2-text">
-                                    <p>We are the teacher education institution and we provided the best teacher education services to Cambodian teachers.</p>
+                                    <!--<p>We are the teacher education institution and we provided the best teacher education services to Cambodian teachers.</p>-->
                                 </div>
                             </div>
                             <div class="it-hero-2-btn-box d-flex align-items-center">
