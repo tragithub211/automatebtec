@@ -87,7 +87,7 @@
 							<div class="swiper-slide">
 								<div class="it-brand-item text-center">
 									<a href="https://www.vives.be/en/vives-international" target="_blank">
-										<img src="{{ asset('assets/img/partners/vives-logo.jpg') }}" style="width:40%;" alt="VIVES"></a>
+										<img src="{{ asset('assets/img/partners/vives-logo.jpg') }}" style="width:90%;" alt="VIVES"></a>
 								</div>
 							</div>
 						</div>
