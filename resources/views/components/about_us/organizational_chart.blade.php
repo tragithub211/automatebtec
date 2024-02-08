@@ -3,15 +3,14 @@
     <div class="container">
         <div class="row align-items-center">
             <div class="col-xl-12 col-lg-12">
-<div class="it-about-3-title-box">
-<span class="it-section-subtitle">
-<img src="{{ asset('assets/img/category/inner.svg') }}" alt="">
-about us
-</span>
-<h2 class="it-section-title-3 pb-30">The Organizational Chart of <span>BTEC</span>
-</h2>
-<p>The Battambang Teacher Education College (BTEC) has one director and four deputy directors under the direction of a governing board. It consists of three offices and seven departments. In addition, the Battambang Teacher Education College also has its own two application schools, namely application primary and lower secondary schools.</p>
-</div>
+                <div class="it-about-3-title-box">
+                    <span class="it-section-subtitle">
+                        <img src="{{ asset('assets/img/category/inner.svg') }}" alt="">
+                        about us
+                    </span>
+                    <h2 class="it-section-title-3 pb-30">The Organizational Chart of <span>BTEC</span></h2>
+                <p>The Battambang Teacher Education College (BTEC) has one director and four deputy directors under the direction of a governing board. It consists of three offices and seven departments. In addition, the Battambang Teacher Education College also has its own two application schools, namely application primary and lower secondary schools.</p>
+                </div>
 <div class="it-about-3-mv-box">
 <div class="row">
 <!--<div class="col-xl-12">
