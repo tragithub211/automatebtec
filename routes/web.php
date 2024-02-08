@@ -26,7 +26,7 @@ Route::get('programs/faculty-pedagoy-research', [ProgramController::class, 'peda
 Route::get('programs/faculty-science-education', [ProgramController::class, 'scienceEdu'])->name('pages.science_edu');
 Route::get('programs/faculty-social-science-education', [ProgramController::class, 'socialScienceEdu'])->name('pages.social_science_edu');
 
-Route::get('faculty-science-edu/{department}', [DepartmentController::class, 'departmentDetail'])->name('pages.faculty.dept');
+Route::get('programs/{faculty}/{department}', [DepartmentController::class, 'departmentDetail'])->name('pages.faculty.dept');
 
 Route::get('our-campus', [OurCampusController::class, 'ourCampus'])->name('pages.our_campus');
 Route::get('action-research', [ActionResearchController::class, 'actionResearch'])->name('pages.action_research');

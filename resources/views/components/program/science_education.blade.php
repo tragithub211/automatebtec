@@ -42,11 +42,13 @@
                         <span><i class="flaticon-teacher"></i></span>
                     </div>
                     <div class="it-feature-3-content">
-                        <h4 class="it-feature-3-title"><a href="{{ route('pages.faculty.dept', ['science-dept']) }}">Department of Science</a></h4>
+                        <h4 class="it-feature-3-title">
+                            <a href="{{ route('pages.faculty.dept', ['faculty-science-education', 'science-dept']) }}">Department of Science</a>
+                        </h4>
                         <p>The Department of Science covers physics, chemistry, biology, and Earth science.</p>
                     </div>
                     <div class="it-feature-3-btn">
-                        <a class="it-btn" href="{{ route('pages.faculty.dept', ['science-dept']) }}">
+                        <a class="it-btn" href="{{ route('pages.faculty.dept', ['faculty-science-education', 'science-dept']) }}">
                             <span>
                             view details
                             <svg width="17" height="14" viewBox="0 0 17 14" fill="none"
@@ -69,11 +71,13 @@
                         <span><i class="flaticon-puzzle"></i></span>
                     </div>
                     <div class="it-feature-3-content">
-                        <h4 class="it-feature-3-title"><a href="{{ route('pages.faculty.dept', ['mathematics-dept']) }}">Department of Mathematics</a></h4>
+                        <h4 class="it-feature-3-title">
+                            <a href="{{ route('pages.faculty.dept', ['faculty-science-education', 'mathematics-dept']) }}">Department of Mathematics</a>
+                        </h4>
                         <p>The Department of Mathematics equips teachers with mathematical knowledge and pedagogical skills.</p>
                     </div>
                     <div class="it-feature-3-btn">
-                        <a class="it-btn" href="{{ route('pages.faculty.dept', ['mathematics-dept']) }}">
+                        <a class="it-btn" href="{{ route('pages.faculty.dept', ['faculty-science-education', 'mathematics-dept']) }}">
                             <span>
                             view details
                             <svg width="17" height="14" viewBox="0 0 17 14" fill="none"
@@ -96,11 +100,13 @@
                         <span><i class="flaticon-coding"></i></span>
                     </div>
                     <div class="it-feature-3-content">
-                        <h4 class="it-feature-3-title"><a href="{{ route('pages.faculty.dept', ['ict-dept']) }}">Department of ICT</a></h4>
+                        <h4 class="it-feature-3-title">
+                            <a href="{{ route('pages.faculty.dept', ['faculty-science-education', 'ict-dept']) }}">Department of ICT</a>
+                        </h4>
                         <p>The Department of ICT trains teachers to integrate technology into their teaching practices.</p>
                     </div>
                     <div class="it-feature-3-btn">
-                        <a class="it-btn" href="{{ route('pages.faculty.dept', ['ict-dept']) }}">
+                        <a class="it-btn" href="{{ route('pages.faculty.dept', ['faculty-science-education', 'ict-dept']) }}">
                             <span>
                             view details
                             <svg width="17" height="14" viewBox="0 0 17 14" fill="none"

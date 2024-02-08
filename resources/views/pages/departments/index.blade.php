@@ -11,7 +11,23 @@
                 <div class="col-md-12">
                     <div class="it-breadcrumb-content z-index-3 text-center">
                         <div class="it-breadcrumb-title-box">
-                            <h3 class="it-breadcrumb-title">Department of Science</h3>
+                            @if($department == 'pedagogy-dept')
+                                @php $departmentName = 'Department of Pedagogy' @endphp
+                            @elseif($department == 'research-dept')
+                                @php $departmentName = 'Department of Research and Library' @endphp
+
+                            <!-- science-education -->
+                            @elseif($department == 'science-dept')
+                                @php $departmentName = 'Department of Science' @endphp
+                            @elseif($department == 'mathematics-dept')
+                                @php $departmentName = 'Department of Mathematics' @endphp
+                            @elseif($department == 'ict-dept')
+                                @php $departmentName = 'Department of ICT' @endphp
+
+                            @else
+                                @php $departmentName = '' @endphp
+                            @endif
+                            <h3 class="it-breadcrumb-title">{{ $departmentName }}</h3>
                         </div>
                         <div class="it-breadcrumb-list-wrap">
                             <div class="it-breadcrumb-list">
@@ -19,9 +35,17 @@
                                 <span class="dvdr">//</span>
                                 <span><a href="{{ route('pages.program') }}">Programs</a></span> 
                                 <span class="dvdr">//</span>
-                                <span><a href="{{ route('pages.science_edu') }}">Faculty of Science Education</a></span> 
+                                <span>
+                                    @if($faculty == 'faculty-pedagogy-research')
+                                        <a href="{{ route('pages.science_edu') }}">Faculty of Pedagogy Research</a>
+                                    @elseif($faculty == 'faculty-science-education')
+                                        <a href="{{ route('pages.science_edu') }}">Faculty of Science Education</a>
+                                    @else
+                                        <a href="{{ route('pages.science_edu') }}">Faculty of Social Science Education</a>
+                                    @endif
+                                </span> 
                                 <span class="dvdr">//</span>
-                                <span>Department of Science</span>
+                                <span>{{ $departmentName }}</span>
                             </div>
                         </div>
                     </div>
@@ -30,6 +54,6 @@
         </div>
     </div>
 
-    <x-department.detail :department="$department" />
+    <x-department.detail :faculty="$faculty" :department="$department" />
 
 </x-btec-layout>
