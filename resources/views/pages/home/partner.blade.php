@@ -80,8 +80,8 @@
 							</div>
 							<div class="swiper-slide">
 								<div class="it-brand-item text-center">
-									<a href="https://www.buriramunited.com/en/home" target="_blank">
-										<img src="{{ asset('assets/img/partners/boriram_united.png') }}" style="width:35%;" alt="Boriram"></a>
+									<a href="https://www.bru.ac.th/en/" target="_blank">
+										<img src="{{ asset('assets/img/partners/bru-web-logo-en.jpg') }}" style="width:97%;" alt="Boriram"></a>
 								</div>
 							</div>
 							<div class="swiper-slide">
