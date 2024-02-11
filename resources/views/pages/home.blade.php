@@ -15,7 +15,7 @@
     {{-- @include('pages.home.cta') --}}
 
     <!-- course-area-start -->
-    {{-- @include('pages.home.course') --}}
+    @include('pages.home.course')
 
     <!-- choose-area-start -->
     {{-- @include('pages.home.choose') --}}

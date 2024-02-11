@@ -6,6 +6,7 @@ use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\AboutUSController;
 use App\Http\Controllers\ActionResearchController;
 use App\Http\Controllers\ContactUSController;
+use App\Http\Controllers\CourseController;
 use App\Http\Controllers\DepartmentController;
 use App\Http\Controllers\EventController;
 use App\Http\Controllers\HomeController;
@@ -35,6 +36,8 @@ Route::get('contact-us', [ContactUSController::class, 'contactUs'])->name('pages
 
 Route::get('events', [EventController::class, 'event'])->name('pages.event');
 Route::get('events/project-based-learning', [EventController::class, 'eventDetail'])->name('pages.events.detail');
+
+Route::get('courses/{course_title}', [CourseController::class, 'courseDetail'])->name('pages.courses.detail');
 
 Route::get('/dashboard', function () {
     return view('dashboard');
