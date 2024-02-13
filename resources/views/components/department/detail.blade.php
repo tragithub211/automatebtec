@@ -66,7 +66,7 @@
                     <img src="{{ asset('assets/img/charts/ict-dept.jpg') }}" class="mx-auto d-block" alt="FSE">
 
                 @else
-                    ''
+                    
                 @endif
             </div>
         </div>
