@@ -21,6 +21,7 @@ Route::get('about-us', [AboutUSController::class, 'aboutUs'])->name('pages.about
 Route::get('message-director', [AboutUSController::class, 'messageDirector'])->name('pages.message_director');
 Route::get('mission-vision-core-value', [AboutUSController::class, 'missionVision'])->name('pages.mission_vision');
 Route::get('organizational-chart', [AboutUSController::class, 'organizationalChart'])->name('pages.organizational_chart');
+Route::get('logo-meaning', [AboutUSController::class, 'logoMeaning'])->name('pages.logo_meaning');
 
 Route::get('programs', [ProgramController::class, 'program'])->name('pages.program');
 Route::get('programs/faculty-pedagoy-research', [ProgramController::class, 'pedagoyResearch'])->name('pages.pedagogy_research');

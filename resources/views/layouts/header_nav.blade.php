@@ -22,7 +22,7 @@
                                         <!--<li><a href="{{ route('pages.home') }}">Management Board</a></li>-->
                                         <li><a href="{{ route('pages.mission_vision') }}">Mission, Vision & Core Value</a></li>
                                         <li><a href="{{ route('pages.organizational_chart') }}">Organizational Chart</a></li>
-                                        <!--<li><a href="{{ route('pages.home') }}">College History</a></li>-->
+                                        <li><a href="{{ route('pages.logo_meaning') }}">Logo Meaning</a></li>
                                         <!--<li><a href="{{ route('pages.home') }}">Accreditation</a></li>-->
                                         <!--<li><a href="{{ route('pages.home') }}">Logo Meaning</a></li>-->
                                     </ul>

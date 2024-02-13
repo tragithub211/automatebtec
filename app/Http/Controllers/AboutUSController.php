@@ -29,4 +29,9 @@ class AboutUSController extends Controller
     {
         return view('pages.about_us.organizational_chart');
     }
+      // Logo meaning
+    public function logoMeaning()
+    {
+        return view('pages.about_us.logo_meaning');
+    }
 }
