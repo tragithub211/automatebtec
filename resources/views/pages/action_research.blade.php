@@ -26,6 +26,6 @@
         </div>
     </div>
 
-    <x-maintenance.under_construction />
+    <x-action_research.action_research />
 
 </x-btec-layout>
