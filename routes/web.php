@@ -22,6 +22,7 @@ Route::get('message-director', [AboutUSController::class, 'messageDirector'])->n
 Route::get('mission-vision-core-value', [AboutUSController::class, 'missionVision'])->name('pages.mission_vision');
 Route::get('organizational-chart', [AboutUSController::class, 'organizationalChart'])->name('pages.organizational_chart');
 Route::get('logo-meaning', [AboutUSController::class, 'logoMeaning'])->name('pages.logo_meaning');
+Route::get('btec-history', [AboutUSController::class, 'History'])->name('pages.btec_history');
 
 Route::get('programs', [ProgramController::class, 'program'])->name('pages.program');
 Route::get('programs/faculty-pedagoy-research', [ProgramController::class, 'pedagoyResearch'])->name('pages.pedagogy_research');

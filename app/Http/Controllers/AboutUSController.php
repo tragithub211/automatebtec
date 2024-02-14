@@ -34,4 +34,9 @@ class AboutUSController extends Controller
     {
         return view('pages.about_us.logo_meaning');
     }
+      // Logo History
+    public function History()
+    {
+        return view('pages.about_us.btec_history');
+    }
 }
