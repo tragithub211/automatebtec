@@ -10,7 +10,7 @@
                     </span>
                     <h2 class="it-section-title-3 pb-30">Logo Meanig Of <span>BTEC</span></h2>
                     <div class=" text-center mb-30">
-                        <img src="assets/img/logo/favicon.ico" alt="" style="height:20%; width:20%;">
+                        <img src="{{ asset('assets/img/logo/logo-meaning.jpeg') }}" alt="" style="height:20%; width:20%;">
                     </div>
 
                     <div class="pl-50 mb-30">
