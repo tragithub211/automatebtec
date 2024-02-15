@@ -37,19 +37,19 @@
             <h2 class="it-section-title-3 pb-30 text-center">Departments</h2>
 
             <!--Department of Language -->
-            <div class="col-xl-4 col-lg-4 col-md-6 mb-30">
+            <div class="col-xl-6 col-lg-6 col-md-6 mb-30">
                 <div class="it-feature-3-item mb-30 text-center">
                     <div class="it-feature-3-icon">
-                        <span><i class="flaticon-teacher"></i></span>
+                        <span><i class="flaticon-book"></i></span>
                     </div>
                     <div class="it-feature-3-content">
                         <h4 class="it-feature-3-title">
-                            <a href="{{ route('pages.faculty.dept', ['faculty-science-education', 'language-dept']) }}">The Department of Language </a>
+                            <a href="{{ route('pages.faculty.dept', ['faculty-social-science-education', 'language-dept']) }}">The Department of Language </a>
                         </h4>
                         <p>Department of Language has trained many student teachers with majors and non-majors in the English language, with quality, excellence, and ethics for the community as well as society as a whole. </p>
                     </div>
                     <div class="it-feature-3-btn">
-                        <a class="it-btn" href="{{ route('pages.faculty.dept', ['faculty-science-education', 'language-dept']) }}">
+                        <a class="it-btn" href="{{ route('pages.faculty.dept', ['faculty-social-science-education', 'language-dept']) }}">
                             <span>
                             view details
                             <svg width="17" height="14" viewBox="0 0 17 14" fill="none"
@@ -65,6 +65,35 @@
                 </div>
             </div>
 
+            <!-- Department of Social Science -->
+            <div class="col-xl-6 col-lg-6 col-md-6 mb-30">
+                <div class="it-feature-3-item mb-30 text-center">
+                    <div class="it-feature-3-icon">
+                        <span><i class="flaticon-certificate"></i></span>
+                    </div>
+                    <div class="it-feature-3-content">
+                        <h4 class="it-feature-3-title">
+                            <a href="{{ route('pages.faculty.dept', ['faculty-social-science-education', 'social-science-dept']) }}">
+                                Department of Social Science</a>
+                        </h4>
+                        <p></p>
+                    </div>
+                    <div class="it-feature-3-btn">
+                        <a class="it-btn" href="{{ route('pages.faculty.dept', ['faculty-social-science-education', 'social-science-dept']) }}">
+                            <span>
+                            view details
+                            <svg width="17" height="14" viewBox="0 0 17 14" fill="none"
+                            xmlns="http://www.w3.org/2000/svg">
+                            <path d="M11 1.24023L16 7.24023L11 13.2402" stroke="currentcolor" stroke-width="1.5"
+                            stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M1 7.24023H16" stroke="currentcolor" stroke-width="1.5" stroke-miterlimit="10"
+                            stroke-linecap="round" stroke-linejoin="round" />
+                            </svg>
+                            </span>
+                        </a>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 </div>

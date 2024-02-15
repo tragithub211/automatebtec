@@ -9,7 +9,7 @@
                         @if($faculty == 'faculty-pedagogy-research')
                             Faculty Of Pedagogy Research's Department
                         @elseif($faculty == 'faculty-science-education')
-                            Faculty of Science Education\'s Departments
+                            Faculty of Science Education's Departments
                         @else
                             Faculty of Social Science Education's Departments
                         @endif
@@ -49,6 +49,9 @@
                         <p>Battambang Teacher Education College (BTEC) was founded by combining two campuses, Battambang Regional Teacher Training Center and Battambang Provincial Teacher Training Center, through Sub-Decree No.73 dated 22nd May 2017. The Department of Languages is a part of BTEC, under the Faculty of Social Science, responsible for providing language training courses to student teachers of secondary and primary education, as well as English courses for other non-major English student teachers.</p>
                         <p>The Department of Language aims to provide foreign language skills training to student teachers (Lower Primary and Secondary 12+4) and contribute to the improvement in the quality of the education sector, research, teaching, and communication in the northwestern region of Cambodia. The student teachers come from six provinces in Cambodia, including Battambang, where the location of its, Banteay Meanchey, Siem Reap, Pursat, Pailin, and Odor Mean Chey. The objective of the teacher training program in the language department is to equip student teachers with the necessary professional knowledge and practice required for teaching languages that meet the needs of Cambodia's education sector. The department offers quality teacher training in both Khmer and English to student teachers who will be teaching in primary and lower secondary schools. After completing our curriculum, we expect student teachers to have a strong foundation in general knowledge and teaching methodology for both languages. They will have practical experience in teaching small groups or entire classes during their courses. The department's core syllabi meet the professional standards required of teachers and provide relevant general knowledge</p>
                         <p>Since 2017, the Department of Language has trained many student teachers with majors and non-majors in the English language, with quality, excellence, and ethics for the community as well as society as a whole. This great achievement exists under the five crucial points of the Department of Language. First, the Department of Language qualified the curriculum in line with the national qualification framework and responded to the current and future developments of technology and the needs of the community. Second, there are teacher educators and volunteers of foreigners with specialized abilities and skills in the field of education who are qualified enough to train the student teachers. Third, there are classrooms equipped with electronic devices. In particular, there is one lab that is equipped with computers, headphones, and internet for the student teachers to facilitate learning and teaching activities. Fourth, there are study visits and English clubs for them to share their teaching and learning. Fifth, some organizations partner to help with training and run workshops for teacher educators and student teachers.</p>
+
+                    @elseif($department == 'social-science-dept')
+                        <h2 class="it-section-title-3 pb-30">Department of <span>Social Science</span></h2>
                         
                     @endif
                 </div>
