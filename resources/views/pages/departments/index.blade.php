@@ -1,7 +1,7 @@
 <x-btec-layout>
     <x-slot name="header">
         <h2 class="font-semibold text-xl text-gray-800 leading-tight">
-            {{ __('Faculty of Science Education') }}
+            {{ __('Faculty of Social Science Education') }}
         </h2>
     </x-slot>
 
@@ -27,6 +27,8 @@
                              <!-- social-science-education -->
                             @elseif($department == 'language-dept')
                                 @php $departmentName = 'Department of Language' @endphp
+                            @elseif($department == 'social-science-dept')
+                                @php $departmentName = 'Department of Social Science' @endphp
 
                             @else
                                 @php $departmentName = '' @endphp
@@ -41,11 +43,11 @@
                                 <span class="dvdr">//</span>
                                 <span>
                                     @if($faculty == 'faculty-pedagogy-research')
-                                        <a href="{{ route('pages.science_edu') }}">Faculty of Pedagogy Research</a>
+                                        <a href="{{ route('pages.pedagogy_research') }}">Faculty of Pedagogy Research</a>
                                     @elseif($faculty == 'faculty-science-education')
                                         <a href="{{ route('pages.science_edu') }}">Faculty of Science Education</a>
                                     @else
-                                        <a href="{{ route('pages.science_edu') }}">Faculty of Social Science Education</a>
+                                        <a href="{{ route('pages.social_science_edu') }}">Faculty of Social Science Education</a>
                                     @endif
                                 </span> 
                                 <span class="dvdr">//</span>
