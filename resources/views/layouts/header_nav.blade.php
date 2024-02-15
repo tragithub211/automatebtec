@@ -62,14 +62,14 @@
                                 </li>-->
                                 <li class="has-dropdown {{ Route::is('pages.our_campus') ? 'active' : '' }}">
                                     <a href="{{ route('pages.our_campus') }}">Our Campus</a>
-                                    <!--<ul class="it-submenu submenu has-megamenu">
-                                        <li style="color:#22A3D1;"><strong>Campus Facilities</strong></li>
+                                    <ul class="it-submenu submenu has-megamenu">
+                                        {{-- <li style="color:#22A3D1;"><strong>Campus Facilities</strong></li> --}}
                                         <li style="color:#22A3D1;"><strong>Campus Life</strong></li>
 
-                                        <li><a href="{{ route('pages.home') }}">Library</a></li>
-                                        <li><a href="{{ route('pages.home') }}">Clubs</a></li>
+                                        {{-- <li><a href="{{ route('pages.home') }}">Library</a></li> --}}
+                                        <li><a href="{{ route('pages.clubs') }}">Clubs</a></li>
 
-                                        <li><a href="{{ route('pages.home') }}">Laboratories</a></li>
+                                        {{-- <li><a href="{{ route('pages.home') }}">Laboratories</a></li>
                                         <li><a href="{{ route('pages.home') }}">Dormitory</a></li>
 
                                         <li><a href="{{ route('pages.home') }}">Computer Labs and Technology</a></li>
@@ -78,8 +78,8 @@
                                         <li><a href="{{ route('pages.home') }}">Sports</a></li>
                                         <li><a href="{{ route('pages.home') }}">Student Support Services</a></li>
 
-                                        <li><a href="{{ route('pages.home') }}">Arts</a></li>
-                                    </ul>-->
+                                        <li><a href="{{ route('pages.home') }}">Arts</a></li> --}}
+                                    </ul>
                                 </li>
                                 <!--<li class="has-dropdown">
                                     <a href="#">Campus Life</a>
