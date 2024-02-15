@@ -9,6 +9,7 @@
                         Our Programs
                     </span>
                     <h2 class="it-section-title-3 pb-30">Faculty of <span>Science Education</span></h2>
+                    <h3>Acting Dean's Message</h3>
                     <p>Welcome to the Faculty of Science Education at Battambang Teacher Education College! We invite you to choose our institution as the premier destination for your teacher education journey.</p>
                     <p>With three departments - Science, Mathematics, and ICT - we offer comprehensive programs for primary and lower secondary teacher education. Our primary program equips future teachers with a broad knowledge base to engage young learners across subjects, fostering their holistic growth. For lower secondary education, our specialized subjects in Mathematics, ICT, and Science provide a solid foundation, nurturing expertise and confidence in student teachers. Our state-of-the-art labs and well-equipped classrooms facilitate hands-on experiences and innovative teaching methods, leveraging cutting-edge technology.</p>
                     <p>At Battambang Teacher Education College, our distinguished teacher educators serve as mentors, imparting invaluable knowledge and cultivating a culture of excellence. We are committed to preparing graduates who possess the passion, dedication, and skills to make a lasting impact on students' lives and contribute to Cambodia's education landscape.</p>

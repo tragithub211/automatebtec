@@ -23,6 +23,10 @@
                                 @php $departmentName = 'Department of Mathematics' @endphp
                             @elseif($department == 'ict-dept')
                                 @php $departmentName = 'Department of ICT' @endphp
+                            
+                             <!-- social-science-education -->
+                            @elseif($department == 'language-dept')
+                                @php $departmentName = 'Department of Language' @endphp
 
                             @else
                                 @php $departmentName = '' @endphp

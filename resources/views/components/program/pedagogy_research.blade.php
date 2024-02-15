@@ -16,7 +16,9 @@
                     <p>Educational research is an essential means for developing and increasing the scientific impact of new knowledge, as well as improving instruction, and it is critical to maintaining our teaching program's lead in this area. To accomplish this, we work closely with other institutions and maintain strong relationships with a varied network of social and professional partners, with the goal of establishing beneficial collaboration in all areas of teacher education, educational research, educational psychology, and innovative pedagogy.</p>
                     <p>We urge all of our visitors to explore the numerous possibilities that the website provides, and we look forward to hearing from you via any of the channels available to you.</p>
                     <p class="pt-20 mb-0">Kind regards, </p>
-                    <p><strong>SON Sokun</strong></p>
+                    <p class="mb-0"><strong>SON Sokun</strong></p>
+                    <p class="mb-0">Acting Dean of Faculty of Pedagogy Research</p>
+                    <p>Battambang Teacher Education College</p>
                 </div>
             </div>
         </div>
