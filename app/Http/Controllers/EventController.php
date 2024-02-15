@@ -13,8 +13,8 @@ class EventController extends Controller
     }
 
     // event detail
-    public function eventDetail()
+    public function eventDetail($event_title)
     {
-        return view('pages.events.event_detail');
+        return view('pages.events.event_detail', compact('event_title'));
     }
 }

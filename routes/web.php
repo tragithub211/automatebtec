@@ -37,7 +37,7 @@ Route::get('social-services', [SocialServiceController::class, 'socialService'])
 Route::get('contact-us', [ContactUSController::class, 'contactUs'])->name('pages.contact_us');
 
 Route::get('events', [EventController::class, 'event'])->name('pages.event');
-Route::get('events/project-based-learning', [EventController::class, 'eventDetail'])->name('pages.events.detail');
+Route::get('events/{event_title?}', [EventController::class, 'eventDetail'])->name('pages.events.detail');
 
 Route::get('courses/{course_title}', [CourseController::class, 'courseDetail'])->name('pages.courses.detail');
 
