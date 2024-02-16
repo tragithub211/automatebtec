@@ -14,6 +14,40 @@ Our Events
 </div>
 </div>
 <div class="row">
+	<!-- BTEC singed MOU with Buriram -->
+	<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+		<div class="it-event-2-item-box">
+		<div class="it-event-2-item">
+		<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
+		<a href="{{ route('pages.events.detail', ['signing-mou-btec-and-buriram']) }}">
+			<img src="{{ asset('assets/img/event/btec-buriram-mou-2024-main.jpg') }}" alt=""></a>
+		<!--<div class="it-event-2-date">
+		<span><i>25</i> <br> January</span>
+		</div>-->
+		</div>
+		<div class="it-event-2-content">
+		<h4 class="it-event-2-title">
+			<a href="{{ route('pages.events.detail', ['signing-mou-btec-and-buriram']) }}">Signing of the MoU between Battambang Teacher Education College (BTEC) and Buriram Rajabhat University (BRU)</a></h4>
+		<div class="it-event-2-text" style="height:200px;max-height:200px;overflow:hidden;">
+		<p class="mb-0 pb-10">In addition to the signing of the MoU between Battambang Teacher Education College (BTEC) and Buriram Rajabhat University (BRU), Thailand, a delegation from BTEC led by Dr. Chea Ratha, Director of the Management Committee, attended a special bilateral meeting to discuss and identify the action plan which is mutual benefit for both institutions in order to response to the objectives of the signed MoU on the afternoon of Feb 15, 2024.</p>
+		</div>
+		<div class="it-event-2-meta">
+		<!--<span>
+		<i class="fa-light fa-clock"></i>
+		Time: 02:00pm 05;00pm
+		</span>-->
+		<span>
+		<a href="#">
+		<i class="fa-light fa-location-dot"></i>
+		</a>
+		Location: Thailand
+		</span>
+		</div>
+		</div>
+		</div>
+		</div>
+	</div>
+
 	<!-- International Research Conference 2024 -->
 	<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
 		<div class="it-event-2-item-box">
@@ -79,7 +113,7 @@ Our Events
 		</div>
 	</div>
 
-	<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+	<!--<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
 	<div class="it-event-2-item-box">
 	<div class="it-event-2-item">
 	<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
@@ -109,7 +143,7 @@ Our Events
 	</div>
 	</div>
 	</div>
-	</div>
+	</div>-->
 	<!--<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
 	<div class="it-event-2-item-box">
 	<div class="it-event-2-item">

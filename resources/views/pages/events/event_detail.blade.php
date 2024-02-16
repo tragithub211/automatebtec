@@ -28,6 +28,8 @@
 
     @if($event_title == 'research-conference-nirc-vll-2024')
         <x-events.research_conference />
+    @elseif($event_title == 'signing-mou-btec-and-buriram')
+        <x-events.signing_mou />
     @else
         <x-events.event_detail />
     @endif
