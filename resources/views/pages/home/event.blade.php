@@ -86,13 +86,16 @@ Our Events
 		<div class="it-event-2-item-box">
 		<div class="it-event-2-item">
 		<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
-		<a href="{{ route('pages.events.detail') }}"><img src="{{ asset('assets/img/event/pbl-thumb-250124.jpg') }}" alt=""></a>
+		<a href="{{ route('pages.events.detail', ['project-based-learning']) }}">
+			<img src="{{ asset('assets/img/event/pbl-thumb-250124.jpg') }}" alt=""></a>
 		<div class="it-event-2-date">
 		<span><i>25</i> <br> January</span>
 		</div>
 		</div>
 		<div class="it-event-2-content">
-		<h4 class="it-event-2-title"><a href="{{ route('pages.events.detail') }}">Project-Based Learning: A Six-Steps Approach to Creating a PBL Project</a></h4>
+		<h4 class="it-event-2-title">
+			<a href="{{ route('pages.events.detail', ['project-based-learning']) }}">
+				Project-Based Learning: A Six-Steps Approach to Creating a PBL Project</a></h4>
 		<div class="it-event-2-text" style="height:200px;max-height:200px;overflow:hidden;">
 		<p class="mb-0 pb-10">Project-Based Learning (PBL) has emerged as a pedagogical startegy that not only enhances student's critical thinking skills but also promotes collaboration and real-world application of knowledge.</p>
 		</div>
