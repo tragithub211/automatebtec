@@ -62,6 +62,7 @@ Thumbs.db
 .env.production
 .editorconfig
 .gitattributes
+.htaccess
 .phpunit.result.cache
 Homestead.json
 Homestead.yaml
