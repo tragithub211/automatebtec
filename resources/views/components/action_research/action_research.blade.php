@@ -2,11 +2,10 @@
 <div class="it-about-4-area  inner-about-style pt-120 pb-120">
     <div class="container">
         <div class="row ">
-
             <div class="col-xl-4 col-lg-4">
-                <div class="it-about-4-thumb-wrap d-flex align-items-center justify-content-center justify-content-lg-end pt-100">
+                <div class="it-about-4-thumb-wrap d-flex align-items-center justify-content-center justify-content-lg-end pt-100 pt-lg-4" >
                     <div class="it-about-4-thumb-single">
-                        <img src="{{ asset('assets/img/action-research/1-r.jpg') }}" style="border-radius:5px;" alt="" class="mb-4 shadow ">
+                        <img src="{{ asset('assets/img/action-research/1-r.jpg') }}" style="border-radius:5px;" alt="" class=" mt-10 mb-10 shadow ">
                         <img src="{{ asset('assets/img/action-research/2-r.jpg') }}" style="border-radius:5px;" alt="" class="shadow">
                         
                     </div>
