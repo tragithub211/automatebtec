@@ -26,6 +26,6 @@
         </div>
     </div>
 
-    <x-maintenance.under_construction />
+    <x-social_services.social_service />
 
 </x-btec-layout>
