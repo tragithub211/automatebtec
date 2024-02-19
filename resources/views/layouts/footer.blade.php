@@ -26,7 +26,7 @@
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-4 col-md-4">
-                    <div class="it-footer-top-info d-flex align-items-center justify-content-md-end border-none it-footer-top-col-3">
+                    <div class="it-footer-top-info d-flex align-items-center border-none it-footer-top-col-3">
                         <div class="it-footer-top-icon">
                             <span><i class="fa-light fa-envelope"></i></span>
                         </div>

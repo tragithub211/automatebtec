@@ -27,7 +27,6 @@
     <style type="text/css">
         .text-btec-gold{color:#EDC64A !important;}
         .it-footer-top-text a{font-size:18px !important;}
-        .it-footer-top-info{padding:35px 0;}
     </style>
 </head>
 
