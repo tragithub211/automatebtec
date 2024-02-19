@@ -26,7 +26,7 @@ about us
             </div>
             <div class="it-about-3-mv-item">
                 <span class="it-about-3-mv-title">BTEC's Slogan</span>
-                <p>B.T.E.C – Building up Teachers today for a better Education tommorow in Cambodia.</p>
+                <p>B.T.E.C – Building up Teachers today for a better Education tomorrow in Cambodia.</p>
             </div>
         </div>
     </div>
