@@ -24,6 +24,11 @@
     <link rel="stylesheet" href="{{ asset('assets/css/magnific-popup.css') }}">
     <link rel="stylesheet" href="{{ asset('assets/css/spacing.css') }}">
     <link rel="stylesheet" href="{{ asset('assets/css/main.css') }}">
+    <style type="text/css">
+        .text-btec-gold{color:#EDC64A !important;}
+        .it-footer-top-text a{font-size:18px !important;}
+        .it-footer-top-info{padding:35px 0;}
+    </style>
 </head>
 
 <body>
@@ -80,7 +85,7 @@
                 <div class="row">
                     <div class="col-12 wow itfadeUp" data-wow-duration=".9s" data-wow-delay=".3s">
                         <div class="it-copyright-text text-center">
-                            <p>Copyright © 2023 <a href="{{ route('pages.home') }}">{{ config('app.name', 'BTEC') }} </a> || All Rights Reserved</p>
+                            <p>Copyright © 2023 <a href="{{ route('pages.home') }}" style="color:#169CD1;">{{ config('app.name', 'BTEC') }} </a> || All Rights Reserved</p>
                         </div>
                     </div>
                 </div>
