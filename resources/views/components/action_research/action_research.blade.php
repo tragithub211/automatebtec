@@ -1,8 +1,20 @@
 <!-- faculty-of-pedagogy-research -->
 <div class="it-about-4-area  inner-about-style pt-120 pb-120">
     <div class="container">
-        <div class="row align-items-center">
-            <div class="col-xl-12 col-lg-12">
+        <div class="row ">
+
+            <div class="col-xl-4 col-lg-4">
+                <div class="it-about-4-thumb-wrap d-flex align-items-center justify-content-center justify-content-lg-end pt-100">
+                    <div class="it-about-4-thumb-single">
+                        <img src="{{ asset('assets/img/action-research/1-r.jpg') }}" style="border-radius:5px;" alt="" class="mb-4 shadow ">
+                        <img src="{{ asset('assets/img/action-research/2-r.jpg') }}" style="border-radius:5px;" alt="" class="shadow">
+                        
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="col-xl-8 col-lg-8">
                 <div class="it-about-3-title-box">
                     <span class="it-section-subtitle">
                         <img src="{{ asset('assets/img/category/inner.svg') }}" alt="">
@@ -16,7 +28,12 @@
                     <p>Action research is a cyclical process that involves four main stages: planning, acting, observing, and reflecting. It encourages active collaboration between researchers and practitioners, fostering a co-learning environment. By combining research and action, this approach allows individuals to tackle complex problems through a systematic and iterative process.</p>
                     <p>Through action research, practitioners can enhance their understanding of the contextual factors influencing their work, test strategies, evaluate outcomes, and make informed decisions. This iterative process promotes continuous improvement and innovation, as it encourages adaptation and refinement based on real-time feedback.</p>
 
-                    <h3 class="pb-10">Benefits of Action Research:</h3>
+                </div>
+            </div>
+
+            {{-- benefite --}}
+            <div class="col-xl-12 col-lg-12">
+                <h3 class="pb-10">Benefits of Action Research:</h3>
                     <div class="pl-50">
                         <p><strong>Empowerment</strong>: Action research empowers individuals and communities by giving them the tools and agency to address challenges in their own context. It fosters a sense of ownership and autonomy, leading to sustainable solutions.</p>
                         <p><strong>Knowledge Creation</strong>: Action research generates valuable knowledge and insights that are context-specific and practical. It bridges the gap between theory and practice, allowing practitioners to contribute to the existing knowledge base in their field.</p>
@@ -29,8 +46,8 @@
                     <p>At <a href="https://btec.edu.kh" title="BTEC" style="color:#22A3D1;"><strong>https://btec.edu.kh</strong></a>, we provide resources, guidance, and support for individuals and organizations interested in engaging in action research. Whether you are a student, educator, researcher, or practitioner, our aim is to equip you with the knowledge and tools necessary to embark on action research journeys successfully.</p>
                     <p>Through our website, you will find articles, case studies, guides, and practical tips to help you understand and implement action research. We also offer workshops, training programs, and consulting services to support your action research projects. Our experienced team of professionals is dedicated to empowering you to make a positive impact in your field and community.</p>
                     <p>Join us on this exciting journey of action, collaboration, and transformative change. Explore our website, connect with our community, and let's work together to unleash the power of action research!</p>
-                </div>
             </div>
+
         </div>
     </div>
 </div>
