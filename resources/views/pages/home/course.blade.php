@@ -70,7 +70,7 @@ stroke-linecap="round" stroke-linejoin="round" />
 	</div>-->
 	<div class="it-course-price-box d-flex justify-content-between">
 	<span>$135</span>
-	<!--<a href="cart.html"><i class="fa-light fa-cart-shopping"></i>Add to cart</a>-->
+	<!--<a href="{{ route('pages.home') }}"><i class="fa-light fa-cart-shopping"></i>Add to cart</a>-->
 	</div>
 	</div>
 	</div>
@@ -79,7 +79,7 @@ stroke-linecap="round" stroke-linejoin="round" />
 <!--<div class="col-xl-6 col-lg-6">
 <div class="it-course-2-wrap d-flex align-items-center">
 <div class="it-course-thumb  p-relative">
-<a href="course-details.html"><img src="assets/img/course/course-1-5.jpg" alt=""></a>
+<a href="{{ route('pages.home') }}"><img src="assets/img/course/course-1-5.jpg" alt=""></a>
 <div class="it-course-thumb-text">
 <span>Marketing</span>
 </div>
@@ -93,7 +93,7 @@ stroke-linecap="round" stroke-linejoin="round" />
 <i class="fa-sharp fa-regular fa-star"></i>
 <span>(4.7)</span>
 </div>
-<h4 class="it-course-title pb-15"><a href="course-details.html">It statistics data science and Business
+<h4 class="it-course-title pb-15"><a href="{{ route('pages.home') }}">It statistics data science and Business
 analysis</a></h4>
 <div class="it-course-info pb-20 mb-25 d-flex justify-content-between">
 <span><i class="fa-light fa-file-invoice"></i>Lesson 10</span>
@@ -106,7 +106,7 @@ analysis</a></h4>
 </div>
 <div class="it-course-price-box d-flex justify-content-between">
 <span><i>$60</i> $120</span>
-<a href="cart.html"><i class="fa-light fa-cart-shopping"></i>Add to cart</a>
+<a href="{{ route('pages.home') }}"><i class="fa-light fa-cart-shopping"></i>Add to cart</a>
 </div>
 </div>
 </div>

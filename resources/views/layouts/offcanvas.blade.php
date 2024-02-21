@@ -7,7 +7,7 @@
 <button class="close-btn"><i class="fal fa-times"></i></button>
 </div>
 <div class="itoffcanvas__logo">
-<a href="index.html">
+<a href="{{ route('pages.home') }}">
 <img src="assets/img/logo/logo-white.png" alt="">
 </a>
 </div>

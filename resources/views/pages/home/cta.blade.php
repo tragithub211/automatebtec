@@ -13,7 +13,7 @@ create an online course.</h4>
 </div>
 <div class="col-xl-3 col-lg-5 col-md-5">
 <div class="it-cta-button text-md-end">
-<a class="it-btn-white sky-bg" href="about-us.html">
+<a class="it-btn-white sky-bg" href="{{ route('pages.about_us') }}">
 <span>
 More About Us
 <svg width="17" height="14" viewBox="0 0 17 14" fill="none"

@@ -64,7 +64,7 @@
                         </div>
                      </div>
                      <div class="it-hero-2-btn-box d-flex align-items-center">
-                        <a class="it-btn-white sky-bg mr-30" href="course-details.html">
+                        <a class="it-btn-white sky-bg mr-30" href="#">
                            <span>
                               Explore all Courses
                               <svg width="17" height="14" viewBox="0 0 17 14" fill="none"
@@ -106,7 +106,7 @@
                         </div>
                      </div>
                      <div class="it-hero-2-btn-box d-flex align-items-center">
-                        <a class="it-btn-white sky-bg mr-30" href="course-details.html">
+                        <a class="it-btn-white sky-bg mr-30" href="#">
                            <span>
                               Explore all Courses
                               <svg width="17" height="14" viewBox="0 0 17 14" fill="none"
@@ -148,7 +148,7 @@
                         </div>
                      </div>
                      <div class="it-hero-2-btn-box d-flex align-items-center">
-                        <a class="it-btn-white sky-bg mr-30" href="course-details.html">
+                        <a class="it-btn-white sky-bg mr-30" href="#">
                            <span>
                               Explore all Courses
                               <svg width="17" height="14" viewBox="0 0 17 14" fill="none"
@@ -190,7 +190,7 @@
                         </div>
                      </div>
                      <div class="it-hero-2-btn-box d-flex align-items-center">
-                        <a class="it-btn-white sky-bg mr-30" href="course-details.html">
+                        <a class="it-btn-white sky-bg mr-30" href="#">
                            <span>
                               Explore all Courses
                               <svg width="17" height="14" viewBox="0 0 17 14" fill="none"
@@ -232,7 +232,7 @@
                         </div>
                      </div>
                      <div class="it-hero-2-btn-box d-flex align-items-center">
-                        <a class="it-btn-white sky-bg mr-30" href="course-details.html">
+                        <a class="it-btn-white sky-bg mr-30" href="#">
                            <span>
                               Explore all Courses
                               <svg width="17" height="14" viewBox="0 0 17 14" fill="none"

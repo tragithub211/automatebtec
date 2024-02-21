@@ -37,29 +37,6 @@
                                         <li><a href="{{ route('pages.social_science_edu') }}">Faculty of Social Science Education</a></li>
                                     </ul>
                                 </li>
-                                <!--<li class="has-dropdown">
-                                    <a href="#">pages</a>
-                                    <ul class="it-submenu submenu has-megamenu">
-                                        <li><a href="course-1.html">Course 01</a></li>
-                                        <li><a href="course-2.html">Course 02</a></li>
-                                        <li><a href="course-details.html">Course Details</a></li>
-                                        <li><a href="teacher.html">Teacher</a></li>
-                                        <li><a href="teacher-details.html">Teacher Details</a></li>
-                                        <li><a href="price.html">Price</a></li>
-                                        <li><a href="event.html">Event</a></li>
-                                        <li><a href="event-details.html">Event Details</a></li>
-                                        <li><a href="cart.html">Cart</a></li>
-                                        <li><a href="checkout.html">Checkout</a></li>
-                                        <li><a href="testimonial.html">Testimonial</a></li>
-                                        <li><a href="Instructor-registration.html">Instructor Registration</a></li>
-                                        <li><a href="student-registration-1.html">Student Registration 01</a></li>
-                                        <li><a href="student-registration-2.html">Student Registration 02</a></li>
-                                        <li><a href="faq.html">Faq</a></li>
-                                        <li><a href="signin.html">Sign IN</a></li>
-                                        <li><a href="signup.html">Sign UP</a></li>
-                                        <li><a href="404.html">Error</a></li>
-                                    </ul>
-                                </li>-->
                                 <li class="has-dropdown {{ Route::is('pages.our_campus') ? 'active' : '' }}">
                                     <a href="{{ route('pages.our_campus') }}">Our Campus</a>
                                     <ul class="it-submenu submenu has-megamenu">
@@ -104,12 +81,12 @@
                 <!--<div class="col-xl-3 col-6">
                     <div class="it-header-2-right d-flex align-items-center justify-content-end">
                         <div class="it-header-2-icon">
-                            <a href="cart.html">
+                            <a href="{{ route('pages.home') }}">
                                 <i class="fa-regular fa-cart-shopping"></i>
                             </a>
                         </div>
                         <div class="it-header-2-button d-none d-lg-block">
-                            <a class="it-btn-white sky-bg" href="contact.html">
+                            <a class="it-btn-white sky-bg" href="{{ route('pages.home') }}">
                                 <span>
                                     Contact Us
                                     <svg width="17" height="14" viewBox="0 0 17 14" fill="none" 

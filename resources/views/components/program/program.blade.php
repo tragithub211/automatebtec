@@ -40,7 +40,7 @@ tempor incididunt ut labore et dolore magna aliqua.</p>
 </div>
 </div>
     <!--<div class="it-about-3-btn-box p-relative">
-        <a class="it-btn" href="contact.html">
+        <a class="it-btn" href="{{ route('pages.home') }}">
         <span>
         admission open
         <svg width="17" height="14" viewBox="0 0 17 14" fill="none"

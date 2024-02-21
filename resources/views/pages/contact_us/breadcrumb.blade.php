@@ -9,7 +9,7 @@
 </div>
 <div class="it-breadcrumb-list-wrap">
 <div class="it-breadcrumb-list">
-<span><a href="index.html">home</a></span>
+<span><a href="{{ route('pages.home') }}">home</a></span>
 <span class="dvdr">//</span>
 <span>contact</span>
 </div>

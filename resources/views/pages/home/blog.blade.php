@@ -13,7 +13,7 @@ blog posts
 </div>
 <div class="col-xl-4 col-lg-4 col-md-4">
 <div class="it-blog-button text-start text-md-end">
-<a class="it-btn blue-bg" href="blog-1.html">
+<a class="it-btn blue-bg" href="{{ route('pages.home') }}">
 <span>
 all blog post
 <svg width="17" height="14" viewBox="0 0 17 14" fill="none"
@@ -33,7 +33,7 @@ stroke-linecap="round" stroke-linejoin="round" />
 <div class="col-xl-6 col-lg-6 col-md-6 mb-30">
 <div class="it-blog-item">
 <div class="it-blog-thumb fix">
-<a href="blog-details.html"><img src="assets/img/blog/blog-1-7.jpg" alt=""></a>
+<a href="{{ route('pages.home') }}"><img src="assets/img/blog/blog-1-7.jpg" alt=""></a>
 </div>
 <div class="it-blog-content">
 <div class="it-blog-meta pb-25">
@@ -44,10 +44,10 @@ Sunilra smoth</span>
 <i class="fa-light fa-calendar-days"></i>
 March 28, 2023</span>
 </div>
-<h4 class="it-blog-title pb-5"><a href="blog-details.html">Lorem ipsum dolor sit amet,
+<h4 class="it-blog-title pb-5"><a href="{{ route('pages.home') }}">Lorem ipsum dolor sit amet,
 consectetur
 Adipiscing elit, sed do.</a></h4>
-<a class="it-btn blue-bg" href="blog-details.html">
+<a class="it-btn blue-bg" href="{{ route('pages.home') }}">
 <span>
 read more
 <svg width="17" height="14" viewBox="0 0 17 14" fill="none"
@@ -65,7 +65,7 @@ stroke-linecap="round" stroke-linejoin="round" />
 <div class="col-xl-6 col-lg-6 col-md-6 mb-30">
 <div class="it-blog-item">
 <div class="it-blog-thumb fix">
-<a href="blog-details.html"><img src="assets/img/blog/blog-1-8.jpg" alt=""></a>
+<a href="{{ route('pages.home') }}"><img src="assets/img/blog/blog-1-8.jpg" alt=""></a>
 </div>
 <div class="it-blog-content">
 <div class="it-blog-meta pb-25">
@@ -76,10 +76,10 @@ Sunilra smoth</span>
 <i class="fa-light fa-calendar-days"></i>
 March 28, 2023</span>
 </div>
-<h4 class="it-blog-title pb-5"><a href="blog-details.html">Lorem ipsum dolor sit amet,
+<h4 class="it-blog-title pb-5"><a href="{{ route('pages.home') }}">Lorem ipsum dolor sit amet,
 consectetur
 Adipiscing elit, sed do.</a></h4>
-<a class="it-btn blue-bg" href="blog-details.html">
+<a class="it-btn blue-bg" href="{{ route('pages.home') }}">
 <span>
 read more
 <svg width="17" height="14" viewBox="0 0 17 14" fill="none"
