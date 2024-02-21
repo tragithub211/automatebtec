@@ -90,6 +90,12 @@
 										<img src="{{ asset('assets/img/partners/vives-logo.jpg') }}" style="width:90%;" alt="VIVES"></a>
 								</div>
 							</div>
+							<div class="swiper-slide">
+								<div class="it-brand-item text-center">
+									<a href="https://www.u-gakugei.ac.jp/english/" target="_blank">
+										<img src="{{ asset('assets/img/partners/tgu-logo-jp.png') }}" style="width:42%;" alt="TGU"></a>
+								</div>
+							</div>
 						</div>
 					</div>
 				</div>
