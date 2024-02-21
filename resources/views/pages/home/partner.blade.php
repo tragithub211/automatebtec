@@ -32,15 +32,21 @@
 								</div>
 							</div>
 							<div class="swiper-slide">
-								<div class="it-brand-item">
+								<div class="it-brand-item text-center">
 									<a href="https://www.unicef.org/" target="_blank">
 										<img src="{{ asset('assets/img/partners/unicef-logo-en.png') }}" style="width:60%;" alt="UNICEF"></a>
 								</div>
 							</div>
 							<div class="swiper-slide">
-								<div class="it-brand-item">
+								<div class="it-brand-item text-center">
 									<a href="https://www.unesco.org/en" target="_blank">
 										<img src="{{ asset('assets/img/partners/unesco-logo-en.png') }}" style="width:100%;" alt="UNESCO"></a>
+								</div>
+							</div>
+							<div class="swiper-slide">
+								<div class="it-brand-item text-center">
+									<a href="https://www.nippon-foundation.or.jp/en" target="_blank">
+										<img src="{{ asset('assets/img/partners/nippon-foundation-logo.png') }}" style="width:45%;" alt="The Nippon Foundation"></a>
 								</div>
 							</div>
 						</div>
@@ -116,13 +122,13 @@
 							<div class="swiper-slide">
 								<div class="it-brand-item text-center">
 									<a href="http://www.nie.edu.kh/en/" target="_blank">
-										<img src="{{ asset('assets/img/partners/nie-logo.png') }}" style="width:100%;" alt="NIE"></a>
+										<img src="{{ asset('assets/img/partners/nie-logo.png') }}" style="width:100%;margin-top:55px;" alt="NIE"></a>
 								</div>
 							</div>
 							<div class="swiper-slide">
 								<div class="it-brand-item text-center">
 									<a href="https://www.ptec.edu.kh/" target="_blank">
-										<img src="{{ asset('assets/img/partners/ptec-logo.png') }}" style="width:100%;" alt="PTEC"></a>
+										<img src="{{ asset('assets/img/partners/ptec-logo.png') }}" style="width:100%;margin-top:55px;" alt="PTEC"></a>
 								</div>
 							</div>
 							<div class="swiper-slide">
@@ -140,7 +146,19 @@
 							<div class="swiper-slide">
 								<div class="it-brand-item text-center">
 									<a href="https://cambodia.vvob.org/" target="_blank">
-										<img src="{{ asset('assets/img/partners/vvob-logo.jpg') }}" style="width:100%;" alt="VVOB"></a>
+										<img src="{{ asset('assets/img/partners/vvob-logo.jpg') }}" style="width:100%;margin-top:25px;" alt="VVOB"></a>
+								</div>
+							</div>
+							<div class="swiper-slide">
+								<div class="it-brand-item text-center">
+									<a href="https://shcc.site/" target="_blank">
+										<img src="{{ asset('assets/img/partners/shcc-logo.png') }}" style="width:60%;" alt="SHCC"></a>
+								</div>
+							</div>
+							<div class="swiper-slide">
+								<div class="it-brand-item text-center">
+									<a href="https://www.esc-kizuna.com/" target="_blank">
+										<img src="{{ asset('assets/img/partners/kizuna-logo.jpg') }}" style="width:60%;" alt="KIZUNA"></a>
 								</div>
 							</div>
 						</div>
