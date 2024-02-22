@@ -30,6 +30,7 @@ Route::get('programs/faculty-science-education', [ProgramController::class, 'sci
 Route::get('programs/faculty-social-science-education', [ProgramController::class, 'socialScienceEdu'])->name('pages.social_science_edu');
 
 Route::get('programs/{faculty}/{department}', [DepartmentController::class, 'departmentDetail'])->name('pages.faculty.dept');
+Route::get('programs/{faculty}/{department}/{curriculum}', [DepartmentController::class, 'curriculumDetail'])->name('pages.faculty.dept.curriculum');
 
 Route::get('our-campus', [OurCampusController::class, 'ourCampus'])->name('pages.our_campus');
 Route::get('clubs', [OurCampusController::class, 'clubs'])->name('pages.clubs');

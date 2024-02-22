@@ -76,7 +76,7 @@
                             <a href="{{ route('pages.faculty.dept', ['faculty-social-science-education', 'social-science-dept']) }}">
                                 Department of Social Science</a>
                         </h4>
-                        <p></p>
+                        <p>Department of Social Sciences: History, Geography, Teaching Methods, Social Studies, Morality, Citizenship, Home Economics, Basic Life Skills, Education, Arts, Health Education. </p>
                     </div>
                     <div class="it-feature-3-btn">
                         <a class="it-btn" href="{{ route('pages.faculty.dept', ['faculty-social-science-education', 'social-science-dept']) }}">

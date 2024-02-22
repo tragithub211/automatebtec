@@ -11,4 +11,9 @@ class DepartmentController extends Controller
     {
         return view('pages.departments.index', compact('faculty', 'department'));
     }
+     // department-detail
+    public function curriculumDetail($faculty, $department,$curriculum)
+    {
+        return view('pages.departments.curriculum', compact('faculty', 'department','curriculum'));
+    }
 }
