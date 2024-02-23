@@ -46,7 +46,7 @@
                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 mb-50">
                     <div class="it-footer-widget footer-col-5">
                         <div class="it-footer-logo pb-25">
-                            <a href="{{ route('pages.home') }}"><img src="assets/img/logo/btec-logo-white.png" alt="{{ config('app.name', 'BTEC') }}"></a>
+                            <a href="{{ route('pages.home') }}"><img src="/assets/img/logo/btec-logo-white.png" alt="{{ config('app.name', 'BTEC') }}"></a>
                         </div>
                         <div class="it-footer-text pb-5">
                             <p>We are the teacher education institution and we provided the best teacher education services to Cambodian teachers.</p>
