@@ -102,6 +102,12 @@
 										<img src="{{ asset('assets/img/partners/tgu-logo-jp.png') }}" style="width:42%;" alt="TGU"></a>
 								</div>
 							</div>
+							<div class="swiper-slide">
+								<div class="it-brand-item text-center">
+									<a href="https://www.nara-edu.ac.jp/english/" target="_blank">
+										<img src="{{ asset('assets/img/partners/nara-university-edu-logo.jpg') }}" style="width:100%;margin-top:30px;" alt="Nara University of Education"></a>
+								</div>
+							</div>
 						</div>
 					</div>
 				</div>
