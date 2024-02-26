@@ -35,20 +35,11 @@
                 <div class="it-header-2-top-right-wrap text-end">
                     <div class="it-header-2-top-right">
                         <ul>
-                            <!--<li>
-                                <div class="it-header-2-top-right-text d-none d-md-block">
-                                    <a href="{{ route('pages.home') }}">Help /</a>
-                                    <a href="{{ route('pages.home') }}">support</a>
-                                    <a href="{{ route('pages.home') }}">/ contact</a>
-                                </div>
-                            </li>-->
                             <li>
                                 <div class="it-header-2-top-social">
                                     <a href="https://www.facebook.com/TEC.Battambang" target="_blank">
                                         <i class="fab fa-facebook-f"></i></a>
-                                    <!--<a href="#"><i class="fab fa-twitter"></i></a>
-                                    <a href="#"><i class="fab fa-skype"></i></a>
-                                    <a href="#"><i class="fab fa-linkedin"></i></a>-->
+                                    <a href="https://t.me/btecnews" target="_blank"><i class="fa-brands fa-telegram"></i></a>
                                 </div>
                             </li>
                         </ul>

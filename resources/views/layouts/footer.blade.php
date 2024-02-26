@@ -53,9 +53,7 @@
                         </div>
                         <div class="it-footer-social">
                             <a href="https://www.facebook.com/TEC.Battambang" target="_blank"><i class="fa-brands fa-facebook-f"></i></a>
-                            <!--<a href="#"><i class="fa-brands fa-instagram"></i></a>
-                            <a href="#"><i class="fa-brands fa-pinterest-p"></i></a>
-                            <a href="#"><i class="fa-brands fa-twitter"></i></a>-->
+                            <a href="https://t.me/btecnews" target="_blank"><i class="fa-brands fa-telegram"></i></a>
                         </div>
                     </div>
                 </div>
