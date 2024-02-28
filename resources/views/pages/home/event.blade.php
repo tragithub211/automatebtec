@@ -14,6 +14,117 @@ Our Events
 </div>
 </div>
 <div class="row">
+	<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+		<div class="it-event-2-item-box">
+		<div class="it-event-2-item">
+		<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
+		<a href="{{ route('pages.events.detail', ['btec-semester-1-exam']) }}">
+			<img src="{{ asset('assets/img/event/btec-semester-exam.jpg') }}" alt=""></a>
+		<!--<div class="it-event-2-date">
+		<span><i>25</i> <br> January</span>
+		</div>-->
+		</div>
+		<div class="it-event-2-content">
+		<h4 class="it-event-2-title">
+			<a href="{{ route('pages.events.detail', ['btec-semester-1-exam']) }}">ការប្រឡងឆមាសលើកទី១ របស់គរុនិស្សិតឆ្នាំទី៣ ជំនាន់ទី៣ សម័យប្រឡង ២៧ កុម្ភ: ២០២៤</a></h4>
+		<div class="it-event-2-text" style="height:200px;max-height:200px;overflow:hidden;">
+		<p class="mb-0 pb-10">នៅព្រឹកថ្ងៃអង្គារ ទី២៧ ខែកុម្ភ: ឆ្នាំ២០២៤ គណៈកម្មការមណ្ឌលប្រឡងឆមាស នៃវិទ្យាស្ថានគរុកោសល្យបាត់ដំបងបានចុះបើកកញ្ចប់វិញ្ញាសា និងបើកដំណើរការប្រឡងបញ្ចប់ឆមាសទី១របស់គរុនិស្សិត។</p>
+		</div>
+		<div class="it-event-2-meta">
+		<!--<span>
+		<i class="fa-light fa-clock"></i>
+		Time: 02:00pm 05;00pm
+		</span>-->
+		<span>
+		<a href="#">
+		<i class="fa-light fa-location-dot"></i>
+		</a>
+		Location: BTEC
+		</span>
+		</div>
+		</div>
+		</div>
+		</div>
+	</div>
+
+	<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+		<div class="it-event-2-item-box">
+		<div class="it-event-2-item">
+		<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
+		<a href="{{ route('pages.events.detail', ['btec-nihon-university-meeting']) }}">
+			<img src="{{ asset('assets/img/event/btec-nihon-university-meeting.jpg') }}" alt=""></a>
+		<!--<div class="it-event-2-date">
+		<span><i>25</i> <br> January</span>
+		</div>-->
+		</div>
+		<div class="it-event-2-content">
+		<h4 class="it-event-2-title">
+			<a href="{{ route('pages.events.detail', ['btec-nihon-university-meeting']) }}">កិច្ចពិភាក្សាតាមអនឡាញរវាងគណៈគ្រប់គ្រងនៃវិទ្យាស្ថានគរុកោសល្យបាត់ដំបង និងសាស្ដ្រចារ្យនៃសាកលវិទ្យាល័យ Nihon Fukushi នៃប្រទេសជប៉ុន (Nihon Fukushi University)</a></h4>
+		<div class="it-event-2-text" style="height:200px;max-height:200px;overflow:hidden;">
+		<p class="mb-0 pb-10">នៅថ្ងៃទី២៦ កុម្ភៈ ២០២៤ គណៈគ្រប់គ្រងវិទ្យាស្ថានគរុកោសល្យបាត់ដំបងបានជួបពិភាក្សាតាមអនឡាញជាមួយសាស្ដ្រចារ្យនៃសាកលវិទ្យាល័យ Nihon Fukushi របស់ប្រទេសជប៉ុន ដើម្បីពិភាក្សាលើគម្រោង Enhancement of ICT-Education among local model schools led by Teacher Education College។</p>
+		</div>
+		<div class="it-event-2-meta">
+		<!--<span>
+		<i class="fa-light fa-clock"></i>
+		Time: 02:00pm 05;00pm
+		</span>-->
+		<span>
+		<a href="#">
+		<i class="fa-light fa-location-dot"></i>
+		</a>
+		Location: Online
+		</span>
+		</div>
+		</div>
+		</div>
+		</div>
+	</div>
+
+	<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+		<div class="it-event-2-item-box">
+		<div class="it-event-2-item">
+		<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
+		<a href="{{ route('pages.events.detail', ['signing-mou-btec-and-nara-university-education']) }}">
+			<img src="{{ asset('assets/img/event/btec-nara-university-mou.jpg') }}" alt=""></a>
+		<!--<div class="it-event-2-date">
+		<span><i>25</i> <br> January</span>
+		</div>-->
+		</div>
+		<div class="it-event-2-content">
+		<h4 class="it-event-2-title">
+			<a href="{{ route('pages.events.detail', ['signing-mou-btec-and-nara-university-education']) }}">កិច្ចសហប្រត្តិការរវាងវិទ្យាស្ថានគរុកោសល្យបាត់ដំបង និងសាកលវិទ្យាល័យអប់រំណារ៉ា នៃប្រទេសជប៉ុន (Nara University of Education-NUE)</a></h4>
+		<div class="it-event-2-text" style="height:200px;max-height:200px;overflow:hidden;">
+		<p class="mb-0 pb-10">នៅថ្ងៃទី២០ កុម្ភៈ ២០២៤ គណៈគ្រប់គ្រងវិទ្យាស្ថានគរុកោសល្យបាត់ដំបងបានទទួលជួបប្រតិភូតំណាងសាកលវិទ្យាល័យអប់រំណារ៉ារបស់ប្រទេសជប៉ុន ដើម្បីពិភាក្សាលើការងារគន្លឹះមួយចំនួនដូចជា៖
+
+១. ការចុះសង្កេតមើលសកម្មភាពបង្រៀន និងរៀន និងហេដ្ឋារចនាសម្ព័ន្ធក្នុងវិទ្យាស្ថាន
+២. ការពិភាក្សាលើការចុះអនុស្សរណ:យោគយល់គ្នារវាង BTEC និង NUE
+៣. កម្មវិធីផ្លាស់ប្ដូរវប្បធម៌រវាងគរុនិស្សិត BTEC និងនិស្សិត NUE
+៤. ការសម្ដែងវប្បធម៌ដោយគរុនិស្សិត BTEC
+
+On February 20, 2024, BTEC management team welcome the representative of Nara University of Education-NUE. The visit involves the following activities: 
+
+1). Campus tours to observe teaching -learning activities and facilities 
+2). MoU discussion between BTEC and NUE
+3). Cultural exchange program between BTEC and NUE students
+4). Cultural performance show</p>
+		</div>
+		<div class="it-event-2-meta">
+		<!--<span>
+		<i class="fa-light fa-clock"></i>
+		Time: 02:00pm 05;00pm
+		</span>-->
+		<span>
+		<a href="#">
+		<i class="fa-light fa-location-dot"></i>
+		</a>
+		Location: BTEC
+		</span>
+		</div>
+		</div>
+		</div>
+		</div>
+	</div>
+
 	<!-- BTEC singed MOU with Buriram -->
 	<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
 		<div class="it-event-2-item-box">

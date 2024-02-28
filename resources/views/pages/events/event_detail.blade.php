@@ -30,6 +30,12 @@
         <x-events.research_conference />
     @elseif($event_title == 'signing-mou-btec-and-buriram')
         <x-events.signing_mou />
+    @elseif($event_title == 'signing-mou-btec-and-nara-university-education')
+        <x-events.signing_mou_nara_edu />
+    @elseif($event_title == 'btec-nihon-university-meeting')
+        <x-events.nihon_u_meeting />
+    @elseif($event_title == 'btec-semester-1-exam')
+        <x-events.btec_semester_exam />
     @else
         <x-events.event_detail />
     @endif
