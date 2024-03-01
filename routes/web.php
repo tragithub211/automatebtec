@@ -37,6 +37,8 @@ Route::get('clubs', [OurCampusController::class, 'clubs'])->name('pages.clubs');
 
 
 Route::get('action-research', [ActionResearchController::class, 'actionResearch'])->name('pages.action_research');
+Route::get('book_action-research', [ActionResearchController::class, 'bookResearch'])->name('pages.book_action_research');
+
 Route::get('social-services', [SocialServiceController::class, 'socialService'])->name('pages.social_service');
 Route::get('contact-us', [ContactUSController::class, 'contactUs'])->name('pages.contact_us');
 
@@ -57,4 +59,4 @@ Route::middleware('auth')->group(function () {
     Route::delete('/profile', [ProfileController::class, 'destroy'])->name('profile.destroy');
 });
 
-require __DIR__.'/auth.php';
+require __DIR__ . '/auth.php';

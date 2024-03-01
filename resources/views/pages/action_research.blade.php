@@ -30,17 +30,3 @@
 
 
 </x-btec-layout>
-
-<style>
-    .card:hover {
-        background-color: rgb(192, 192, 241) !important;
-        transition: all 0.3s;
-    }
-    .card:hover h5,
-    .card:hover p {
-        color: white !important;
-    }
-    .card:hover {
-         transform: scale(1.05);
-    }
-</style>

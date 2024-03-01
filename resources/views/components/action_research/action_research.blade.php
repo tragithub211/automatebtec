@@ -47,6 +47,22 @@
                     <p>Join us on this exciting journey of action, collaboration, and transformative change. Explore our website, connect with our community, and let's work together to unleash the power of action research!</p>
             </div>
 
+            <div class="card" style="width: 24rem;">
+                <img src="assets/book/book-action-reaserch.jpg" class="card-img-top image" alt="...">
+                <div class="card-body">
+                    <h6 class="card-title mx-0 px-1">Active-Callaboration-Authentic LEARNING</h6>
+                    <p class="card-text fs-6 mx-0 ">Participants were 112 student teachers whom the researcher has taught. The majority of first-year student teachers (85%) were cisgender women and 15% were cisgender men. The
+                        mean age of the participants was 20 years (with a standard deviation of 2.04, and an age range
+                        between 18 and 31 years.)</p>
+                    <a href="{{route('pages.book_action_research')}}" class="btn btn-primary px-4 py-2  items-center">Read Now</a>
+                 </div>
+            </div>
         </div>
     </div>
 </div>
+
+<style>
+ .image:hover {
+    transform: scale(1.02);
+    }
+</style>
