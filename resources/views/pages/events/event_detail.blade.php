@@ -36,6 +36,8 @@
         <x-events.nihon_u_meeting />
     @elseif($event_title == 'btec-semester-1-exam')
         <x-events.btec_semester_exam />
+    @elseif($event_title == 'btec-teaching-practicum-event')
+        <x-events.btec_practicum_event />
     @else
         <x-events.event_detail />
     @endif

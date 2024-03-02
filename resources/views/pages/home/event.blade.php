@@ -18,6 +18,36 @@ Our Events
 		<div class="it-event-2-item-box">
 		<div class="it-event-2-item">
 		<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
+		<a href="{{ route('pages.events.detail', ['btec-teaching-practicum-event']) }}">
+			<img src="{{ asset('assets/img/event/btec-practicum-event.jpg') }}" alt=""></a>
+		</div>
+		<div class="it-event-2-content">
+		<h4 class="it-event-2-title">
+			<a href="{{ route('pages.events.detail', ['btec-teaching-practicum-event']) }}">ពិធីបើកវគ្គកម្មសិក្សាគរុកោសល្យឆ្នាំទី៣ ជំនាន់ទី៣ នៅតាមមណ្ឌលកម្មសិក្សា</a></h4>
+		<div class="it-event-2-text" style="height:200px;max-height:200px;overflow:hidden;">
+		<p class="mb-0 pb-10">នៅថ្ងៃទី០១ ខែមីនា ឆ្នាំ២០២៤​ មានការបើកវគ្គកម្មសិក្សាគរុកោសល្យ នៅតាមមណ្ឌលកម្មសិក្សានានានៅជុំវិញខេត្តបាត់ដំបង ដែលនឹងប្រព្រឹត្តិទៅរយៈពេល ០៥សប្ដាហ៍ ចាប់ពីថ្ងៃទី០១ មីនា ២០២៤ ដល់ថ្ងៃទី ០៥ មេសា ២០២៤។</p>
+		</div>
+		<div class="it-event-2-meta">
+		<!--<span>
+		<i class="fa-light fa-clock"></i>
+		Time: 02:00pm 05;00pm
+		</span>-->
+		<!-- <span>
+		<a href="#">
+		<i class="fa-light fa-location-dot"></i>
+		</a>
+		Location: BTEC
+		</span> -->
+		</div>
+		</div>
+		</div>
+		</div>
+	</div>
+
+	<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+		<div class="it-event-2-item-box">
+		<div class="it-event-2-item">
+		<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
 		<a href="{{ route('pages.events.detail', ['btec-semester-1-exam']) }}">
 			<img src="{{ asset('assets/img/event/btec-semester-exam.jpg') }}" alt=""></a>
 		<!--<div class="it-event-2-date">
@@ -193,7 +223,7 @@ On February 20, 2024, BTEC management team welcome the representative of Nara Un
 		</div>
 	</div>
 
-	<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+	<!-- <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
 		<div class="it-event-2-item-box">
 		<div class="it-event-2-item">
 		<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
@@ -225,7 +255,7 @@ On February 20, 2024, BTEC management team welcome the representative of Nara Un
 		</div>
 		</div>
 		</div>
-	</div>
+	</div> -->
 
 	<!--<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
 	<div class="it-event-2-item-box">
