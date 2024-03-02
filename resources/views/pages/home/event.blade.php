@@ -14,6 +14,26 @@ Our Events
 </div>
 </div>
 <div class="row">
+
+	<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+		<div class="it-event-2-item-box">
+		<div class="it-event-2-item">
+		<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
+		<a href="{{ route('pages.events.detail', ['project-based-efl-learning-via-international-exchange']) }}">
+			<img src="{{ asset('assets/img/event/btec-efl-learning.jpg') }}" alt=""></a>
+		</div>
+		<div class="it-event-2-content">
+		<h4 class="it-event-2-title">
+			<a href="{{ route('pages.events.detail', ['project-based-efl-learning-via-international-exchange']) }}">Workshop on "Digital Opportunities: Project-Based EFL Learning via International Exchange"</a></h4>
+		<div class="it-event-2-text" style="height:200px;max-height:200px;overflow:hidden;">
+		<p class="mb-0 pb-10">On the 02nd March 2024, Jo Anne Kleifgen, Prof. Emerita, Teachers College, Columbia University, New York, U.S.</p>
+		</div>
+		<div class="it-event-2-meta">
+		</div>
+		</div>
+		</div>
+		</div>
+	</div>
 	<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
 		<div class="it-event-2-item-box">
 		<div class="it-event-2-item">
@@ -28,16 +48,6 @@ Our Events
 		<p class="mb-0 pb-10">នៅថ្ងៃទី០១ ខែមីនា ឆ្នាំ២០២៤​ មានការបើកវគ្គកម្មសិក្សាគរុកោសល្យ នៅតាមមណ្ឌលកម្មសិក្សានានានៅជុំវិញខេត្តបាត់ដំបង ដែលនឹងប្រព្រឹត្តិទៅរយៈពេល ០៥សប្ដាហ៍ ចាប់ពីថ្ងៃទី០១ មីនា ២០២៤ ដល់ថ្ងៃទី ០៥ មេសា ២០២៤។</p>
 		</div>
 		<div class="it-event-2-meta">
-		<!--<span>
-		<i class="fa-light fa-clock"></i>
-		Time: 02:00pm 05;00pm
-		</span>-->
-		<!-- <span>
-		<a href="#">
-		<i class="fa-light fa-location-dot"></i>
-		</a>
-		Location: BTEC
-		</span> -->
 		</div>
 		</div>
 		</div>
@@ -190,15 +200,12 @@ On February 20, 2024, BTEC management team welcome the representative of Nara Un
 	</div>
 
 	<!-- International Research Conference 2024 -->
-	<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+	<!-- <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
 		<div class="it-event-2-item-box">
 		<div class="it-event-2-item">
 		<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
 		<a href="{{ route('pages.events.detail', ['research-conference-nirc-vll-2024']) }}">
 			<img src="{{ asset('assets/img/event/research-conference-2024.jpg') }}" alt=""></a>
-		<!--<div class="it-event-2-date">
-		<span><i>25</i> <br> January</span>
-		</div>-->
 		</div>
 		<div class="it-event-2-content">
 		<h4 class="it-event-2-title">
@@ -207,10 +214,6 @@ On February 20, 2024, BTEC management team welcome the representative of Nara Un
 		<p class="mb-0 pb-10">In the morning of Feb 15, 2024, the delegation from Battambang Teacher Education College led by Dr. Chea Ratha, director of the Management Committee, participated in the 7th National and international research conference-NIRC Vll 2024 under the theme “Using the BCG Model to Drive Social Power toward Value Creation Via Creative Ecomomy" and participated also in the MoU signing ceremony between the Battambang Teacher Education College (BTEC) and Buriram Rajabhat University (BRU), Thailand.</p>
 		</div>
 		<div class="it-event-2-meta">
-		<!--<span>
-		<i class="fa-light fa-clock"></i>
-		Time: 02:00pm 05;00pm
-		</span>-->
 		<span>
 		<a href="#">
 		<i class="fa-light fa-location-dot"></i>
@@ -221,7 +224,7 @@ On February 20, 2024, BTEC management team welcome the representative of Nara Un
 		</div>
 		</div>
 		</div>
-	</div>
+	</div> -->
 
 	<!-- <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
 		<div class="it-event-2-item-box">

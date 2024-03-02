@@ -38,6 +38,8 @@
         <x-events.btec_semester_exam />
     @elseif($event_title == 'btec-teaching-practicum-event')
         <x-events.btec_practicum_event />
+    @elseif($event_title == 'project-based-efl-learning-via-international-exchange')
+        <x-events.efl_learning />
     @else
         <x-events.event_detail />
     @endif
