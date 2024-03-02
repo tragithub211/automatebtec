@@ -11,7 +11,7 @@
 <div class="postbox__meta">
 <!--<span><i class="fa-light fa-file-invoice"></i>Session 1</span>
 <span><i class="fa-light fa-clock"></i>02:00 PM - 05.00 PM</span>-->
-<span><i class="fa-light fa-location-dot"></i>Thailand</span>
+<span><i class="fa-light fa-location-dot"></i>BTEC</span>
 </div>
         <div class="it-evn-details-text mb-40">
             <p>នៅព្រឹកថ្ងៃអង្គារ ទី២៧ ខែកុម្ភ: ឆ្នាំ២០២៤ គណៈកម្មការមណ្ឌលប្រឡងឆមាស នៃវិទ្យាស្ថានគរុកោសល្យបាត់ដំបងបានចុះបើកកញ្ចប់វិញ្ញាសា និងបើកដំណើរការប្រឡងបញ្ចប់ឆមាសទី១របស់គរុនិស្សិត។</p>
