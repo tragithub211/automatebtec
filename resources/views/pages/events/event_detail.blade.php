@@ -40,6 +40,8 @@
         <x-events.btec_practicum_event />
     @elseif($event_title == 'project-based-efl-learning-via-international-exchange')
         <x-events.efl_learning />
+    @elseif($event_title == 'pisa-2022-cambodia')
+        <x-events.pisa_2022_cambodia />
     @else
         <x-events.event_detail />
     @endif
