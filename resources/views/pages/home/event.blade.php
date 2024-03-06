@@ -14,6 +14,83 @@ Our Events
 </div>
 </div>
 <div class="row">
+
+	<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+		<div class="it-event-2-item-box">
+		<div class="it-event-2-item">
+		<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
+		<a href="{{ route('pages.events.detail', ['english-course-study']) }}">
+			<img src="{{ asset('assets/img/event/english-poster-course.jpg') }}" alt=""></a>
+		<!--<div class="it-event-2-date">
+		<span><i>25</i> <br> January</span>
+		</div>-->
+		</div>
+		<div class="it-event-2-content">
+		<h4 class="it-event-2-title">
+			<a href="{{ route('pages.events.detail', ['english-course-study']) }}">វគ្គសិក្សាខ្លីទី២<br> "គរុកោសល្យក្នុងការបង្រៀនភាសាអង់គ្លេស" <br>
+			"Pedagogy in Teaching English" <br></a></h4>
+		<div class="it-event-2-text" style="height:200px;max-height:200px;overflow:hidden;">
+		<p class="mb-0 pb-10">ចុះឈ្មោះចូលរៀនជារៀងរាល់ថ្ងៃចាប់ពីថ្ងៃនេះតទៅ។ <br>
+				សូមទាក់ទងសាកសួរព័ត័មានលម្អិត និងចុះឈ្មោះចូលរៀននៅវិទ្យាស្ថានផ្ទាល់ ឬស្គែន QR Code នៅលើខិតប័ណ្ណព័ត៌មាន ឬតាមតំណភ្ជាប់ខាងក្រោម៖<br>
+				<a href="https://t.me/+Bj2wCMbm3w4zMjM1" class="text-primary txt"><span>https://t.me/+Bj2wCMbm3w4zMjM1</span></a> <br>			
+		</p>
+		</div>
+		<div class="it-event-2-meta">
+		<!--<span>
+		<i class="fa-light fa-clock"></i>
+		Time: 02:00pm 05;00pm
+		</span>-->
+		<span>
+		<a href="#">
+		<i class="fa-light fa-location-dot"></i>
+		</a>
+		Location: BTEC
+		</span>
+		</div>
+		</div>
+		</div>
+		</div>
+	</div>
+	
+	<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+		<div class="it-event-2-item-box">
+		<div class="it-event-2-item">
+		<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
+		<a href="{{ route('pages.events.detail', ['btec-short-course-study']) }}">
+			<img src="{{ asset('assets/img/event/btec-course-05.jpg') }}" alt=""></a>
+		<!--<div class="it-event-2-date">
+		<span><i>25</i> <br> January</span>
+		</div>-->
+		</div>
+		<div class="it-event-2-content">
+		<h4 class="it-event-2-title">
+			<a href="{{ route('pages.events.detail', ['btec-short-course-study']) }}">វគ្គសិក្សាខ្លីទី១ វេនចន្ទ-សុក្រ(សិក្សាផ្ទាល់) ចាប់ផ្ដើមចូលរៀនថ្ងៃដំបូងនៅថ្ងៃនេះ!</a></h4>
+		<div class="it-event-2-text" style="height:200px;max-height:200px;overflow:hidden;">
+		<p class="mb-0 pb-10">យើងនៅសល់កន្លែងទំនេរមួយចំនួនសម្រាប់ថ្នាក់ចន្ទ-សុក្រតាមអនឡាញ ដែលនឹងចាប់ផ្ដើមចូលរៀននៅថ្ងៃទី ១១ មីនា ២០២៤។ <br>
+				សូមទាក់ទងចុះឈ្មោះចូលរៀនតាមរយៈ ៖​ <br>
+				☎️ ទូរស័ព្ទលេខ ឬតេឡេក្រាម 017 448 869 / 096 32 76 997 <br>
+				🔗 តំណភ្ជាប់ក្រុមតេឡេក្រាម https://t.me/+Bj2wCMbm3w4zMjM1 <br>
+			✍️ឬទាក់ទងចុះឈ្មោះចូលរៀននៅវិទ្យាស្ថានផ្ទាល់ដែលស្ថិតនៅ វិថីសម្តេចក្រឡាហោម ស ខេង សង្កាត់រតនៈ ក្រុងបាត់ដំបង ខេត្តបាត់ដំបង <br>
+			
+		</p>
+		</div>
+		<div class="it-event-2-meta">
+		<!--<span>
+		<i class="fa-light fa-clock"></i>
+		Time: 02:00pm 05;00pm
+		</span>-->
+		<span>
+		<a href="#">
+		<i class="fa-light fa-location-dot"></i>
+		</a>
+		Location: BTEC
+		</span>
+		</div>
+		</div>
+		</div>
+		</div>
+	</div>
+
 	<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
 		<div class="it-event-2-item-box">
 		<div class="it-event-2-item">
@@ -191,44 +268,9 @@ On February 20, 2024, BTEC management team welcome the representative of Nara Un
 		</div>
 	</div>
 
-	<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
-		<div class="it-event-2-item-box">
-		<div class="it-event-2-item">
-		<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
-		<a href="{{ route('pages.events.detail', ['signing-mou-btec-and-nara-university-education']) }}">
-			<img src="{{ asset('assets/img/event/btec-course-05.jpg') }}" alt=""></a>
-		<!--<div class="it-event-2-date">
-		<span><i>25</i> <br> January</span>
-		</div>-->
-		</div>
-		<div class="it-event-2-content">
-		<h4 class="it-event-2-title">
-			<a href="{{ route('pages.events.detail', ['btec-short-course-study']) }}">វគ្គសិក្សាខ្លីទី១ វេនចន្ទ-សុក្រ(សិក្សាផ្ទាល់) ចាប់ផ្ដើមចូលរៀនថ្ងៃដំបូងនៅថ្ងៃនេះ!</a></h4>
-		<div class="it-event-2-text" style="height:200px;max-height:200px;overflow:hidden;">
-		<p class="mb-0 pb-10">យើងនៅសល់កន្លែងទំនេរមួយចំនួនសម្រាប់ថ្នាក់ចន្ទ-សុក្រតាមអនឡាញ ដែលនឹងចាប់ផ្ដើមចូលរៀននៅថ្ងៃទី ១១ មីនា ២០២៤។ <br>
-				សូមទាក់ទងចុះឈ្មោះចូលរៀនតាមរយៈ ៖​ <br>
-				☎️ ទូរស័ព្ទលេខ ឬតេឡេក្រាម 017 448 869 / 096 32 76 997 <br>
-				🔗 តំណភ្ជាប់ក្រុមតេឡេក្រាម https://t.me/+Bj2wCMbm3w4zMjM1 <br>
-			✍️ឬទាក់ទងចុះឈ្មោះចូលរៀននៅវិទ្យាស្ថានផ្ទាល់ដែលស្ថិតនៅ វិថីសម្តេចក្រឡាហោម ស ខេង សង្កាត់រតនៈ ក្រុងបាត់ដំបង ខេត្តបាត់ដំបង <br>
-			
-		</p>
-		</div>
-		<div class="it-event-2-meta">
-		<!--<span>
-		<i class="fa-light fa-clock"></i>
-		Time: 02:00pm 05;00pm
-		</span>-->
-		<span>
-		<a href="#">
-		<i class="fa-light fa-location-dot"></i>
-		</a>
-		Location: BTEC
-		</span>
-		</div>
-		</div>
-		</div>
-		</div>
-	</div>
+	
+
+
 
 	<!-- BTEC singed MOU with Buriram -->
 	<!-- <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
@@ -373,3 +415,9 @@ On February 20, 2024, BTEC management team welcome the representative of Nara Un
 </div>
 </div>
 <!-- event-area-end -->
+
+<style>
+    .txt:hover {
+    text-decoration: underline;
+}
+</style>

@@ -5,7 +5,7 @@
 <div class="col-xl-12 col-lg-12">
 <div class="it-evn-details-wrap">
 <div class="it-evn-details-thumb mb-35">
-<img src="{{ asset('assets/img/event/assets/img/event/btec-course-05.jpg') }}" alt="">
+<img src="{{ asset('assets/img/event/btec-course-05.jpg') }}" alt="">
 </div>
 <h4 class="it-evn-details-title">វគ្គសិក្សាខ្លីទី១ វេនចន្ទ-សុក្រ(សិក្សាផ្ទាល់) ចាប់ផ្ដើមចូលរៀនថ្ងៃដំបូងនៅថ្ងៃនេះ!</h4>
 <div class="postbox__meta">

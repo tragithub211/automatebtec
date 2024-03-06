@@ -44,6 +44,8 @@
         <x-events.pisa_2022_cambodia />
     @elseif($event_title =='btec-short-course-study')
         <x-events.btec_short_course />
+    @elseif($event_title =='english-course-study')
+        <x-events.english_short_course />
     @else
         <x-events.event_detail />
     @endif
