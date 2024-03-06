@@ -26,6 +26,10 @@
         </div>
     </div>
 
-    <x-courses.course_detail />
+    @if($course_title == 'pedagogical-in-teaching-english')
+        <x-courses.pedagogy-in-teaching-english />
+    @else
+        <x-courses.course_detail />
+    @endif
 
 </x-btec-layout>

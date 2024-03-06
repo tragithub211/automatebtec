@@ -35,6 +35,33 @@ stroke-linecap="round" stroke-linejoin="round" />
 </div>
 <div class="row">
 	<div class="col-xl-6 col-lg-6">
+		<div class="it-course-2-wrap d-flex align-items-center">
+			<div class="it-course-thumb  p-relative">
+				<a class="fix" href="{{ route('pages.courses.detail', ['pedagogical-in-teaching-english']) }}">
+					<img src="{{ asset('assets/img/event/english-poster-course.jpg') }}" style="width:228px;" alt="">
+				</a>
+				<div class="it-course-thumb-text"></div>
+			</div>
+			<div class="it-course-content">
+				<h4 class="it-course-title pb-15">
+					<a href="{{ route('pages.courses.detail', ['pedagogical-in-teaching-english']) }}">
+						វគ្គសិក្សាខ្លីទី២៖ "គរុកោសល្យក្នុងការបង្រៀនភាសាអង់គ្លេស / Pedagogy in Teaching English"
+					</a>
+				</h4>
+				<p class="mb-0" style="font-size:16px;">Schedules:</p>
+				<p class="mb-0" style="font-size:14px;"><strong>Mon - Fri</strong>: 5:00pm - 6:00pm & 6:30pm - 8:00pm</p>
+				<p class="mb-0" style="font-size:14px;"><strong>Sat - Sun</strong>: 9:00am - 12:00am & 1:00pm - 4:00pm & 5:00pm - 8:00pm</p>
+
+				<p class="mb-0" style="font-size:16px;">Deadline: <strong>17 March 2024</strong></p>
+
+				<div class="it-course-info pb-20 mb-25 d-flex justify-content-between"></div>
+				<div class="it-course-price-box d-flex justify-content-between"><span>$55</span></div>
+			</div>
+		</div>
+	</div>
+
+
+	<div class="col-xl-6 col-lg-6">
 	<div class="it-course-2-wrap d-flex align-items-center">
 	<div class="it-course-thumb  p-relative">
 	<a class="fix" href="{{ route('pages.courses.detail', ['pedagogical-and-teaching-methods']) }}"><img src="{{ asset('assets/img/course/course-01.jpg') }}" alt=""></a>

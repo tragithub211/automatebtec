@@ -8,6 +8,6 @@ class CourseController extends Controller
 {
     //
     public function courseDetail($course_title) {
-        return view('pages.courses.course_detail');
+        return view('pages.courses.course_detail', compact('course_title'));
     }
 }
