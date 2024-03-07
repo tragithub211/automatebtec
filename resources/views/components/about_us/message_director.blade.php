@@ -5,7 +5,7 @@
             <div class="col-xl-4 col-lg-4">
                 <div class="it-about-4-thumb-wrap d-flex align-items-center justify-content-center justify-content-lg-end">
                     <div class="it-about-4-thumb-single">
-                        <img src="{{ asset('assets/img/about/btec-director.jpg') }}" style="border-radius:0;" alt="">
+                        <img src="{{ asset('assets/img/about/btec-director-new.jpg') }}" style="border-radius:0;" alt="">
                     </div>
                 </div>
             </div>
