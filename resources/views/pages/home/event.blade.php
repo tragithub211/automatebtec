@@ -14,6 +14,30 @@ Our Events
 </div>
 </div>
 <div class="row">
+	<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+		<div class="it-event-2-item-box">
+		<div class="it-event-2-item">
+		<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
+		<a href="{{ route('pages.events.detail', ['exchange-session-between-tgu-and-btec-students']) }}">
+			<img src="{{ asset('assets/img/event/btec-exchange-session-with-tgu.jpg') }}" alt=""></a>
+		</div>
+		<div class="it-event-2-content">
+		<h4 class="it-event-2-title">
+			<a href="{{ route('pages.events.detail', ['exchange-session-between-tgu-and-btec-students']) }}">
+				កម្មវិធីផ្លាស់ប្ដូររវាងគរុនិស្សិតខ្មែរ និងជប៉ុន ឆ្នាំ ២០២៤
+			</a>
+		</h4>
+		<div class="it-event-2-text" style="height:200px;max-height:200px;overflow:hidden;">
+		<p class="mb-0 pb-10">
+			នៅថ្ងៃទី០៦ ខែមីនា ឆ្នាំ២០២៤ គណៈគ្រប់គ្រងវិទ្យាស្ថានគរុកោសល្យបាត់ដំបងបានទទួលជួបស្វាគមន៍គណៈប្រតិភូពីសាកលវិទ្យាល័យTGU (Tokyo Gakugei University)ប្រទេសជប៉ុន ក្នុងក្របខណ្ឌនៃការអនុវត្តគម្រោងសុខភាពនៅសាលារៀនសម្រាប់ក្មេងកម្ពុជាទាំងអស់ SHCC (School Health for all Cambodian Chilrdren) និងបើកកម្មវិធីផ្លាស់ប្តូរវប្បធម៌រវាងនិស្សិតនៃសាកលវិទ្យាល័យTGU និងគរុនិស្សិតនៃវិទ្យាស្ថានគរុកោសល្យបាត់ដំបង។
+		</p>
+		</div>
+		<div class="it-event-2-meta">
+		</div>
+		</div>
+		</div>
+		</div>
+	</div>
 
 	<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
 		<div class="it-event-2-item-box">
