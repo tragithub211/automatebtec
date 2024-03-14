@@ -24,7 +24,7 @@
                                         <li><a href="{{ route('pages.organizational_chart') }}">Organizational Chart</a></li>
                                         <li><a href="{{ route('pages.logo_meaning') }}">Logo Meaning</a></li>
                                         <li><a href="{{ route('pages.btec_history') }}">History</a></li>
-                                        <!--<li><a href="{{ route('pages.home') }}">Logo Meaning</a></li>-->
+                                        <li><a href="{{ route('pages.management_team') }}">Management Team</a></li>
                                     </ul>
                                 </li>
                                 <li class="has-dropdown {{ (Route::is('pages.program') or Route::is('pages.pedagogy_research') or Route::is('pages.science_edu') or Route::is('pages.social_science_edu')) ? 'active' : '' }}">

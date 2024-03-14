@@ -39,4 +39,14 @@ class AboutUSController extends Controller
     {
         return view('pages.about_us.btec_history');
     }
+
+    public function managementTeam()
+    {
+        return view('pages.about_us.management_team');
+    }
+
+    public function managementTeamDetail()
+    {
+        return view('pages.about_us.management_team_detail');
+    }
 }
