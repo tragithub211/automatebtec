@@ -50,6 +50,8 @@
         <x-events.exchange_session_tgu />
     @elseif($event_title =='btec-management-meeting')
         <x-events.btec_management_meeting />
+    @elseif($event_title =='btec-anusa-hall')
+        <x-events.btec_anusa_hall />
     @else
         <x-events.event_detail />
     @endif

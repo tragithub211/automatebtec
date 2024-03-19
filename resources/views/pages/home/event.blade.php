@@ -18,6 +18,28 @@ Our Events
 		<div class="it-event-2-item-box">
 		<div class="it-event-2-item">
 		<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
+		<a href="{{ route('pages.events.detail', ['btec-anusa-hall']) }}">
+			<img src="{{ asset('assets/img/event/btec-anusa-hall.jpg') }}" alt=""></a>
+		</div>
+		<div class="it-event-2-content">
+		<h4 class="it-event-2-title">
+			<a href="{{ route('pages.events.detail', ['btec-anusa-hall']) }}">
+				សាលអនុស្សា នៃវិទ្យាស្ថានគរុកោសល្យបាត់ដំបង
+			</a>
+		</h4>
+		<div class="it-event-2-text" style="height:200px;max-height:200px;overflow:hidden;">
+			<p class="mb-0 pb-10">ព្រឹកថ្ងៃទី១៨ ខែមីនា ឆ្នាំ២០២៤ វិទ្យាស្ថានគរុកោសល្យបាត់ដំបង បានរៀបចំសម្ពោធសាលអនុស្សា ក្រោមអធិបតីភាពដ៏ខ្ពង់ខ្ពស់ឯកឧត្តម បណ្ឌិតសភាចារ្យ ហង់ជួន ណារ៉ុន ឧបនាយករដ្ឋមន្រ្តី រដ្ឋមន្ត្រីក្រសួងអប់រំ យុវជន និងកីឡា។ ការបង្កើតសាលអនុស្សា នេះត្រូវបានធ្វើឡើងនៅក្នុងអគារបុរាណ អ៊ាប ឃុត នៃវិទ្យាស្ថានគរុកោសល្យបាត់ដំបងផ្ទាល់។ សាលនេះត្រូវបានបង្កើតឡើងក្នុងគោលបំណង បង្ហាញនូវអនុស្សាវរីយ៍ និងរលឹកដល់ការចងចាំចំពោះវីរជនទាំងអស់ដែលបានជួយជ្រោមជ្រែងក្នុងការបង្កើត និងអភិវឌ្ឍវិទ្យាស្ថានគរុកោសល្យបាត់ដំបងពីឆ្នាំ១៩៧៩ រហូតមកដល់បច្ចុប្បន្ន។ លើសពីនេះទៅទៀត សាលនេះបានបង្ហាញផងដែរនូវឧបករណ៍មួយចំនួន ដែលបានយកមកប្រើប្រាស់នៅក្នុងការងារអប់រំពីអតីតកាលផងដែរ។</p>
+		</div>
+		<div class="it-event-2-meta"></div>
+		</div>
+		</div>
+		</div>
+	</div>
+
+	<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+		<div class="it-event-2-item-box">
+		<div class="it-event-2-item">
+		<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
 		<a href="{{ route('pages.events.detail', ['btec-management-meeting']) }}">
 			<img src="{{ asset('assets/img/event/btec-management-meeting.jpg') }}" alt=""></a>
 		</div>
@@ -189,7 +211,7 @@ Our Events
 		</div>
 	</div>
 
-	<!-- <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+	<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
 		<div class="it-event-2-item-box">
 		<div class="it-event-2-item">
 		<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
@@ -213,7 +235,7 @@ Our Events
 		</div>
 		</div>
 		</div>
-	</div> -->
+	</div>
 
 	<!-- <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
 		<div class="it-event-2-item-box">
