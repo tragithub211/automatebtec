@@ -48,6 +48,8 @@
         <x-events.english_short_course />
     @elseif($event_title =='exchange-session-between-tgu-and-btec-students')
         <x-events.exchange_session_tgu />
+    @elseif($event_title =='btec-management-meeting')
+        <x-events.btec_management_meeting />
     @else
         <x-events.event_detail />
     @endif

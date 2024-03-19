@@ -18,6 +18,28 @@ Our Events
 		<div class="it-event-2-item-box">
 		<div class="it-event-2-item">
 		<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
+		<a href="{{ route('pages.events.detail', ['btec-management-meeting']) }}">
+			<img src="{{ asset('assets/img/event/btec-management-meeting.jpg') }}" alt=""></a>
+		</div>
+		<div class="it-event-2-content">
+		<h4 class="it-event-2-title">
+			<a href="{{ route('pages.events.detail', ['btec-management-meeting']) }}">
+				កិច្ចប្រជុំក្រុមប្រឹក្សាភិបាលវិទ្យាស្ថានគរុកោសល្យបាត់ដំបង
+			</a>
+		</h4>
+		<div class="it-event-2-text" style="height:200px;max-height:200px;overflow:hidden;">
+			<p class="mb-0 pb-10">កិច្ចប្រជុំក្រុមប្រឹក្សាភិបាលវិទ្យាស្ថានគរុកោសល្យបាត់ដំបង ក្រោមអធិបតីភាពដ៏ខ្ពង់ខ្ពស់ ឯកឧត្តម បណ្ឌិតសភាចារ្យ ហង់ជួន ណារ៉ុន ឧបនាយករដ្ឋមន្រ្តី រដ្ឋមន្រ្តីក្រសួងអប់រំ យុវជន និងកីឡា</p>
+		</div>
+		<div class="it-event-2-meta"></div>
+		</div>
+		</div>
+		</div>
+	</div>
+
+	<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+		<div class="it-event-2-item-box">
+		<div class="it-event-2-item">
+		<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
 		<a href="{{ route('pages.events.detail', ['exchange-session-between-tgu-and-btec-students']) }}">
 			<img src="{{ asset('assets/img/event/btec-exchange-session-with-tgu.jpg') }}" alt=""></a>
 		</div>
@@ -45,9 +67,6 @@ Our Events
 		<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
 		<a href="{{ route('pages.events.detail', ['english-course-study']) }}">
 			<img src="{{ asset('assets/img/event/english-poster-course.jpg') }}" alt=""></a>
-		<!--<div class="it-event-2-date">
-		<span><i>25</i> <br> January</span>
-		</div>-->
 		</div>
 		<div class="it-event-2-content">
 		<h4 class="it-event-2-title">
@@ -60,10 +79,6 @@ Our Events
 		</p>
 		</div>
 		<div class="it-event-2-meta">
-		<!--<span>
-		<i class="fa-light fa-clock"></i>
-		Time: 02:00pm 05;00pm
-		</span>-->
 		<span>
 		<a href="#">
 		<i class="fa-light fa-location-dot"></i>
@@ -82,9 +97,6 @@ Our Events
 		<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
 		<a href="{{ route('pages.events.detail', ['btec-short-course-study']) }}">
 			<img src="{{ asset('assets/img/event/btec-course-05.jpg') }}" alt=""></a>
-		<!--<div class="it-event-2-date">
-		<span><i>25</i> <br> January</span>
-		</div>-->
 		</div>
 		<div class="it-event-2-content">
 		<h4 class="it-event-2-title">
@@ -99,10 +111,6 @@ Our Events
 		</p>
 		</div>
 		<div class="it-event-2-meta">
-		<!--<span>
-		<i class="fa-light fa-clock"></i>
-		Time: 02:00pm 05;00pm
-		</span>-->
 		<span>
 		<a href="#">
 		<i class="fa-light fa-location-dot"></i>
@@ -181,15 +189,12 @@ Our Events
 		</div>
 	</div>
 
-	<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+	<!-- <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
 		<div class="it-event-2-item-box">
 		<div class="it-event-2-item">
 		<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
 		<a href="{{ route('pages.events.detail', ['btec-semester-1-exam']) }}">
 			<img src="{{ asset('assets/img/event/btec-semester-exam.jpg') }}" alt=""></a>
-		<!--<div class="it-event-2-date">
-		<span><i>25</i> <br> January</span>
-		</div>-->
 		</div>
 		<div class="it-event-2-content">
 		<h4 class="it-event-2-title">
@@ -198,10 +203,6 @@ Our Events
 		<p class="mb-0 pb-10">នៅព្រឹកថ្ងៃអង្គារ ទី២៧ ខែកុម្ភ: ឆ្នាំ២០២៤ គណៈកម្មការមណ្ឌលប្រឡងឆមាស នៃវិទ្យាស្ថានគរុកោសល្យបាត់ដំបងបានចុះបើកកញ្ចប់វិញ្ញាសា និងបើកដំណើរការប្រឡងបញ្ចប់ឆមាសទី១របស់គរុនិស្សិត។</p>
 		</div>
 		<div class="it-event-2-meta">
-		<!--<span>
-		<i class="fa-light fa-clock"></i>
-		Time: 02:00pm 05;00pm
-		</span>-->
 		<span>
 		<a href="#">
 		<i class="fa-light fa-location-dot"></i>
@@ -212,17 +213,14 @@ Our Events
 		</div>
 		</div>
 		</div>
-	</div>
+	</div> -->
 
-	<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+	<!-- <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
 		<div class="it-event-2-item-box">
 		<div class="it-event-2-item">
 		<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
 		<a href="{{ route('pages.events.detail', ['btec-nihon-university-meeting']) }}">
 			<img src="{{ asset('assets/img/event/btec-nihon-university-meeting.jpg') }}" alt=""></a>
-		<!--<div class="it-event-2-date">
-		<span><i>25</i> <br> January</span>
-		</div>-->
 		</div>
 		<div class="it-event-2-content">
 		<h4 class="it-event-2-title">
@@ -231,10 +229,6 @@ Our Events
 		<p class="mb-0 pb-10">នៅថ្ងៃទី២៦ កុម្ភៈ ២០២៤ គណៈគ្រប់គ្រងវិទ្យាស្ថានគរុកោសល្យបាត់ដំបងបានជួបពិភាក្សាតាមអនឡាញជាមួយសាស្ដ្រចារ្យនៃសាកលវិទ្យាល័យ Nihon Fukushi របស់ប្រទេសជប៉ុន ដើម្បីពិភាក្សាលើគម្រោង Enhancement of ICT-Education among local model schools led by Teacher Education College។</p>
 		</div>
 		<div class="it-event-2-meta">
-		<!--<span>
-		<i class="fa-light fa-clock"></i>
-		Time: 02:00pm 05;00pm
-		</span>-->
 		<span>
 		<a href="#">
 		<i class="fa-light fa-location-dot"></i>
@@ -245,17 +239,14 @@ Our Events
 		</div>
 		</div>
 		</div>
-	</div>
+	</div> -->
 
-	<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+	<!-- <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
 		<div class="it-event-2-item-box">
 		<div class="it-event-2-item">
 		<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
 		<a href="{{ route('pages.events.detail', ['signing-mou-btec-and-nara-university-education']) }}">
 			<img src="{{ asset('assets/img/event/btec-nara-university-mou.jpg') }}" alt=""></a>
-		<!--<div class="it-event-2-date">
-		<span><i>25</i> <br> January</span>
-		</div>-->
 		</div>
 		<div class="it-event-2-content">
 		<h4 class="it-event-2-title">
@@ -276,10 +267,6 @@ On February 20, 2024, BTEC management team welcome the representative of Nara Un
 4). Cultural performance show</p>
 		</div>
 		<div class="it-event-2-meta">
-		<!--<span>
-		<i class="fa-light fa-clock"></i>
-		Time: 02:00pm 05;00pm
-		</span>-->
 		<span>
 		<a href="#">
 		<i class="fa-light fa-location-dot"></i>
@@ -290,7 +277,7 @@ On February 20, 2024, BTEC management team welcome the representative of Nara Un
 		</div>
 		</div>
 		</div>
-	</div>
+	</div> -->
 
 	
 
