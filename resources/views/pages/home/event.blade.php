@@ -14,6 +14,27 @@ Our Events
 </div>
 </div>
 <div class="row">
+	<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+		<div class="it-event-2-item-box">
+		<div class="it-event-2-item">
+		<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
+		<a href="{{ route('pages.events.detail', ['btec-receive-ict-equipment-donation-from-jica']) }}">
+			<img src="{{ asset('assets/img/event/ict-equipment-handover-jica.jpg') }}" alt=""></a>
+		</div>
+		<div class="it-event-2-content">
+		<h4 class="it-event-2-title">
+			<a href="{{ route('pages.events.detail', ['btec-receive-ict-equipment-donation-from-jica']) }}">
+				BTEC Receives Generous ICT Equipment Donation from JICA
+			</a>
+		</h4>
+		<div class="it-event-2-text" style="height:200px;max-height:200px;overflow:hidden;">
+			<p class="mb-0 pb-10">We are thrilled to announce that Battambang Teacher Education College (BTEC) has received a remarkable donation of ICT equipment from the Japan International Cooperation Agency (JICA). The donation includes 60 computer desktop systems, 4 laptops, 4 sets of desktops, 4 sets of LCD projectors, and 2 printers. This contribution will enhance the learning experience for our student teachers and faculty members.</p>
+		</div>
+		<div class="it-event-2-meta"></div>
+		</div>
+		</div>
+		</div>
+	</div>
 
 	<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
 		<div class="it-event-2-item-box">
