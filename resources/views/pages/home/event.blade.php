@@ -14,6 +14,29 @@ Our Events
 </div>
 </div>
 <div class="row">
+
+	<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+		<div class="it-event-2-item-box">
+		<div class="it-event-2-item">
+		<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
+		<a href="{{ route('pages.events.detail', ['btec-auf-meeting']) }}">
+			<img src="{{ asset('assets/img/event/btec-auf-meet-6.jpg') }}" alt=""></a>
+		</div>
+		<div class="it-event-2-content">
+		<h4 class="it-event-2-title">
+			<a href="{{ route('pages.events.detail', ['btec-auf-meeting']) }}">
+				កិច្ចប្រជុំពិភាក្សាស្តីអំពីកិច្ចការងារហ្រ្វង់កូហ្វូនី ជាមួយ Prof. Dr. Laurent Sermet នាយកតំបន់អាស៊ីប៉ាស៊ីហ្វិក នៃទីភ្នាក់ងារសាកលវិទ្យាល័យហ្រ្វង់កូហ្វូនី (AUF)។
+			</a>
+		</h4>
+		<div class="it-event-2-text" style="height:200px;max-height:200px;overflow:hidden;">
+			<p class="mb-0 pb-10">១៩ មីនា ២០២៤ l វិទ្យាស្ថានគរុកោសល្យបាត់ដំបង។ កិច្ចប្រជុំពិភាក្សាស្តីអំពីកិច្ចការងារហ្រ្វង់កូហ្វូនី ជាមួយ Prof. Dr. Laurent Sermet នាយកតំបន់អាស៊ីប៉ាស៊ីហ្វិក នៃទីភ្នាក់ងារសាកលវិទ្យាល័យហ្រ្វង់កូហ្វូនី (AUF)។</p>
+		</div>
+		<div class="it-event-2-meta"></div>
+		</div>
+		</div>
+		</div>
+	</div>
+
 	<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
 		<div class="it-event-2-item-box">
 		<div class="it-event-2-item">

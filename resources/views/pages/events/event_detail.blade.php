@@ -52,6 +52,8 @@
         <x-events.btec_management_meeting />
     @elseif($event_title =='btec-anusa-hall')
         <x-events.btec_anusa_hall />
+    @elseif($event_title =='btec-auf-meeting')
+        <x-events.btec_auf_meeting />
     @else
         <x-events.event_detail />
     @endif
