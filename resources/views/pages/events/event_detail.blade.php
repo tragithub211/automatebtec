@@ -56,8 +56,13 @@
         <x-events.btec_auf_meeting />
     @elseif($event_title =='btec-receive-ict-equipment-donation-from-jica')
         <x-events.ict_equipment_handover_jica />
+    
+    @elseif($event_title =='rdi-ecosystem-hifher-education')
+        <x-events.rdi_ecosystem_higher_education />
     @else
         <x-events.event_detail />
     @endif
 
 </x-btec-layout>
+
+//rdi-ecosystem-higher-education.blade

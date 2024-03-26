@@ -14,6 +14,39 @@ Our Events
 </div>
 </div>
 <div class="row">
+
+	<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+		<div class="it-event-2-item-box">
+		<div class="it-event-2-item">
+		<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
+		<a href="{{ route('pages.events.detail', ['rdi-ecosystem-hifher-education']) }}">
+			<img src="{{ asset('assets/img/event/rdi-ecosystem-hifher-education.jpg') }}" alt=""></a>
+		</div>
+		<div class="it-event-2-content">
+		<h4 class="it-event-2-title">
+			<a href="{{ route('pages.events.detail', ['rdi-ecosystem-hifher-education']) }}">
+				សិក្ខាសាលាចែករំលែក<br>
+
+				ស្ដីពី "ប្រព័ន្ធអេកូឡូស៊ីនៃការស្រាវជ្រាវ អភិវឌ្ឍន៍ និងនវានុវត្តន៍ ថ្នាក់ឧត្ដមសិក្សា"
+			</a>
+		</h4>
+		<div class="it-event-2-text" style="height:200px;max-height:200px;overflow:hidden;">
+			<p class="mb-0 pb-10">វាគ្មិនកិត្តិយស៖ លោកបណ្ឌិត ជា រដ្ឋា <br> ប្រធានគណៈគ្រប់គ្រងនៃវិទ្យាស្ថានគរុកោសល្យបាត់ដំបង<br>
+
+			កាលបរិច្ឆេទ៖ ២៨ មីនា ២០២៤ វេលាម៉ោង ២:០០នាទី រសៀល<br>
+
+			ចូលរួមដោយសេរី និងឥតគិតថ្លៃ<br>
+
+			ដើម្បីចុះឈ្មោះ សូមស្គែន QR code នៅលើខិត្តបណ្ណ ឬចុចតំណភ្ជាប់ខាងក្រោម៖<br>
+
+			<a href="https://forms.gle/F1aQAhtvV31fof2L8">https://forms.gle/F1aQAhtvV31fof2L8</a> </p>
+		</div>
+		<div class="it-event-2-meta"></div>
+		</div>
+		</div>
+		</div>
+	</div>
+
 	<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
 		<div class="it-event-2-item-box">
 		<div class="it-event-2-item">
