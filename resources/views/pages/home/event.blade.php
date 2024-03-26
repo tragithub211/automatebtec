@@ -19,12 +19,12 @@ Our Events
 		<div class="it-event-2-item-box">
 		<div class="it-event-2-item">
 		<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
-		<a href="{{ route('pages.events.detail', ['rdi-ecosystem-hifher-education']) }}">
+		<a href="{{ route('pages.events.detail', ['rdi-ecosystem-higher-education']) }}">
 			<img src="{{ asset('assets/img/event/rdi-ecosystem-hifher-education.jpg') }}" alt=""></a>
 		</div>
 		<div class="it-event-2-content">
 		<h4 class="it-event-2-title">
-			<a href="{{ route('pages.events.detail', ['rdi-ecosystem-hifher-education']) }}">
+			<a href="{{ route('pages.events.detail', ['rdi-ecosystem-higher-education']) }}">
 				សិក្ខាសាលាចែករំលែក<br>
 
 				ស្ដីពី "ប្រព័ន្ធអេកូឡូស៊ីនៃការស្រាវជ្រាវ អភិវឌ្ឍន៍ និងនវានុវត្តន៍ ថ្នាក់ឧត្ដមសិក្សា"
