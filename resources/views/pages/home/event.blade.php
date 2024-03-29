@@ -19,6 +19,99 @@ Our Events
 		<div class="it-event-2-item-box">
 		<div class="it-event-2-item">
 		<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
+		<a href="{{ route('pages.events.detail', ['technology-training-teaching']) }}">
+			<img src="{{ asset('assets/img/event/technology-training-teaching-1.jpg') }}" alt=""></a>
+		</div>
+		<div class="it-event-2-content">
+		<h4 class="it-event-2-title">
+			<a href="{{ route('pages.events.detail', ['technology-training-teaching']) }}">
+				ការបណ្ដុះបណ្ដាលអំពីបច្ចេកវិទ្យាសម្រាប់ការបង្រៀននិងរៀន (វគ្គ២)
+			</a>
+		</h4>
+		<div class="it-event-2-text" style="height:200px;max-height:200px;overflow:hidden;">
+			<p class="mb-0 pb-10">នៅថ្ងៃទី២២ ខែមីនា ឆ្នាំ២០២៤ លោកគ្រូអ្នកគ្រូនៃសាលាបឋមសិក្សាអនុវត្ដន៍ និងអនុវិទ្យាល័យអនុវត្ដន៍នៃវិទ្យាស្ថានគរុកោសល្យបាត់ដំបង បានទទួលការបណ្ដុះបណ្ដាលអំពីបច្ចេកវិទ្យាសម្រាប់ការបង្រៀននិងរៀន វគ្គទី២ នៅវិទ្យាស្ថានគរុកោសល្យបាត់ដំបង។ ការបណ្ដុះបណ្ដាលនេះ រៀបចំឡើងដោយដេប៉ាតឺម៉ង់បច្ចេកវិទ្យាព័ត៌មាននិងសារគមនាគមន៍នៃវិទ្យាស្ថានគរុកោសល្យបាត់ដំបង ដើម្បីលើកកម្ពស់សមត្ថភាពគ្រូបង្រៀនក្នុងការប្រើប្រាស់ ICT  ក្នុងបង្រៀននិងរៀននៅសាលាអនុវត្ដន៍ទាំងពីរ។</p>
+		</div>
+		<div class="it-event-2-meta"></div>
+		</div>
+		</div>
+		</div>
+	</div>
+	
+	<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+		<div class="it-event-2-item-box">
+		<div class="it-event-2-item">
+		<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
+		<a href="{{ route('pages.events.detail', ['workshop-law-public-financial-management-reform']) }}">
+			<img src="{{ asset('assets/img/event/workshop-law-public-financial-management-reform-6.jpg') }}" alt=""></a>
+		</div>
+		<div class="it-event-2-content">
+		<h4 class="it-event-2-title">
+			<a href="{{ route('pages.events.detail', ['workshop-law-public-financial-management-reform']) }}">
+				សិក្ខាសាលាស្តីពីច្បាប់ និងការកែទម្រង់ការគ្រប់គ្រងហិរញ្ញវត្ថុសាធារណៈ
+			</a>
+		</h4>
+		<div class="it-event-2-text" style="height:200px;max-height:200px;overflow:hidden;">
+			<p class="mb-0 pb-10">នៅព្រឹកថ្ងៃទី២៣ ខែមីនា ឆ្នាំ២០២៤ ក្រុមប្រឹក្សានិតិកម្មនៃក្រសួងសេដ្ឋកិច្ច និងហិរញ្ញវត្ថុ សហការជាមួយវិទ្យាស្ថានគរុកោសល្យបាត់ដំបង បានរៀបចំសិក្ខាសាលាស្តីពីច្បាប់ និងការកែទម្រង់ការគ្រប់គ្រងហិរញ្ញវត្ថុសាធារណៈ ក្រោមអធិបតីភាព ឯកឧត្តមបណ្ឌិត ហ៊ែល ចំរើន រដ្ឋលេខាធិការ និងជាអនុប្រធានអចិន្ត្រៃយ៍នៃក្រុមប្រឹក្សានីតិកម្មនៃក្រសួងសេដ្ឋកិច្ច និងហិរញ្ញវត្ថុ។
+			សិក្ខាកាមនៃសិក្ខាសាលានេះមានគណៈគ្រប់គ្រង គ្រូឧទ្ទេស និងគរុនិស្សិតនៃវិទ្យាស្ថានគរុកោសល្យបាត់ដំបង ដែលមានចំនួនសរុប ១៤០ នាក់។</p>
+		</div>
+		<div class="it-event-2-meta"></div>
+		</div>
+		</div>
+		</div>
+	</div>
+
+	<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+		<div class="it-event-2-item-box">
+		<div class="it-event-2-item">
+		<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
+		<a href="{{ route('pages.events.detail', ['rdi-pics']) }}">
+			<img src="{{ asset('assets/img/event/rdi-pic-1.jpg') }}" alt=""></a>
+		</div>
+		<div class="it-event-2-content">
+		<h4 class="it-event-2-title">
+			<a href="{{ route('pages.events.detail', ['rdi-pics']) }}">
+				កម្រងរូបភាពនៃសិក្ខាសាលា <br>
+				ស្ដីពី "ប្រព័ន្ធអេកូឡូស៊ីនៃការស្រាវជ្រាវ អភិវឌ្ឍន៍ និងនវានុវត្តន៍ ថ្នាក់ឧត្ដមសិក្សា"
+			</a>
+		</h4>
+		<div class="it-event-2-text" style="height:200px;max-height:200px;overflow:hidden;">
+			<p class="mb-0 pb-10">កម្រងរូបភាពនៃសិក្ខាសាលា <br>
+		ស្ដីពី "ប្រព័ន្ធអេកូឡូស៊ីនៃការស្រាវជ្រាវ អភិវឌ្ឍន៍ និងនវានុវត្តន៍ ថ្នាក់ឧត្ដមសិក្សា<br>
+
+		វាគ្មិនកិត្តិយស៖ លោកបណ្ឌិត ជា រដ្ឋា ប្រធានគណៈគ្រប់គ្រងនៃវិទ្យាស្ថានគរុកោសល្យបាត់ដំបង</p>
+		</div>
+		<div class="it-event-2-meta"></div>
+		</div>
+		</div>
+		</div>
+	</div>
+
+	<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+		<div class="it-event-2-item-box">
+		<div class="it-event-2-item">
+		<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
+		<a href="{{ route('pages.events.detail', ['teachers-math-science-meeting-jica']) }}">
+			<img src="{{ asset('assets/img/event/teachers-math-science-meeting-1.jpg') }}" alt=""></a>
+		</div>
+		<div class="it-event-2-content">
+		<h4 class="it-event-2-title">
+			<a href="{{ route('pages.events.detail', ['teachers-math-science-meeting-jica']) }}">
+				ការចូលរួមធ្វើតេស្ដលើចំណេះដឹងឯកទេសនិងវិធីសាស្ដ្របង្រៀន និងស្ដាប់ការណែនាំអំពីគម្រោងពង្រឹងវិទ្យាស្ថានគរុកោសល្យរបស់អង្គការ JICA (JICA S-TEC Project) នៅវិទ្យាស្ថានគរុកោសល្យបាត់ដំបង
+			</a>
+		</h4>
+		<div class="it-event-2-text" style="height:200px;max-height:200px;overflow:hidden;">
+			<p class="mb-0 pb-10">ព្រឹកថ្ងៃទី២៦ ខែមីនា ឆ្នាំ២០២៤ លោកគ្រូអ្នកគ្រូឧទ្ទេស និងលោកគ្រូអ្នកគ្រូអនុវិទ្យាល័យអនុវត្ដន៍ឯកទេសគណិតវិទ្យា និងវិទ្យាសាស្ដ្រ និងលោកគ្រូអ្នកគ្រូសាលាបឋមសិក្សាអនុវត្ដន៍នៃវិទ្យាស្ថានគរុកោសល្យបាត់ដំបង ចូលរួមធ្វើតេស្ដលើចំណេះដឹងឯកទេសនិងវិធីសាស្ដ្របង្រៀន និងស្ដាប់ការណែនាំអំពីគម្រោងពង្រឹងវិទ្យាស្ថានគរុកោសល្យរបស់អង្គការ JICA (JICA S-TEC Project) នៅវិទ្យាស្ថានគរុកោសល្យបាត់ដំបង។</p>
+		</div>
+		<div class="it-event-2-meta"></div>
+		</div>
+		</div>
+		</div>
+	</div>
+
+	<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+		<div class="it-event-2-item-box">
+		<div class="it-event-2-item">
+		<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
 		<a href="{{ route('pages.events.detail', ['rdi-ecosystem-higher-education']) }}">
 			<img src="{{ asset('assets/img/event/rdi-ecosystem-hifher-education.jpg') }}" alt=""></a>
 		</div>

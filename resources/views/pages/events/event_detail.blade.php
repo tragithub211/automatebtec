@@ -59,6 +59,14 @@
     
     @elseif($event_title =='rdi-ecosystem-higher-education')
         <x-events.rdi_ecosystem_higher_education />
+    @elseif($event_title =='teachers-math-science-meeting-jica')
+        <x-events.teachers_math_science_meeting_jica />
+    @elseif($event_title =='rdi-pics')
+        <x-events.rdi_pics />
+    @elseif($event_title =='workshop-law-public-financial-management-reform')
+        <x-events.workshop_law_public_financial_management_reform />
+    @elseif($event_title =='technology-training-teaching')
+        <x-events.technology_training_teaching />
     @else
         <x-events.event_detail />
     @endif
