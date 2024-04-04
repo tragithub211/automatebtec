@@ -67,6 +67,8 @@
         <x-events.workshop_law_public_financial_management_reform />
     @elseif($event_title =='technology-training-teaching')
         <x-events.technology_training_teaching />
+    @elseif($event_title =='delivery-of-ICT-practice-school')
+        <x-events.delivery_of_ICT_practice_schools />
     @else
         <x-events.event_detail />
     @endif

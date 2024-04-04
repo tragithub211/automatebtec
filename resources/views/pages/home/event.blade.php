@@ -19,6 +19,28 @@ Our Events
 		<div class="it-event-2-item-box">
 		<div class="it-event-2-item">
 		<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
+		<a href="{{ route('pages.events.detail', ['delivery-of-ICT-practice-school']) }}">
+			<img src="{{ asset('assets/img/event/delivery_of_ICT_practice_schools-1.jpg') }}" alt=""></a>
+		</div>
+		<div class="it-event-2-content">
+		<h4 class="it-event-2-title">
+			<a href="{{ route('pages.events.detail', ['delivery-of-ICT-practice-school']) }}">
+				ការប្រគល់សម្ភារៈ ICT និងសម្ភារៈពិសោធន៍ជូនដល់សាលាអនុវត្ដន៍ទាំង២
+			</a>
+		</h4>
+		<div class="it-event-2-text" style="height:200px;max-height:200px;overflow:hidden;">
+			<p class="mb-0 pb-10">ព្រឹកថ្ងៃទី៣ ខែមេសា ឆ្នាំ២០២៤ លោក ហ៊ត ស៊ីនួន នាយករងដែលតំណាងឱ្យលោកប្រធានគណៈគ្រប់គ្រងវិទ្យាស្ថានគរុកោសល្យកោសល្យបាត់ដំបង បានធ្វើការប្រគល់សម្ភារៈ ICT និងសម្ភារៈពិសោធន៍មុខវិជ្ជាវិទ្យាសាស្ដ្រ ដែលជាជំនួយរបស់អង្កការ JICA ជូនដល់សាលាអនុវត្ដន៍ទាំង២របស់វិទ្យាស្ថានគរុកោសល្យបាត់ដំបង ដោយមានការចូលរួមពីសំណាក់ លោក ហ៊ុន រ៉ាវី ព្រឹទ្ធបុរសស្ដីទីនៃមហាវិទ្យាល័យអប់រំវិទ្យាសាស្ដ្រនៃវិទ្យាស្ថានគរុកោសល្យបាត់ដំបង និងគណៈនាយកនៃសាលាអនុវត្ដន៍ទាំង២ផងដែរ។</p>
+		</div>
+		<div class="it-event-2-meta"></div>
+		</div>
+		</div>
+		</div>
+	</div>
+
+	<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+		<div class="it-event-2-item-box">
+		<div class="it-event-2-item">
+		<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
 		<a href="{{ route('pages.events.detail', ['technology-training-teaching']) }}">
 			<img src="{{ asset('assets/img/event/technology-training-teaching-1.jpg') }}" alt=""></a>
 		</div>
