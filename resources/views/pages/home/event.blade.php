@@ -19,6 +19,28 @@ Our Events
 		<div class="it-event-2-item-box">
 		<div class="it-event-2-item">
 		<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
+		<a href="{{ route('pages.events.detail', ['partnership-with-university-of-fukoi']) }}">
+			<img src="{{ asset('assets/img/event/partnership-with-university-of-fukoi-2.jpg') }}" alt=""></a>
+		</div>
+		<div class="it-event-2-content">
+		<h4 class="it-event-2-title">
+			<a href="{{ route('pages.events.detail', ['partnership-with-university-of-fukoi']) }}">
+				កិច្ចសហប្រតិបត្តិការសាកលវិទ្យាល័យហ្វូគុ (University of Fukui) និងវិទ្យាស្ថានគរុកោសល្យបាត់ដំបង
+			</a>
+		</h4>
+		<div class="it-event-2-text" style="height:200px;max-height:200px;overflow:hidden;">
+			<p class="mb-0 pb-10">នៅថ្ងៃទី៤ ខែមេសា ឆ្នាំ២០២៤ លោកបណ្ឌិត ជា រដ្ឋា ប្រធានគណៈគ្រប់គ្រងវិទ្យាស្ថានគរុកោសល្យបាត់ដំបងទទួលស្វាគមន៍គណៈប្រតិភូនៃសាកលវិទ្យាល័យហ្វូគុ (University of Fukui) នៃប្រទេសជប៉ុនដែលដឹកនាំដោយ Prof. Dr. Motoharu Fujigaki ដើម្បីពិភាក្សាអំពីលទ្ធភាពក្នុងការធ្វើកិច្ចសហប្រតិបត្តិការរវាង សាកលវិទ្យាល័យហ្វូគុ (University of Fukui) និងវិទ្យាស្ថានគរុកោសល្យបាត់ដំបង (Battambang Teacher Education College) ដើម្បីធានាដល់ផលប្រយោជន៍គ្រូឧទ្ទេស និងគរុនិស្សិតនៃវិទ្យាស្ថានគរុកោសល្យទាំងមូល។</p>
+		</div>
+		<div class="it-event-2-meta"></div>
+		</div>
+		</div>
+		</div>
+	</div>
+
+	<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+		<div class="it-event-2-item-box">
+		<div class="it-event-2-item">
+		<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
 		<a href="{{ route('pages.events.detail', ['delivery-of-ICT-practice-school']) }}">
 			<img src="{{ asset('assets/img/event/delivery_of_ICT_practice_schools-1.jpg') }}" alt=""></a>
 		</div>

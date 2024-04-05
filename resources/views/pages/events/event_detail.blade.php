@@ -69,6 +69,8 @@
         <x-events.technology_training_teaching />
     @elseif($event_title =='delivery-of-ICT-practice-school')
         <x-events.delivery_of_ICT_practice_schools />
+    @elseif($event_title =='partnership-with-university-of-fukoi')
+        <x-events.partnership_with_university_of_fukoi />
     @else
         <x-events.event_detail />
     @endif
