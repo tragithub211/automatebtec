@@ -14,6 +14,39 @@ Our Events
 </div>
 </div>
 <div class="row">
+	<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+		<div class="it-event-2-item-box">
+		<div class="it-event-2-item">
+		<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
+		<a href="{{ route('pages.events.detail', ['technical-council-meeting']) }}">
+			<img src="{{ asset('assets/img/event/technical_council_meeting.jpg') }}" alt=""></a>
+		</div>
+		<div class="it-event-2-content">
+		<h4 class="it-event-2-title">
+			<a href="{{ route('pages.events.detail', ['technical-council-meeting']) }}">
+				ការប្រជុំពិនិត្យរបាយការណ៍ប្រជុំក្រុមប្រឹក្សាបច្ចេកទេស និងរៀបចំផែនការឆ្លើយតប
+			</a>
+		</h4>
+		<div class="it-event-2-text" style="height:200px;max-height:200px;overflow:hidden;">
+			<p class="mb-0 pb-10">
+				ការប្រជុំពិនិត្យរបាយការណ៍ប្រជុំក្រុមប្រឹក្សាបច្ចេកទេស និងរៀបចំផែនការឆ្លើយតប
+
+ថ្ងៃ សុក្រ ទី ១៩ ខែ មេសា ឆ្នាំ២០២៤
+
+----------------
+ភ្ជាប់ទំនាក់ទំនងជាមួយពួកយើង
+
+📞017 448 869/ 096 3 296 997
+📩 info@btec.edu.kh
+🌐 btec.edu.kh
+Telegram Channel: t.me/btecnews
+			</p>
+		</div>
+		<div class="it-event-2-meta"></div>
+		</div>
+		</div>
+		</div>
+	</div>
 
 	<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
 		<div class="it-event-2-item-box">
