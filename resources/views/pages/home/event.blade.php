@@ -29,17 +29,10 @@ Our Events
 		</h4>
 		<div class="it-event-2-text" style="height:200px;max-height:200px;overflow:hidden;">
 			<p class="mb-0 pb-10">
+				ថ្ងៃ សុក្រ ទី ១៩ ខែ មេសា ឆ្នាំ២០២៤
+			</p>
+			<p class="mb-0 pb-10">
 				ការប្រជុំពិនិត្យរបាយការណ៍ប្រជុំក្រុមប្រឹក្សាបច្ចេកទេស និងរៀបចំផែនការឆ្លើយតប
-
-ថ្ងៃ សុក្រ ទី ១៩ ខែ មេសា ឆ្នាំ២០២៤
-
-----------------
-ភ្ជាប់ទំនាក់ទំនងជាមួយពួកយើង
-
-📞017 448 869/ 096 3 296 997
-📩 info@btec.edu.kh
-🌐 btec.edu.kh
-Telegram Channel: t.me/btecnews
 			</p>
 		</div>
 		<div class="it-event-2-meta"></div>
