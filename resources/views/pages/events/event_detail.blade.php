@@ -73,6 +73,8 @@
         <x-events.partnership_with_university_of_fukoi />
     @elseif($event_title =='technical-council-meeting')
         <x-events.technical_council_meeting />
+    @elseif($event_title =='orientation-workshops-for-teaching-and-learning')
+        <x-events.orientation_workship />
     @else
         <x-events.event_detail />
     @endif

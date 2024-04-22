@@ -18,6 +18,28 @@ Our Events
 		<div class="it-event-2-item-box">
 		<div class="it-event-2-item">
 		<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
+		<a href="{{ route('pages.events.detail', ['orientation-workshops-for-teaching-and-learning']) }}">
+			<img src="{{ asset('assets/img/event/orientation-workshops-for-teaching-and-learning.jpg') }}" alt=""></a>
+		</div>
+		<div class="it-event-2-content">
+		<h4 class="it-event-2-title">
+			<a href="{{ route('pages.events.detail', ['orientation-workshops-for-teaching-and-learning']) }}">
+				សិក្ខាសាលាតម្រង់ទិសសម្រាប់ការបង្រៀន និងរៀន ជូនដល់គរុនិស្សិតឆ្នាំទី៣ នៅក្នុងឆមាសទី២
+			</a>
+		</h4>
+		<div class="it-event-2-text" style="height:200px;max-height:200px;overflow:hidden;">
+			<p class="mb-0 pb-10">សិក្ខាសាលាតម្រង់ទិសសម្រាប់ការបង្រៀន និងរៀន ជូនដល់គរុនិស្សិតឆ្នាំទី៣ នៅក្នុងឆមាសទី២</p>
+		</div>
+		<div class="it-event-2-meta"></div>
+		</div>
+		</div>
+		</div>
+	</div>
+
+	<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+		<div class="it-event-2-item-box">
+		<div class="it-event-2-item">
+		<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
 		<a href="{{ route('pages.events.detail', ['technical-council-meeting']) }}">
 			<img src="{{ asset('assets/img/event/technical_council_meeting.jpg') }}" alt=""></a>
 		</div>
