@@ -18,6 +18,32 @@ Our Events
 		<div class="it-event-2-item-box">
 		<div class="it-event-2-item">
 		<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
+		<a href="{{ route('pages.events.detail', ['btec-stem-comming-soon']) }}">
+			<img src="{{ asset('assets/img/event/btec-stem-comming-soon.jpg') }}" alt=""></a>
+		</div>
+		<div class="it-event-2-content">
+		<h4 class="it-event-2-title">
+			<a href="{{ route('pages.events.detail', ['btec-stem-comming-soon']) }}">
+				📣 ដំណឹងពិសេស! ចូលរួមជាមួយវិទ្យាស្ថានគរុកោសល្យនៅក្នុងពិព័រណ៍ STEM នៅពេលឆាប់ៗខាងមុខនេះ! 🚀🔬
+			</a>
+		</h4>
+		<div class="it-event-2-text" style="height:200px;max-height:200px;overflow:hidden;">
+			<p class="mb-0 pb-10">ក្រោមប្រធានបទ៖ "ការត្រៀមខ្លួនរបស់គ្រូបង្រៀនសម្រាប់ការអប់រំស្ទែមក្នុងយុគសម័យឌីជីថល" 📚💡
+
+ចូលរួមទស្សនានិងស្វែងយល់អំពីគម្រោងច្នៃប្រឌិតដោយគរុនិស្សិត ដែលមានច្រើនជាង60ស្នាដៃ ដែលបង្ហាញគម្រោងរបស់ពួកគេសម្រាប់វិទ្យាសាស្ត្រ បច្ចេកវិទ្យា វិស្វកម្ម និងគណិតវិទ្យា។ មានការតាំងបង្ហាញស្នាដៃទាក់ទងនឹង robotics ការបង្កើតថាមពល បរិក្ខារប្រើប្រាស់ សម្ភារៈជំនួយដល់ការបង្រៀននិងរៀន និងស្នាដៃជាគម្រោងច្នៃប្រឌិតជាច្រើនទៀត ជាលទ្ធភាពនៃការអប់រំ STEM!
+
+ក្នុងកម្មវិធីពិព័រណ៍នេះ ក៏មានរៀបចំជាបាឋកថាគន្លឺ បទបង្ហាញ និងវេទិការតុមូល ដែលចូលរួមដោយអ្នកពាក់ព័ន្ធ មានតំណាងអង្គការជាតិ អង្គការអន្ដរជាតិ តំណាងនាយដ្ឋាន និងថ្នាក់ដឹកនាំនៃក្រសួងអប់រំ យុវជន និងកីឡា ដែលបានកំពុងអនុវត្ដការងារលើកកម្ពស់ការអប់រំស្ទែមនៅកម្ពុជាផងដែរ។</p>
+		</div>
+		<div class="it-event-2-meta"></div>
+		</div>
+		</div>
+		</div>
+	</div>
+
+	<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+		<div class="it-event-2-item-box">
+		<div class="it-event-2-item">
+		<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
 		<a href="{{ route('pages.events.detail', ['orientation-workshops-for-teaching-and-learning']) }}">
 			<img src="{{ asset('assets/img/event/orientation-workshops-for-teaching-and-learning.jpg') }}" alt=""></a>
 		</div>

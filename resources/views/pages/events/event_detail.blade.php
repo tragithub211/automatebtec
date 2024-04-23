@@ -75,6 +75,8 @@
         <x-events.technical_council_meeting />
     @elseif($event_title =='orientation-workshops-for-teaching-and-learning')
         <x-events.orientation_workship />
+    @elseif($event_title =='btec-stem-comming-soon')
+        <x-events.btec_stem_comming_soon />
     @else
         <x-events.event_detail />
     @endif
