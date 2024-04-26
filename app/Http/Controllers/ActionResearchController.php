@@ -11,8 +11,21 @@ class ActionResearchController extends Controller
     {
         return view('pages.action_research');
     }
-    public function bookResearch(){
+    //book name
+    public function bookResearchV3()
+    {
 
-        return view('pages.book_action_research');
+        return view('pages.action-research-books.book_action_research' );
     }
+    public function bookResearchV2()
+    {
+
+        return view('pages.action-research-books.book_action_research-v2');
+    }
+    public function bookResearchV1()
+    {
+
+        return view('pages.action-research-books.book_action_research-v1');
+    }
+    
 }

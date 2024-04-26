@@ -39,7 +39,9 @@ Route::get('clubs', [OurCampusController::class, 'clubs'])->name('pages.clubs');
 
 
 Route::get('action-research', [ActionResearchController::class, 'actionResearch'])->name('pages.action_research');
-Route::get('book_action-research', [ActionResearchController::class, 'bookResearch'])->name('pages.book_action_research');
+Route::get('book-action-research', [ActionResearchController::class, 'bookResearchV3'])->name('pages.book_action_research');
+Route::get('book-action-research-v2', [ActionResearchController::class, 'bookResearchV2'])->name('pages.book_action_research-v2');
+Route::get('book-action-research-v1', [ActionResearchController::class, 'bookResearchV1'])->name('pages.book_action_research-v1');
 
 Route::get('social-services', [SocialServiceController::class, 'socialService'])->name('pages.social_service');
 Route::get('contact-us', [ContactUSController::class, 'contactUs'])->name('pages.contact_us');

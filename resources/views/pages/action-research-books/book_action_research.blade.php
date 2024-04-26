@@ -9,7 +9,7 @@
 </head>
 <body>
 <div>
-    <embed src="assets/book/BTEC_ActionResearch_Vol.3_final.pdf" width="100%" height="2100px" />
+    <embed src="assets/book/BTEC_ActionResearch_Vol.3_final.pdf" width="100%" height="2000px">
 </div>
 </body>
 </html>
