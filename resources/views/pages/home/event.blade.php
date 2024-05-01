@@ -18,6 +18,28 @@ Our Events
 		<div class="it-event-2-item-box">
 		<div class="it-event-2-item">
 		<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
+		<a href="{{ route('pages.events.detail', ['meeting-between-btec-and-world-bank-delegation']) }}">
+			<img src="{{ asset('assets/img/event/meeting-between-btec-and-world-bank-delegation.jpg') }}" alt=""></a>
+		</div>
+		<div class="it-event-2-content">
+		<h4 class="it-event-2-title">
+			<a href="{{ route('pages.events.detail', ['meeting-between-btec-and-world-bank-delegation']) }}">
+				កិច្ចប្រជុំរវាងគណៈគ្រប់គ្រងវិទ្យាស្ថានគរុកោសល្យបាត់ដំបងជាមួយប្រតិភូធនាគារពិភពលោក
+			</a>
+		</h4>
+		<div class="it-event-2-text" style="height:200px;max-height:200px;overflow:hidden;">
+			<p class="mb-0 pb-10">នៅថ្ងៃទី២៩ ខែមេសា ឆ្នាំ២០២៤ គណៈគ្រប់គ្រងវិទ្យាស្ថានគរុកោសល្យបាត់ដំបងដឹកនាំដោយលោកបណ្ឌិត ជា រដ្ឋា បានជួបប្រជុំគ្នាជាមួយប្រតិភូតំណាងធនាគារពិភពលោក។ កិច្ចប្រជុំនេះមានគោលបំណងពិភាក្សា និងចែករំលែកបទពិសោធអំពីកិច្ចដំណើរការវិទ្យាស្ថានគរុកោសល្យដើម្បីជាមូលដ្ឋានក្នុងការគាំទ្រការប្រែក្លាយសាលាគរុកោសល្យដទៃទៀតឱ្យទៅជាវិទ្យាស្ថានគរុកោសល្យនាពេលអនាគត។</p>
+		</div>
+		<div class="it-event-2-meta"></div>
+		</div>
+		</div>
+		</div>
+	</div>
+
+	<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+		<div class="it-event-2-item-box">
+		<div class="it-event-2-item">
+		<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
 		<a href="{{ route('pages.events.detail', ['btec-stem-comming-soon']) }}">
 			<img src="{{ asset('assets/img/event/btec-stem-comming-soon.jpg') }}" alt=""></a>
 		</div>

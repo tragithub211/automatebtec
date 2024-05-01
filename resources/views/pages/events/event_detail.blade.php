@@ -77,6 +77,8 @@
         <x-events.orientation_workship />
     @elseif($event_title =='btec-stem-comming-soon')
         <x-events.btec_stem_comming_soon />
+    @elseif($event_title =='meeting-between-btec-and-world-bank-delegation')
+        <x-events.bten_meeting_world_bank />
     @else
         <x-events.event_detail />
     @endif
