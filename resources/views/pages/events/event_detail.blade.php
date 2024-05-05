@@ -79,6 +79,8 @@
         <x-events.btec_stem_comming_soon />
     @elseif($event_title =='meeting-between-btec-and-world-bank-delegation')
         <x-events.bten_meeting_world_bank />
+    @elseif($event_title =='sincere-gratitude-his-excellency-dr-hel-chamroeun-for-providing-books')
+        <x-events.sincere_gratitude />
     @else
         <x-events.event_detail />
     @endif

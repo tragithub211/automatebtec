@@ -18,6 +18,28 @@ Our Events
 		<div class="it-event-2-item-box">
 		<div class="it-event-2-item">
 		<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
+		<a href="{{ route('pages.events.detail', ['sincere-gratitude-his-excellency-dr-hel-chamroeun-for-providing-books']) }}">
+			<img src="{{ asset('assets/img/event/sincere-gratitude.jpg') }}" alt=""></a>
+		</div>
+		<div class="it-event-2-content">
+		<h4 class="it-event-2-title">
+			<a href="{{ route('pages.events.detail', ['sincere-gratitude-his-excellency-dr-hel-chamroeun-for-providing-books']) }}">
+				ឯកឧត្តមបណ្ឌិត ហែល ចំរើន រដ្ឋលេខាធិការ នៃក្រសួងសេដ្ឋកិច្ច និងហិរញ្ញវត្ថុ បានផ្តល់សៀវភៅចំនួន ៥០ ក្បាល ដល់បណ្ណាល័យនៃវិទ្យាស្ថានគរុកោសល្យបាត់ដំបង
+			</a>
+		</h4>
+		<div class="it-event-2-text" style="height:200px;max-height:200px;overflow:hidden;">
+			<p class="mb-0 pb-10">គណ:គ្រប់គ្រងវិទ្យាស្ថានគរុកោសល្យបាត់ដំបង សូមគោរពថ្លែងអំណរគុណយ៉ាងជ្រាលជ្រៅដល់ ឯកឧត្តមបណ្ឌិត ហែល ចំរើន រដ្ឋលេខាធិការ និងជាអនុប្រធានប្រចាំការក្រុមប្រឹក្សានីតិកម្ម នៃក្រសួងសេដ្ឋកិច្ច និងហិរញ្ញវត្ថុ ដែលបានផ្តល់សៀវភៅចំនួន ២មុខ ដែលក្នុងនោះមួយមុខចំនួន ៥០ ក្បាល ដល់បណ្ណាល័យនៃវិទ្យាស្ថានគរុកោសល្យ សម្រាប់ប្រើប្រាស់ជាឯកសារមូលដ្ឋានក្នុងការស្រាវជ្រាវ រៀននិងបង្រៀន ពាក់ព័ន្ធនឹងប្រវត្តិសាស្រ្តនិងមរតកប្រព័ន្ធច្បាប់ខ្មែរនាសម័យបុរាណ ដែលចូលរួមចំណែកក្នុងការកសាងចំណេះដឹងបន្ថែមដល់គណៈគ្រប់គ្រង គ្រូឧទ្ទេស និងគរុនិស្សិតនៃវិទ្យសា្ថនគរុកោសល្យបាត់ដំបង។</p>
+		</div>
+		<div class="it-event-2-meta"></div>
+		</div>
+		</div>
+		</div>
+	</div>
+
+	<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+		<div class="it-event-2-item-box">
+		<div class="it-event-2-item">
+		<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
 		<a href="{{ route('pages.events.detail', ['meeting-between-btec-and-world-bank-delegation']) }}">
 			<img src="{{ asset('assets/img/event/meeting-between-btec-and-world-bank-delegation.jpg') }}" alt=""></a>
 		</div>
