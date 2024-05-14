@@ -81,6 +81,12 @@
         <x-events.bten_meeting_world_bank />
     @elseif($event_title =='sincere-gratitude-his-excellency-dr-hel-chamroeun-for-providing-books')
         <x-events.sincere_gratitude />
+    @elseif($event_title =='appreciation-to-canadia-bank')
+        <x-events.appreciation_canadia />
+    @elseif($event_title =='appreciation-to-forte')
+        <x-events.appreciation_forte />
+    @elseif($event_title =='appreciation-to-kizuna')
+        <x-events.appreciation_kizuna />
     @else
         <x-events.event_detail />
     @endif

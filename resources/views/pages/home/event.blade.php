@@ -18,6 +18,70 @@ Our Events
 		<div class="it-event-2-item-box">
 		<div class="it-event-2-item">
 		<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
+		<a href="{{ route('pages.events.detail', ['appreciation-to-kizuna']) }}">
+			<img src="{{ asset('assets/img/event/kizuna.png') }}" alt=""></a>
+		</div>
+		<div class="it-event-2-content">
+		<h4 class="it-event-2-title">
+			<a href="{{ route('pages.events.detail', ['appreciation-to-kizuna']) }}">
+				📣 សូមថ្លែងអំណរគុណចំពោះការចូលរួមឧបត្ថម្ភដំណើរការពិព័រណ៍ STEM ប្រចាំឆ្នាំ ២០២៤ របស់វិទ្យាស្ថានគរុកោសល្យបាត់ដំបង   នៅថ្ងៃចន្ទ ទី២០ ខែឧសភា ឆ្នាំ២០២៤ ខាងមុខនេះ! 🚀🔬
+			</a>
+		</h4>
+		<div class="it-event-2-text" style="height:200px;max-height:200px;overflow:hidden;">
+			<p class="mb-0 pb-10">ក្រោមប្រធានបទ៖ "ការត្រៀមខ្លួនរបស់គ្រូបង្រៀនសម្រាប់ការអប់រំស្ទែមក្នុងយុគសម័យឌីជីថល" 📚💡</p>
+		</div>
+		<div class="it-event-2-meta"></div>
+		</div>
+		</div>
+		</div>
+	</div>
+	<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+		<div class="it-event-2-item-box">
+		<div class="it-event-2-item">
+		<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
+		<a href="{{ route('pages.events.detail', ['appreciation-to-forte']) }}">
+			<img src="{{ asset('assets/img/event/forte.png') }}" alt=""></a>
+		</div>
+		<div class="it-event-2-content">
+		<h4 class="it-event-2-title">
+			<a href="{{ route('pages.events.detail', ['appreciation-to-forte']) }}">
+				📣 សូមថ្លែងអំណរគុណចំពោះការចូលរួមឧបត្ថម្ភដំណើរការពិព័រណ៍ STEM ប្រចាំឆ្នាំ ២០២៤ របស់វិទ្យាស្ថានគរុកោសល្យបាត់ដំបង   នៅថ្ងៃចន្ទ ទី២០ ខែឧសភា ឆ្នាំ២០២៤ ខាងមុខនេះ! 🚀🔬
+			</a>
+		</h4>
+		<div class="it-event-2-text" style="height:200px;max-height:200px;overflow:hidden;">
+			<p class="mb-0 pb-10">ក្រោមប្រធានបទ៖ "ការត្រៀមខ្លួនរបស់គ្រូបង្រៀនសម្រាប់ការអប់រំស្ទែមក្នុងយុគសម័យឌីជីថល" 📚💡</p>
+		</div>
+		<div class="it-event-2-meta"></div>
+		</div>
+		</div>
+		</div>
+	</div>
+	<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+		<div class="it-event-2-item-box">
+		<div class="it-event-2-item">
+		<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
+		<a href="{{ route('pages.events.detail', ['appreciation-to-canadia-bank']) }}">
+			<img src="{{ asset('assets/img/event/canadia-bank.png') }}" alt=""></a>
+		</div>
+		<div class="it-event-2-content">
+		<h4 class="it-event-2-title">
+			<a href="{{ route('pages.events.detail', ['appreciation-to-canadia-bank']) }}">
+				📣 សូមថ្លែងអំណរគុណចំពោះការចូលរួមឧបត្ថម្ភដំណើរការពិព័រណ៍ STEM ប្រចាំឆ្នាំ ២០២៤ របស់វិទ្យាស្ថានគរុកោសល្យបាត់ដំបង   នៅថ្ងៃចន្ទ ទី២០ ខែឧសភា ឆ្នាំ២០២៤ ខាងមុខនេះ! 🚀🔬
+			</a>
+		</h4>
+		<div class="it-event-2-text" style="height:200px;max-height:200px;overflow:hidden;">
+			<p class="mb-0 pb-10">ក្រោមប្រធានបទ៖ "ការត្រៀមខ្លួនរបស់គ្រូបង្រៀនសម្រាប់ការអប់រំស្ទែមក្នុងយុគសម័យឌីជីថល" 📚💡</p>
+		</div>
+		<div class="it-event-2-meta"></div>
+		</div>
+		</div>
+		</div>
+	</div>
+
+	<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+		<div class="it-event-2-item-box">
+		<div class="it-event-2-item">
+		<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
 		<a href="{{ route('pages.events.detail', ['sincere-gratitude-his-excellency-dr-hel-chamroeun-for-providing-books']) }}">
 			<img src="{{ asset('assets/img/event/sincere-gratitude.jpg') }}" alt=""></a>
 		</div>
