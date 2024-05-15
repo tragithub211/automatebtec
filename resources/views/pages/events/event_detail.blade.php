@@ -87,6 +87,8 @@
         <x-events.appreciation_forte />
     @elseif($event_title =='appreciation-to-kizuna')
         <x-events.appreciation_kizuna />
+    @elseif($event_title =='appreciation-to-sponsors')
+        <x-events.appreciation_sponsors />
     @else
         <x-events.event_detail />
     @endif
