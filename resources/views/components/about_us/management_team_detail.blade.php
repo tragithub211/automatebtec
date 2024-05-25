@@ -58,9 +58,10 @@
                   <div class="col-xl-9 col-lg-9">
                      <div class="it-teacher-details-right">
                         <div class="it-teacher-details-right-title-box">
-                           <h4>CHEA Ratha</h4>
-                           <span>Director of the Management Committee</span>
-                           <p>I am currently a lecturer/researcher at University of Battambang, Cambodia. My current field of studies cover hydrology, water quality, ecology of freshwater fish and food web ecology of the Lower Mekong Basin (LMB) and Tonle Sap Great Lake (Cambodia) in the context of global change focusing on patterning and prediction using dynamic and stochastic models. I am interested in particular how the ecosystems function and put these understandings into management and conservation practice.</p>
+                           <h4>Biography – Dr Ratha CHEA</h4>
+                           <span>Director of Battambang Teacher Education College (BTEC)</span>
+                           
+                           <p>Dr. Chea is currently the director of Battambang Teacher Education College (BTEC), Cambodia. He earned his Master of Engineering in hydrology from the National Polytechnic Institute of Toulouse (INPT) in France in 2012 and received his PhD in ecology and environment in 2016 from the University of Toulouse 3-Paul Sabatier in France. His current fields of studuy cover water quality, the ecology of freshwater fish, and food web ecology in the hotspot zones of biodiversity in the context of global changes, focusing on patterning and prediction using dynamic and stochastic models to understand the biological responses of aquatic communities to multiple environmental stressors. Dr. Chea has been working as a team leader, coordinator in various development projects and capacity building projects (Erasmus+ CBHE & Erasmus Mundus), working with governmental institutions, local communities, NGOs, international organizations, and universities. Dr. Chea is the former joint-coordinator of the Erasmus+ CONSEA project, the PI of the TLSCC project (2013-2017), funded by Belmont Forum, working in Tonle Sap Lake Cambodia and scientific coordinator of several Erasmus+ CBHE projects (GREENCAP, IND4.0, and INOWASIA). Last but not least, Dr. Chea has published many outstanding research articles contributing to the sustainable management and conservation of fishery resources in Cambodia and the Mekong region.</p>
                            
                         </div>
                         <div class="it-teacher-details-right-content mb-40">
