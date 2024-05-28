@@ -55,6 +55,10 @@ Route::get('/dashboard', function () {
     return view('dashboard');
 })->middleware(['auth', 'verified'])->name('dashboard');
 
+Route::get('signatures', function() {
+    return view('signature');
+});
+
 
 // BTEC Authentication Routes
 Route::middleware('auth')->group(function () {
