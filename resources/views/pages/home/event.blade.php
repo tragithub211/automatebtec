@@ -16,6 +16,28 @@ Our Events
 <div class="row">
 	<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
 		<div class="it-event-2-item-box">
+			<div class="it-event-2-item">
+				<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
+					<a href="{{ route('pages.events.detail', ['btec-research-proposal-workshop']) }}">
+						<img src="{{ asset('assets/img/event/btec-research-proposal-workshop.jpg') }}" alt=""></a>
+				</div>
+				<div class="it-event-2-content">
+					<h4 class="it-event-2-title">
+						<a href="{{ route('pages.events.detail', ['btec-research-proposal-workshop']) }}" style="font-family:'Khmer OS Siemreap';">
+							មហាវិទ្យាល័យស្រាវជ្រាវគុរកោសល្យនៃវិទ្យាស្ថានគរុកោសល្យបាត់ដំបងបានរៀបចំកម្មវិធីសិក្ខាសាលាស្តីពី ការសរសេរសំណើគម្រោងស្រាវជ្រាវ ដល់គរុនិស្សិតនៃវិទ្យាស្ថាន
+						</a>
+					</h4>
+					<div class="it-event-2-text" style="height:200px;max-height:200px;overflow:hidden;font-family:'Khmer OS Siemreap';">
+						<p class="mb-0 pb-10">មហាវិទ្យាល័យស្រាវជ្រាវគុរកោសល្យនៃវិទ្យាស្ថានគរុកោសល្យបាត់ដំបងបានរៀបចំកម្មវិធីសិក្ខាសាលាស្តីពី ការសរសេរសំណើគម្រោងស្រាវជ្រាវ ដល់គរុនិស្សិតនៃវិទ្យាស្ថាន ក្រោមអធិបតីភាព ឯកឧត្តមបណ្ឌិត ជា រដ្ឋា នាយកវិទ្យាស្ថានគរុកោសល្យបាត់ដំបង ដែលសិក្ខាសាលានេះមានគោលបំណង</p>
+					</div>
+					<div class="it-event-2-meta"></div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+		<div class="it-event-2-item-box">
 		<div class="it-event-2-item">
 		<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
 		<a href="{{ route('pages.events.detail', ['appreciation-to-sponsors']) }}">
