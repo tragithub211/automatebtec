@@ -91,6 +91,8 @@
         <x-events.appreciation_sponsors />
     @elseif($event_title =='btec-research-proposal-workshop')
         <x-events.research_proposal_workshop />
+    @elseif($event_title =='btec-second-research-conference')
+        <x-events.second_research_conference />
     @else
         <x-events.event_detail />
     @endif

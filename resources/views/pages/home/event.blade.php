@@ -18,6 +18,28 @@ Our Events
 		<div class="it-event-2-item-box">
 			<div class="it-event-2-item">
 				<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
+					<a href="{{ route('pages.events.detail', ['btec-second-research-conference']) }}">
+						<img src="{{ asset('assets/img/event/btec-second-research-conference.jpg') }}" alt=""></a>
+				</div>
+				<div class="it-event-2-content">
+					<h4 class="it-event-2-title">
+						<a href="{{ route('pages.events.detail', ['btec-second-research-conference']) }}" style="font-family:'Khmer OS Siemreap';">
+							សន្និសីទស្រាវជ្រាវអប់រំប្រចាំឆ្នាំលើកទី២ស្ដីពីការបង្រៀននិងការអប់រំគ្រូបង្រៀន សូមស្វាគមន៍!
+						</a>
+					</h4>
+					<div class="it-event-2-text" style="height:224px;max-height:224px;overflow:hidden;font-family:'Khmer OS Siemreap';">
+						<p class="mb-0 pb-10">វិទ្យាស្ថានគរុកោសល្យបាត់ដំបងសូមស្វាគមន៍ និងសូមគោរពអញ្ជើញអ្នកស្រាវជ្រាវ លោកគ្រូ អ្នកគ្រូ និស្សិត និងអ្នកអប់រំពីគ្រប់មជ្ឈដ្ឋាន ចូលរួមដាក់សំណើស្រាវជ្រាវ ឬសង្ខិតន័យ ដើម្បីចូលរួមធ្វើបទបង្ហាញក្នុងសន្និសីទស្រាវជ្រាវអប់រំប្រចាំឆ្នាំ២០២៤ នៅវិទ្យាស្ថានគរុកោសល្យបាត់ដំបងក្រោមប្រធានបទ៖"សមាហរណកម្មបច្ចេកវិទ្យា និងការស្រាវជ្រាវក្នុងការបង្រៀននិងរៀនឆ្ពោះទៅរកបរិវត្តកម្មឌីជីថលនៃការអប់រំនៅកម្ពុជា"</p>
+					</div>
+					<div class="it-event-2-meta"></div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+		<div class="it-event-2-item-box">
+			<div class="it-event-2-item">
+				<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
 					<a href="{{ route('pages.events.detail', ['btec-research-proposal-workshop']) }}">
 						<img src="{{ asset('assets/img/event/btec-research-proposal-workshop.jpg') }}" alt=""></a>
 				</div>
@@ -27,7 +49,7 @@ Our Events
 							មហាវិទ្យាល័យស្រាវជ្រាវគុរកោសល្យនៃវិទ្យាស្ថានគរុកោសល្យបាត់ដំបងបានរៀបចំកម្មវិធីសិក្ខាសាលាស្តីពី ការសរសេរសំណើគម្រោងស្រាវជ្រាវ ដល់គរុនិស្សិតនៃវិទ្យាស្ថាន
 						</a>
 					</h4>
-					<div class="it-event-2-text" style="height:200px;max-height:200px;overflow:hidden;font-family:'Khmer OS Siemreap';">
+					<div class="it-event-2-text" style="height:224px;max-height:224px;overflow:hidden;font-family:'Khmer OS Siemreap';">
 						<p class="mb-0 pb-10">មហាវិទ្យាល័យស្រាវជ្រាវគុរកោសល្យនៃវិទ្យាស្ថានគរុកោសល្យបាត់ដំបងបានរៀបចំកម្មវិធីសិក្ខាសាលាស្តីពី ការសរសេរសំណើគម្រោងស្រាវជ្រាវ ដល់គរុនិស្សិតនៃវិទ្យាស្ថាន ក្រោមអធិបតីភាព ឯកឧត្តមបណ្ឌិត ជា រដ្ឋា នាយកវិទ្យាស្ថានគរុកោសល្យបាត់ដំបង ដែលសិក្ខាសាលានេះមានគោលបំណង</p>
 					</div>
 					<div class="it-event-2-meta"></div>
@@ -192,7 +214,7 @@ Our Events
 		</div>
 	</div>
 
-	<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+	{{--<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
 		<div class="it-event-2-item-box">
 		<div class="it-event-2-item">
 		<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
@@ -236,7 +258,7 @@ Our Events
 		</div>
 		</div>
 		</div>
-	</div>
+	</div>--}}
 
 	<!--<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
 		<div class="it-event-2-item-box">
