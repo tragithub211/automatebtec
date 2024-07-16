@@ -18,6 +18,28 @@ Our Events
 		<div class="it-event-2-item-box">
 			<div class="it-event-2-item">
 				<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
+					<a href="{{ route('pages.events.detail', ['btec-guides-150-students-to-become-teachers-in-battambang']) }}">
+						<img src="{{ asset('assets/img/event/btec-guides-150-students-to-become-teachers.jpg') }}" alt=""></a>
+				</div>
+				<div class="it-event-2-content">
+					<h4 class="it-event-2-title">
+						<a href="{{ route('pages.events.detail', ['btec-guides-150-students-to-become-teachers-in-battambang']) }}" style="font-family:'Khmer OS Siemreap';">
+							BTEC guides 150 students to become teachers in Battambang
+						</a>
+					</h4>
+					<div class="it-event-2-text" style="height:224px;max-height:224px;overflow:hidden;font-family:'Khmer OS Siemreap';">
+						<p class="mb-0 pb-10">Battambang Teacher Education College (BTEC) organised a meeting to provide guidance and monitor the implementation of activities to support 150 students from the Community Learning Club (CLC) to become primary school teachers.</p>
+					</div>
+					<div class="it-event-2-meta"></div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+		<div class="it-event-2-item-box">
+			<div class="it-event-2-item">
+				<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
 					<a href="{{ route('pages.events.detail', ['btec-second-research-conference']) }}">
 						<img src="{{ asset('assets/img/event/btec-second-research-conference.jpg') }}" alt=""></a>
 				</div>
@@ -188,7 +210,7 @@ Our Events
 		</div>
 	</div>
 
-	<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+	<?php /* ?><div class="col-xl-4 col-lg-6 col-md-6 mb-30">
 		<div class="it-event-2-item-box">
 		<div class="it-event-2-item">
 		<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
@@ -212,7 +234,7 @@ Our Events
 		</div>
 		</div>
 		</div>
-	</div>
+	</div> <?php */ ?>
 
 	{{--<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
 		<div class="it-event-2-item-box">

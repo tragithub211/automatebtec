@@ -93,6 +93,8 @@
         <x-events.research_proposal_workshop />
     @elseif($event_title =='btec-second-research-conference')
         <x-events.second_research_conference />
+    @elseif($event_title =='btec-guides-150-students-to-become-teachers-in-battambang')
+        <x-events.btec_quides_students_become_teachers />
     @else
         <x-events.event_detail />
     @endif
