@@ -95,6 +95,8 @@
         <x-events.second_research_conference />
     @elseif($event_title =='btec-guides-150-students-to-become-teachers-in-battambang')
         <x-events.btec_quides_students_become_teachers />
+    @elseif($event_title =='nisti-and-btec-forge-mou-to-propel-stem-innovation')
+        <x-events.btec_and_nisti_mou_stem_innovation />
     @else
         <x-events.event_detail />
     @endif

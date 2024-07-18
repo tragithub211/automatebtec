@@ -18,6 +18,28 @@ Our Events
 		<div class="it-event-2-item-box">
 			<div class="it-event-2-item">
 				<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
+					<a href="{{ route('pages.events.detail', ['nisti-and-btec-forge-mou-to-propel-stem-innovation']) }}">
+						<img src="{{ asset('assets/img/event/nisti-and-btec-forge-mou-to-propel-stem-innovation.jpg') }}" alt=""></a>
+				</div>
+				<div class="it-event-2-content">
+					<h4 class="it-event-2-title">
+						<a href="{{ route('pages.events.detail', ['nisti-and-btec-forge-mou-to-propel-stem-innovation']) }}" style="font-family:'Khmer OS Siemreap';">
+							NISTI and Battambang Teacher Education College forge MoU to propel STEM innovation
+						</a>
+					</h4>
+					<div class="it-event-2-text" style="height:224px;max-height:224px;overflow:hidden;font-family:'Khmer OS Siemreap';">
+						<p class="mb-0 pb-10">The National Institute of Science, Technology and Innovation (NISTI) and Battambang Teacher Education College on Tuesday signed a Memorandum of Understanding (MoU) to advance human resource development.</p>
+					</div>
+					<div class="it-event-2-meta"></div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+		<div class="it-event-2-item-box">
+			<div class="it-event-2-item">
+				<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
 					<a href="{{ route('pages.events.detail', ['btec-guides-150-students-to-become-teachers-in-battambang']) }}">
 						<img src="{{ asset('assets/img/event/btec-guides-150-students-to-become-teachers.jpg') }}" alt=""></a>
 				</div>
