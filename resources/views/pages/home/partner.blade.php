@@ -167,6 +167,18 @@
 										<img src="{{ asset('assets/img/partners/kizuna-logo.jpg') }}" style="width:60%;" alt="KIZUNA"></a>
 								</div>
 							</div>
+							<div class="swiper-slide">
+								<div class="it-brand-item text-center">
+									<a href="https://www.forumzfd.de/en/cambodia" target="_blank">
+										<img src="{{ asset('assets/img/partners/forumZFD-logo-en.jpg') }}" style="width:45%;" alt="forumZFD"></a>
+								</div>
+							</div>
+							<div class="swiper-slide">
+								<div class="it-brand-item text-center">
+									<a href="https://www.misti.gov.kh/" target="_blank">
+										<img src="{{ asset('assets/img/partners/misti-logo.png') }}" style="width:55%;" alt="MISTI"></a>
+								</div>
+							</div>
 						</div>
 					</div>
 				</div>
