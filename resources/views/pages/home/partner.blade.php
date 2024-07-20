@@ -176,7 +176,7 @@
 							<div class="swiper-slide">
 								<div class="it-brand-item text-center">
 									<a href="https://www.misti.gov.kh/" target="_blank">
-										<img src="{{ asset('assets/img/partners/misti-logo.png') }}" style="width:55%;" alt="MISTI"></a>
+										<img src="{{ asset('assets/img/partners/nisti-logo.jpg') }}" style="width:55%;" alt="NISTI"></a>
 								</div>
 							</div>
 						</div>
