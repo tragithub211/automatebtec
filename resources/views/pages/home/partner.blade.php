@@ -179,6 +179,12 @@
 										<img src="{{ asset('assets/img/partners/nisti-logo.jpg') }}" style="width:55%;" alt="NISTI"></a>
 								</div>
 							</div>
+							<div class="swiper-slide">
+								<div class="it-brand-item text-center">
+									<a href="#" target="_blank">
+										<img src="{{ asset('assets/img/partners/rcc-logo.png') }}" style="width:60%;" alt="RCC"></a>
+								</div>
+							</div>
 						</div>
 					</div>
 				</div>
