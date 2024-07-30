@@ -18,6 +18,29 @@ Our Events
 		<div class="it-event-2-item-box">
 			<div class="it-event-2-item">
 				<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
+					<a href="{{ route('pages.events.detail', ['btec-opening-ceremony']) }}">
+						<img src="{{ asset('assets/img/event/btec-opening-ceremony.jpg') }}" alt=""></a>
+				</div>
+				<div class="it-event-2-content">
+					<h4 class="it-event-2-title">
+						<a href="{{ route('pages.events.detail', ['btec-opening-ceremony']) }}" style="font-family:'Khmer OS Siemreap';">
+							កម្មវិធីបើកបវេសនកាល និងការសំណេះសំណាលជាមួយអាណាព្យាបាលនិងគរុនិស្សិត ១២+៤ ជំនាន់ទី៤ និងគរុនិស្សិតបរិញ្ញាបត្រ+១ ជំនាន់ទី១ នៃវិទ្យាស្ថានគរុកោសល្យបាត់ដំបង
+						</a>
+					</h4>
+					<div class="it-event-2-text" style="height:224px;max-height:224px;overflow:hidden;font-family:'Khmer OS Siemreap';">
+						<p class="mb-0 pb-10">កាលពីព្រឹកថ្ងៃទី២៩ ខែកក្កដា ឆ្នាំ២០២៤នេះ វិទ្យាស្ថានគរុកោសល្យបាត់ដំបង បានរៀបចំកម្មវិធីបើកបវេសនកាល និងសំណេះសំណាលជាមួយអាណាព្យាបាលនិងគរុនិស្សិត ១២+៤ ជំនាន់ទី៤ និងគរុនិស្សិត បរិញ្ញាបត្រ+១ ជំនាន់ទី១ ដែលប្រព្រឹត្ដទៅក្រោមអធិបតីភាពឯកឧត្ដមបណ្ឌិត ជា រដ្ឋា នាយកវិទ្យាស្ថានគរុកោសល្យបាត់ដំបង និងមានការចូលរួមពីសំណាក់លោកនាយករង លោកព្រឹទ្ធបុរសស្ដីទីនិងព្រឹទ្ធបុរសរងនៃមហាវិទ្យាល័យទាំងបី ប្រធាននិងអនុប្រធានដេប៉ាតឺម៉ង់និងការិយាល័យ គ្រូឧទ្ទេសនិងបុគ្គលិក អាណាព្យាបាលរបស់គរុនិស្សិត និងគរុនិស្សិត ១២+៤ ជំនាន់ទី៤ និងគរុនិស្សិតបរិញ្ញាបត្រ+១ ជំនាន់ទី១ ផងដែរ។ 
+គួរបញ្ជាក់ផងដែរថា ក្នុងឆ្នាំសិក្សាថ្មីនេះ វិទ្យាស្ថានគរុកោសល្យបាត់ដំបង បានទទួលគរុនិស្សិតកម្រិតមធ្យមសិក្សាបឋមភូមិ សរុបចំនួន ៣៨នាក់ ដែលមកពីខេត្ដចំនួន១១ មានដូចជា បាត់ដំបង ពោធិ៍សាត់ បន្ទាយមានជ័យ ប៉ៃលិន សៀមរាប ឧត្ដរមានជ័យ កំពង់ឆ្នាំង ស្ទឹងត្រែង រតនគិរី មណ្ឌលគិរី និងខេត្ដព្រះវិហារ។ ចំពោះគរុនិស្សិតកម្រិតមធ្យមសិក្សាបឋមភូមិទាំងនេះ នឹងទទួលការបណ្ដុះបណ្ដាលក្នុងកម្មវិធី ២កម្រិតផ្សេងគ្នា គឺកម្មវិធី ១២+៤ មានគរុនិស្សិតឯកទេសគីមីវិទ្យា ចំនួន១៧នាក់ និងគរុនិស្សិតឯកទេសជីវវិទ្យា ចំនួន១៥នាក់ និងកម្មវិធី បរិញ្ញាបត្រ+១ មានគរុនិស្សិតឯកទេសរូបវិទ្យា ចំនួន២នាក់ និងគរុនិស្សិតឯកទេសគណិតវិទ្យា ចំនួន៤នាក់។ ចំណែកឯគរុនិស្សិតកម្រិតបឋមសិក្សា កំពុងស្ថិតក្នុងដំណើរការនៃការប្រឡងជ្រើសរើសនៅឡើយ។</p>
+					</div>
+					<div class="it-event-2-meta"></div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+		<div class="it-event-2-item-box">
+			<div class="it-event-2-item">
+				<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
 					<a href="{{ route('pages.events.detail', ['nisti-and-btec-forge-mou-to-propel-stem-innovation']) }}">
 						<img src="{{ asset('assets/img/event/nisti-and-btec-forge-mou-to-propel-stem-innovation.jpg') }}" alt=""></a>
 				</div>
@@ -188,7 +211,7 @@ Our Events
 		</div>
 	</div>
 
-	<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+	<?php /* ?><div class="col-xl-4 col-lg-6 col-md-6 mb-30">
 		<div class="it-event-2-item-box">
 		<div class="it-event-2-item">
 		<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
@@ -210,7 +233,7 @@ Our Events
 		</div>
 	</div>
 
-	<?php /* ?><div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+	<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
 		<div class="it-event-2-item-box">
 		<div class="it-event-2-item">
 		<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
