@@ -99,6 +99,8 @@
         <x-events.btec_and_nisti_mou_stem_innovation />
     @elseif($event_title =='btec-opening-ceremony')
         <x-events.bten_opening_ceremony />
+    @elseif($event_title =='btec-english-placement-test')
+        <x-events.btec_english_placement_test />
     @else
         <x-events.event_detail />
     @endif

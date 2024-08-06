@@ -18,6 +18,32 @@ Our Events
 		<div class="it-event-2-item-box">
 			<div class="it-event-2-item">
 				<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
+					<a href="{{ route('pages.events.detail', ['btec-english-placement-test']) }}">
+						<img src="{{ asset('assets/img/event/btec-english-placement-test.jpg') }}" alt=""></a>
+				</div>
+				<div class="it-event-2-content">
+					<h4 class="it-event-2-title">
+						<a href="{{ route('pages.events.detail', ['btec-english-placement-test']) }}" style="font-family:'Khmer OS Siemreap';">
+							វិទ្យាស្ថានគរុកោសល្យបាត់ដំបងបានរៀបចំការប្រឡងវាស់កម្រិតយល់ដឹងសម្រាប់ការបណ្តុះបណ្តាលភាសាអង់គ្លេសទូទៅដល់គរុនិស្សិតនិងសិស្សទូទៅ
+						</a>
+					</h4>
+					<div class="it-event-2-text" style="height:224px;max-height:224px;overflow:hidden;font-family:'Khmer OS Siemreap';">
+						<p class="mb-0 pb-10">វិទ្យាស្ថានគរុកោសល្យបាត់ដំបងបានរៀបចំការប្រឡងវាស់កម្រិតយល់ដឹងសម្រាប់ការបណ្តុះបណ្តាលភាសាអង់គ្លេសទូទៅដល់គរុនិស្សិតនិងសិស្សទូទៅ។ ការបណ្តុះបណ្តាលនេះមិនត្រឹមតែផ្តល់ចំណេះដឹងភាសាអង់គ្លេសប៉ុណ្ណោះទេ តែវាជាផ្នែកមួយបន្ថែមដល់ការប្រើភាសាអង់គ្លេសគាំទ្រដល់ជំនាញធ្វើបទបង្ហាញ ស្រាវជ្រាវ បៀបសរសេរប្រវត្តិរូបសង្ខេប ការស្នើសុំដាក់អាហារូបករណ៍ទៅសិក្សានៅបរទេស និងការប្រឡងតេស្តស្តង់ដាអន្តរជាតិ IELTS និង TOEFL ជាដើម។</p>
+						<p class="mb-0 pb-10">ថ្ងៃទី ៣ សីហា ២០២៤</p>
+						<p class="mb-0 pb-10">-------------------------</p>
+						<p class="mb-0 pb-10">BTEC conducts a placement test to assess and support students' English learning abilities through its first General English Program. This program not only helps improve their English skills but also aims to enhance their presentation and research abilities. As students learn English for the 21st century, they also gain skills in writing effective CVs, research proposals, scholarship applications, and preparing for IELTS and TOEFL tests.</p>
+						<p class="mb-0 pb-10">August 03, 2024</p>
+					</div>
+					<div class="it-event-2-meta"></div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+		<div class="it-event-2-item-box">
+			<div class="it-event-2-item">
+				<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
 					<a href="{{ route('pages.events.detail', ['btec-opening-ceremony']) }}">
 						<img src="{{ asset('assets/img/event/btec-opening-ceremony.jpg') }}" alt=""></a>
 				</div>
@@ -189,7 +215,7 @@ Our Events
 		</div>
 		</div>
 	</div>
-	<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+	<?php /* ?><div class="col-xl-4 col-lg-6 col-md-6 mb-30">
 		<div class="it-event-2-item-box">
 		<div class="it-event-2-item">
 		<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
@@ -211,7 +237,7 @@ Our Events
 		</div>
 	</div>
 
-	<?php /* ?><div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+	<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
 		<div class="it-event-2-item-box">
 		<div class="it-event-2-item">
 		<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
