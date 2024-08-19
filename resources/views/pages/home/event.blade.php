@@ -18,6 +18,28 @@ Our Events
 		<div class="it-event-2-item-box">
 			<div class="it-event-2-item">
 				<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
+					<a href="{{ route('pages.events.detail', ['workshop-advanced-ms-word-for-thesis-writing']) }}">
+						<img src="{{ asset('assets/img/event/workshop-advanced-ms-word-for-thesis-writing.jpg') }}" alt=""></a>
+				</div>
+				<div class="it-event-2-content">
+					<h4 class="it-event-2-title">
+						<a href="{{ route('pages.events.detail', ['workshop-advanced-ms-word-for-thesis-writing']) }}" style="font-family:'Khmer OS Siemreap';">
+							សិក្ខាសាលាស្តីអំពី “កម្មវិធី MS Word កម្រិតខ្ពស់ សម្រាប់ការសរសេរសារណាបទប្រកបដោយគុណភាព”
+						</a>
+					</h4>
+					<div class="it-event-2-text" style="height:224px;max-height:224px;overflow:hidden;font-family:'Khmer OS Siemreap';">
+						<p class="mb-0 pb-10">នៅថ្ងៃព្រហស្បតិ៍ ទី១៥ ខែសីហា ឆ្នាំ២០២៤ វេលាម៉ោង ៨ព្រឹក មហាវិទ្យាល័យអប់រំវិទ្យាសង្គម និងក្រុមការងារយុវជន ស.ស.យ.ក នៃវិទ្យាស្ថានគរុកោសល្យបាត់ដំបង បានរៀបចំសិក្ខាសាលាអំពី "កម្មវិធី MS Word កម្រិតខ្ពស់ សម្រាប់ការសរសេរសារណាបទប្រកបដោយគុណភាព" ក្រោមអធិបតីភាព ឯកឧត្តមបណ្ឌិត ជា រដ្ឋា នាយកវិទ្យាស្ថានគរុកោសល្យបាត់ដំបង ដោយមានការអញ្ជើញចូលរួមពី លោកនាយករង ព្រឹទ្ធបុរសស្តីទី ព្រឺទ្ធបុរសរង លោកគ្រូ-អ្នកគ្រូឧទ្ទេស និងគរុនិស្សិតបឋម និងមធ្យម ប្រមាណ ២៧០ នាក់។ </p>
+					</div>
+					<div class="it-event-2-meta"></div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+		<div class="it-event-2-item-box">
+			<div class="it-event-2-item">
+				<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
 					<a href="{{ route('pages.events.detail', ['btec-english-placement-test']) }}">
 						<img src="{{ asset('assets/img/event/btec-english-placement-test.jpg') }}" alt=""></a>
 				</div>
@@ -194,7 +216,7 @@ Our Events
 		</div>
 		</div>
 	</div>
-	<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+	<?php /* ?><div class="col-xl-4 col-lg-6 col-md-6 mb-30">
 		<div class="it-event-2-item-box">
 		<div class="it-event-2-item">
 		<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
@@ -215,7 +237,7 @@ Our Events
 		</div>
 		</div>
 	</div>
-	<?php /* ?><div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+	<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
 		<div class="it-event-2-item-box">
 		<div class="it-event-2-item">
 		<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">

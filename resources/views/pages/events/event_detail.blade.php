@@ -101,6 +101,8 @@
         <x-events.bten_opening_ceremony />
     @elseif($event_title =='btec-english-placement-test')
         <x-events.btec_english_placement_test />
+    @elseif($event_title =='workshop-advanced-ms-word-for-thesis-writing')
+        <x-events.workshop_advanced_ms_word_for_thesis_writing />
     @else
         <x-events.event_detail />
     @endif
