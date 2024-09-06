@@ -97,14 +97,16 @@
         <x-events.btec_quides_students_become_teachers />
     @elseif($event_title =='nisti-and-btec-forge-mou-to-propel-stem-innovation')
         <x-events.btec_and_nisti_mou_stem_innovation />
-    @elseif($event_title =='btec-opening-ceremony')
+    @elseif($event_title == 'btec-opening-ceremony')
         <x-events.bten_opening_ceremony />
-    @elseif($event_title =='btec-english-placement-test')
+    @elseif($event_title == 'btec-english-placement-test')
         <x-events.btec_english_placement_test />
-    @elseif($event_title =='workshop-advanced-ms-word-for-thesis-writing')
+    @elseif($event_title == 'workshop-advanced-ms-word-for-thesis-writing')
         <x-events.workshop_advanced_ms_word_for_thesis_writing />
-    @elseif($event_title =='Strengthen-Cooperation-between-Battambang-Teacher-Education-College-and-Us-Embassy')
+    @elseif($event_title == 'Strengthen-Cooperation-between-Battambang-Teacher-Education-College-and-Us-Embassy')
         <x-events.stregnthen_cooperation_btec_us_embassy />
+    @elseif($event_title == 'BTEC-opening-ceremony-pimary-student-generation4th')
+        <x-events.btec_opening_ceremony_pimary_student_generation4th />
     @else
         <x-events.event_detail />
     @endif
