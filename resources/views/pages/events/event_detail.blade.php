@@ -103,6 +103,8 @@
         <x-events.btec_english_placement_test />
     @elseif($event_title =='workshop-advanced-ms-word-for-thesis-writing')
         <x-events.workshop_advanced_ms_word_for_thesis_writing />
+    @elseif($event_title =='Strengthen-Cooperation-between-Battambang-Teacher-Education-College-and-Us-Embassy')
+        <x-events.stregnthen_cooperation_btec_us_embassy />
     @else
         <x-events.event_detail />
     @endif
