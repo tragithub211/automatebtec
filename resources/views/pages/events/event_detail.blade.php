@@ -107,6 +107,8 @@
         <x-events.stregnthen_cooperation_btec_us_embassy />
     @elseif($event_title == 'BTEC-opening-ceremony-pimary-student-generation4th')
         <x-events.btec_opening_ceremony_pimary_student_generation4th />
+    @elseif($event_title == 'The-BTEC-management-team-and-SHCC-team-held-a-courtesy-meeting-with-the-Nippon-Foundation-in-Tokyo-Japan')
+        <x-events.btec_130924 />
     @else
         <x-events.event_detail />
     @endif

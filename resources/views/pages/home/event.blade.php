@@ -18,6 +18,28 @@ Our Events
 		<div class="it-event-2-item-box">
 			<div class="it-event-2-item">
 				<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
+					<a href="{{ route('pages.events.detail', ['The-BTEC-management-team-and-SHCC-team-held-a-courtesy-meeting-with-the-Nippon-Foundation-in-Tokyo-Japan']) }}">
+						<img src="{{ asset('assets/img/event/btec-shcc-courtesy-meeting-with-nippon-foundation-in-japan.jpg') }}" alt=""></a>
+				</div>
+				<div class="it-event-2-content">
+					<h4 class="it-event-2-title">
+						<a href="{{ route('pages.events.detail', ['The-BTEC-management-team-and-SHCC-team-held-a-courtesy-meeting-with-the-Nippon-Foundation-in-Tokyo-Japan']) }}" style="font-family:'Khmer OS Siemreap';">
+							ជំនួបសំដែងការគួរសមជាមួយនាយកប្រតិបត្តិមូលនិធិជប៉ុន (Nippon Foundation) នៅទីក្រុងតូក្យូប្រទេសជប៉ុន
+						</a>
+					</h4>
+					<div class="it-event-2-text" style="height:224px;max-height:224px;overflow:hidden;font-family:'Khmer OS Siemreap';">
+						<p class="mb-0 pb-10">ស្ថិតក្រោមគម្រោងអភិវឌ្ឍសុខភាពសិក្សាតាមសាលារៀនសម្រាប់កុមារកម្ពុជា (SHCC) មូលនិធិជប៉ុន (Nippon Foundation)បានអនុញ្ញាតឱ្យក្រុមការងារគម្រោង និងថ្នាក់ដឹកនាំ គ្រូឧទ្ទេសសុខភាព នៃវិទ្យាស្ថានគរុកោសល្យទាំង២ចូលជួបសំដែងការគួរសម និងចែករំលែកនូវចំណេះដឹង និងបទពិសោធន៍ដែលទទួលបានតាមរយៈវគ្គបណ្តុះបណ្តាលសុខភាពលើកទី៣ នៅប្រទេសជប៉ុន។ លោក មូរី យូរី នាយកប្រតិបត្តិនៃមូលនិធិNipponបានមានប្រសាសន៍ថាគម្រោងអភិវឌ្ឍសុខភាពសិក្សាសម្រាប់កុមារកម្ពុជា(SHCC)ពិតជាមានសារៈសំខាន់សម្រាប់សុខមាលភាពកុមារកម្ពុជា លោកសង្ឃឹមថាវគ្គបណ្តុះបណ្តាលអំពីសុខភាពសិក្សាលើកទី៣នៅប្រទេសជប៉ុននេះ នឹងចូលរួមបន្ថែមក្នុងការកសាងសមត្ថភាពគ្រូឧទ្ទេសបង្គោលសុខភាពរបស់វិទ្យាស្ថានគរុកោសល្យ និងរៀនសូត្របន្ថែមពីឧត្តមានុវត្តន៍នៃការអប់រំសុខភាព និងការដំណើរការបន្ទប់សុខភាពតាមសាលារៀននៅប្រទេសជប៉ុន។</p>
+					</div>
+					<div class="it-event-2-meta"></div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+		<div class="it-event-2-item-box">
+			<div class="it-event-2-item">
+				<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
 					<a href="{{ route('pages.events.detail', ['BTEC-opening-ceremony-pimary-student-generation4th']) }}">
 						<img src="{{ asset('assets/img/event/btec-opening-ceremony-pimary-student-generation4th.jpg') }}" alt=""></a>
 				</div>
@@ -195,7 +217,7 @@ Our Events
 		</div>
 	</div>
 
-	<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+	<?php /* ?><div class="col-xl-4 col-lg-6 col-md-6 mb-30">
 		<div class="it-event-2-item-box">
 			<div class="it-event-2-item">
 				<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
@@ -217,7 +239,7 @@ Our Events
 		</div>
 	</div>
 
-	<?php /* ?><div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+	<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
 		<div class="it-event-2-item-box">
 		<div class="it-event-2-item">
 		<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
