@@ -18,6 +18,28 @@ Our Events
 		<div class="it-event-2-item-box">
 			<div class="it-event-2-item">
 				<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
+					<a href="{{ route('pages.events.detail', ['The-BTEC-management-team-and-SHCC-team-held-a-courtesy-meeting-with-the-Tokyo-Gakugei-University-in-Japan']) }}">
+						<img src="{{ asset('assets/img/event/btec-shcc-courtesy-meeting-with-tgu-in-japan.jpg') }}" alt=""></a>
+				</div>
+				<div class="it-event-2-content">
+					<h4 class="it-event-2-title">
+						<a href="{{ route('pages.events.detail', ['The-BTEC-management-team-and-SHCC-team-held-a-courtesy-meeting-with-the-Tokyo-Gakugei-University-in-Japan']) }}" style="font-family:'Khmer OS Siemreap';">
+							សកម្មភាពគណៈគ្រប់គ្រង និងគ្រូឧទ្ទេសសុខភាពនៃវិទ្យាស្ថានគរុកោសល្យបាត់ដំបង ក្នុងវគ្គបណ្តុះបណ្តាលស្តីពីសុខភាពសិក្សា នៅសាកលវិទ្យាល័យ Tokyo Gakugei University (TGU) នៃទីក្រុងតូក្យូ ប្រទេសជប៉ុន
+						</a>
+					</h4>
+					<div class="it-event-2-text" style="height:224px;max-height:224px;overflow:hidden;font-family:'Khmer OS Siemreap';">
+						<p class="mb-0 pb-10">ទីក្រុងទូក្យូ៖ វគ្គបណ្តុះបណ្តាស្តីពីសុខភាពសិក្សាតាមសាលារៀនបានបញ្ចប់ដោយជោគជ័យ សូមថ្លែងអំណរគុណជាពិសេសដល់ក្រុមការងារគម្រោងអភិវឌ្ឍសុខភាពសិក្សាតាមសាលារៀនសម្រាប់កុមារកម្ពុជា (SHCC) ដឹកនាំដោយលោកសាស្រ្តាចារ្យ Asakura Takashi សាស្រ្តាចារ្យនៃសាកលវិទ្យាល័យ TGU និងជាប្រធានគម្រោង SHCC ព្រមទាំងថ្នាក់ដឹកនាំ គណៈគ្រប់គ្រង សាស្រ្តាចារ្យ នៃសាកលវិទ្យាល័យជាដៃគូទាំងអស់ ពិសេសសាលាបឋមសិក្សា និងអនុវិទ្យាល័យអនុវត្តន៍ទាំង៤ ដែលបានទទួលស្វាគមន៍យ៉ាងកក់ក្តៅ និងចែករំលែកនូវឧត្តមានុវត្តន៍នៃការអប់រំសុខភាព និងដំណើរការបន្ទប់សុខភាពសម្រាប់កុមារជប៉ុន ដែលបទពិសោធន៍ទាំងនេះមានសារៈសំខាន់សម្រាប់វិទ្យាស្ថានគរុកោសល្យ ក្នុងការបណ្តុះបណ្តាលមុខវិជ្ជាសុខភាពសិក្សា និងការរៀបចំបន្ទប់សុខភាពក្នុងវិទ្យាស្ថាន សាលាអនុវត្តន៍ និងសាលាសហការ ដែលជាផ្នែកមួយឆ្លើយតបនឹងស្តង់ដាសាលារៀនគំរូនៅកម្ពុជា។ ជាថ្មីម្តងទៀត សូមថ្លែងអំណរគុណដល់ក្រុមការងារគម្រោង SHCC ទាំងនៅភ្នំពេញ និងនៅជប៉ុន សម្រាប់ការរៀបចំដំណើរការវគ្គបណ្តុះបណ្តាលនេះដ៏ល្អ និងថ្លែងអំណរគុណដល់លោកគ្រូ-អ្នកគ្រូឧទ្ទេសសុខភាពទាំងអស់ដែលបានចូលរួមយ៉ាងសកម្មអំលុងពេលបណ្តុះបណ្តាលនេះ និងមានការប្តេជ្ញាចិត្តខ្ពស់ក្នុងការពាំនាំយកចំណេះដឹង បទពិសោធន៍ដែលបានរៀនសូត្រនៅជប៉ុន មកអនុវត្តនៅកម្ពុជា ដើម្បីធ្វើឱ្យប្រសើរឡើងនូវសុខភាពសិក្សាសម្រាប់កុមារកម្ពុជា និងសម្រេចគោលនយោបាយរបស់រាជរដ្ឋាភិបាលកម្ពុជាស្តីពីសុខភាពសិក្សាតាមសាលារៀនឆ្នាំ២០៣០។</p>
+					</div>
+					<div class="it-event-2-meta"></div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+		<div class="it-event-2-item-box">
+			<div class="it-event-2-item">
+				<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
 					<a href="{{ route('pages.events.detail', ['The-BTEC-management-team-and-SHCC-team-held-a-courtesy-meeting-with-the-Nippon-Foundation-in-Tokyo-Japan']) }}">
 						<img src="{{ asset('assets/img/event/btec-shcc-courtesy-meeting-with-nippon-foundation-in-japan.jpg') }}" alt=""></a>
 				</div>
@@ -195,7 +217,7 @@ Our Events
 		</div>
 	</div>
 
-	<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+	<?php /* ?><div class="col-xl-4 col-lg-6 col-md-6 mb-30">
 		<div class="it-event-2-item-box">
 			<div class="it-event-2-item">
 				<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
