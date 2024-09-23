@@ -37,7 +37,7 @@
             <div class="col-4 mt-20"><img src="{{ asset('assets/img/event/btec-shcc-courtesy-meeting-with-nippon-foundation-in-japan-05.jpg') }}"></div>
             <div class="col-4 mt-20"><img src="{{ asset('assets/img/event/btec-shcc-courtesy-meeting-with-nippon-foundation-in-japan-06.jpg') }}"></div>
             <div class="col-4 mt-20"><img src="{{ asset('assets/img/event/btec-shcc-courtesy-meeting-with-nippon-foundation-in-japan-07.jpg') }}"></div>
-            <div class="col-4 mt-20"><img src="{{ asset('assets/img/event/btec-shcc-courtesy-meeting-with-nippon-foundation-in-japan-08.jpg') }}"></div>
+            <div class="col-4 mt-20"><img src="{{ asset('assets/img/event/btec-shcc-courtesy-meeting-with-nippon-foundation-in-japan-08git .jpg') }}"></div>
         </div>
     </div>
 </div>

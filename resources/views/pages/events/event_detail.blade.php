@@ -111,6 +111,8 @@
         <x-events.btec_130924 />
     @elseif($event_title == 'The-BTEC-management-team-and-SHCC-team-held-a-courtesy-meeting-with-the-Tokyo-Gakugei-University-in-Japan')
         <x-events.btec_150924 />
+    @elseif($event_title == 'btec-and-forum-zfd-meetup')
+        <x-events.btec_200924 />
     @else
         <x-events.event_detail />
     @endif

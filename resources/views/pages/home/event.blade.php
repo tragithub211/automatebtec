@@ -18,6 +18,28 @@ Our Events
 		<div class="it-event-2-item-box">
 			<div class="it-event-2-item">
 				<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
+					<a href="{{ route('pages.events.detail', ['btec-and-forum-zfd-meetup']) }}">
+						<img src="{{ asset('assets/img/event/btec-and-forum-zfd-meetup.jpg') }}" alt=""></a>
+				</div>
+				<div class="it-event-2-content">
+					<h4 class="it-event-2-title">
+						<a href="{{ route('pages.events.detail', ['btec-and-forum-zfd-meetup']) }}" style="font-family:'Khmer OS Siemreap';">
+							ជំនួបសំដែងការគួរសម និងពិភាក្សាការងាររវាងវិទ្យាស្ថានគរុកោសល្យបាត់ដំបង និងអង្គការវេទិការសេវាសន្តិភាពស៊ីវិល (forumZFD) ប្រចំាកម្ពុជា
+						</a>
+					</h4>
+					<div class="it-event-2-text" style="height:224px;max-height:224px;overflow:hidden;font-family:'Khmer OS Siemreap';">
+						<p class="mb-0 pb-10">នារសៀលថ្ងៃសុក្រ ទី២០ ខែកញ្ញា ឆ្នាំ២០២៤ ឯកឧត្តមបណ្ឌិត ជា រដ្ឋា នាយកវិទ្យាស្ថានគរុកោសល្យបាត់ដំបង បានទទួលជួបសំដែងការគួរសម និងពិភាក្សាការងារជាមួយលោកស្រី Ilona Kuhangel នាយិកាអង្គការវេទិការសេវាសន្តិភាពស៊ីវិល (forumZFD) ប្រចាំកម្ពុជា ដោយមានការអញ្ជើញចូលរួមលោកនាយករង ថ្នាក់ដឹកនាំមហាវិទ្យាល័យនៃវិទ្យាស្ថានគរុកោសល្យបាត់ដំបង។ឆ្លៀងក្នុងឱកាសនៃការប្រារព្ធពិធី “ទិវាសន្តិភាពពិភពលោក” ឆ្នាំ២០២៤ នៅក្នុងខេត្តបាត់ដំបងលោកស្រី Ilona Kuhangel បានអញ្ជើញចូលធ្វើទស្សនកិច្ចនៅ វ.គ.ប និងជួបពិភាក្សាការងារជាមួយថ្នាក់ដឹកនាំវិទ្យាស្ថាន។លោកស្រីនាយិកាអង្គការforumZFDប្រចាំកម្ពុជា សូមវាយតម្លៃខ្ពស់ចំពោះកិច្ចសហប្រតិបត្តិការរវាង វ.គ.ប និងអង្គការforumZFDប្រចាំកម្ពុជា នាពេលកន្លងមកស្របតាមស្មារតីនៃកិច្ចព្រមព្រៀងរវាង វ.គ.ប និងអង្គការforumZFD សំដៅដល់ការកសាងភាពជាដៃគូរក្នុងការបណ្តុះបណ្តាល និងលើកម្ពស់ការយល់ដឹងពីការអប់រំសន្តិភាពតាមគ្រឹះស្ថានសិក្សានៅខេត្តបាត់ដំបង។</p>
+					</div>
+					<div class="it-event-2-meta"></div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+		<div class="it-event-2-item-box">
+			<div class="it-event-2-item">
+				<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
 					<a href="{{ route('pages.events.detail', ['The-BTEC-management-team-and-SHCC-team-held-a-courtesy-meeting-with-the-Tokyo-Gakugei-University-in-Japan']) }}">
 						<img src="{{ asset('assets/img/event/btec-shcc-courtesy-meeting-with-tgu-in-japan.jpg') }}" alt=""></a>
 				</div>
@@ -195,7 +217,7 @@ Our Events
 		</div>
 	</div>
 
-	<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+	<?php /* ?><div class="col-xl-4 col-lg-6 col-md-6 mb-30">
 		<div class="it-event-2-item-box">
 			<div class="it-event-2-item">
 				<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
@@ -217,7 +239,7 @@ Our Events
 		</div>
 	</div>
 
-	<?php /* ?><div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+	<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
 		<div class="it-event-2-item-box">
 			<div class="it-event-2-item">
 				<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
