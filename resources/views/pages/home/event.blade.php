@@ -18,6 +18,51 @@ Our Events
 		<div class="it-event-2-item-box">
 			<div class="it-event-2-item">
 				<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
+					<a href="{{ route('pages.events.detail', ['btec-2nd-conference-2024']) }}">
+						<img src="{{ asset('assets/img/event/btec-2nd-conference-2024.jpg') }}" alt=""></a>
+				</div>
+				<div class="it-event-2-content">
+					<h4 class="it-event-2-title">
+						<a href="{{ route('pages.events.detail', ['btec-2nd-conference-2024']) }}" style="font-family:'Khmer OS Siemreap';">
+							សន្និសីទអប់រំប្រចាំឆ្នាំ២០២៤ នៃវិទ្យាស្ថានគរុកោសល្យបាត់ដំបង ក្រោមប្រធានបទ «សមាហរណកម្មបច្ចេកវិទ្យាព័ត៌មាន និងសារគមនាគមន៍ និងការស្រាវជ្រាវក្នុងការបង្រៀន និងរៀនដើម្បីគាំទ្របរិវត្តកម្មឌីជីថលក្នុងការអប់រំនៅកម្ពុជា» នឹងប្រព្រឹត្តទៅនៅថ្ងៃទី២ ខែវិច្ឆិកា ឆ្នាំ២០២៤ ខាងមុខនេះ!
+						</a>
+					</h4>
+					<div class="it-event-2-text" style="height:224px;max-height:224px;overflow:hidden;font-family:'Khmer OS Siemreap';">
+						<p class="mb-0 pb-10">សន្និសីទនេះនឹងមានការចូលរួមពីវាគ្មិនកិត្តិយសដែលមកពីក្រសួងអប់រំ យុវជន និងកីឡា អ្នកជំនាញផ្នែកអប់រំ អ្នកស្រាវជ្រាវ លោកគ្រូ អ្នកគ្រូ អ្នកអប់រំ និងអ្នកពាក់ព័ន្ធជាច្រើនទៀត។
+							ចូលរួមដោយសេរី និងឥតគិតថ្លៃនៅវិទ្យាស្ថានគរុកោសល្យបាត់ដំបង និងស្ដាប់ការពិភាក្សា និងការធ្វើបទបង្ហាញចម្រុះរបស់វាគ្មិនដែលមានដូចជា៖</p>
+					</div>
+					<div class="it-event-2-meta"></div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+		<div class="it-event-2-item-box">
+			<div class="it-event-2-item">
+				<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
+					<a href="{{ route('pages.events.detail', ['btec-opening-ceremony-of-13th-generation-basic-teacher-training-course']) }}">
+						<img src="{{ asset('assets/img/event/btec-opening-ceremony-of-13th-generation-basic-teacher-training-course.jpg') }}" alt=""></a>
+				</div>
+				<div class="it-event-2-content">
+					<h4 class="it-event-2-title">
+						<a href="{{ route('pages.events.detail', ['btec-opening-ceremony-of-13th-generation-basic-teacher-training-course']) }}" style="font-family:'Khmer OS Siemreap';">
+							កម្មវិធីបើកវគ្គបំប៉នគ្រូបង្រៀនកម្រិតមូលដ្ឋានជំនាន់ទី១៣ នៅវិទ្យាស្ថានគរុកោសល្យបាត់ដំបង
+						</a>
+					</h4>
+					<div class="it-event-2-text" style="height:224px;max-height:224px;overflow:hidden;font-family:'Khmer OS Siemreap';">
+						<p class="mb-0 pb-10">បាត់ដំបង៖ នាព្រឹកថ្ងៃព្រហស្បតិ៍ ទី២៤ ខែតុលា ឆ្នាំ២០២៤ នៅវិទ្យាស្ថានគរុកោសល្យបាត់ដំបង (វ.គ.ប) បានរៀបចំពិធីបើកវគ្គបំប៉នគ្រូបង្រៀនកម្រិតមូលដ្ឋានជំនាន់ទី១៣ លើកទី២ ក្រោមអធិបតីភាព ឯកឧត្តមបណ្ឌិត ជា រដ្ឋា នាយកវិទ្យាស្ថានគរុកោសល្យបាត់ដំបង ដោយមានការអញ្ជើញចូលរួមពីគណៈគ្រប់គ្រង លោកគ្រូ-អ្នកគ្រូឧទ្ទេសវិទ្យាស្ថាន និង សិក្ខាកាមវគ្គខ្លីប្រមាណ៣៥០នាក់ ក្នុងនោះលោកគ្រូ-អ្នកគ្រូជាសិក្ខាមមានចំនួន ៣២៩ នាក់ (ស្រី ១៥៤ នាក់)ដែលអញ្ជើញមកពីខេត្តចំនួន៦ ចំណុះឱ្យភូមិភាគខេត្តបាត់ដំបង។ (https://www.facebook.com/share/p/FXVik4rYeQo1QZZB/?)</p>
+					</div>
+					<div class="it-event-2-meta"></div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+		<div class="it-event-2-item-box">
+			<div class="it-event-2-item">
+				<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
 					<a href="{{ route('pages.events.detail', ['btec-and-forum-zfd-meetup']) }}">
 						<img src="{{ asset('assets/img/event/btec-and-forum-zfd-meetup.jpg') }}" alt=""></a>
 				</div>
@@ -172,7 +217,7 @@ Our Events
 		</div>
 	</div>
 
-	<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+	<?php /* ?><div class="col-xl-4 col-lg-6 col-md-6 mb-30">
 		<div class="it-event-2-item-box">
 			<div class="it-event-2-item">
 				<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
@@ -217,7 +262,7 @@ Our Events
 		</div>
 	</div>
 
-	<?php /* ?><div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+	<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
 		<div class="it-event-2-item-box">
 			<div class="it-event-2-item">
 				<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">

@@ -113,6 +113,10 @@
         <x-events.btec_150924 />
     @elseif($event_title == 'btec-and-forum-zfd-meetup')
         <x-events.btec_200924 />
+    @elseif($event_title == 'btec-opening-ceremony-of-13th-generation-basic-teacher-training-course')
+        <x-events.btec_251024 />
+    @elseif($event_title == 'btec-2nd-conference-2024')
+        <x-events.btec_251024_1 />
     @else
         <x-events.event_detail />
     @endif
