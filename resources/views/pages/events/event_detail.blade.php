@@ -117,6 +117,8 @@
         <x-events.btec_251024 />
     @elseif($event_title == 'btec-2nd-conference-2024')
         <x-events.btec_251024_1 />
+    @elseif($event_title == 'btec-2nd-conference-2024-event')
+        <x-events.btec_021124 />
     @else
         <x-events.event_detail />
     @endif

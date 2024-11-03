@@ -18,6 +18,28 @@ Our Events
 		<div class="it-event-2-item-box">
 			<div class="it-event-2-item">
 				<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
+					<a href="{{ route('pages.events.detail', ['btec-2nd-conference-2024-event']) }}">
+						<img src="{{ asset('assets/img/event/btec-2nd-conference-2024-event.jpg') }}" alt=""></a>
+				</div>
+				<div class="it-event-2-content">
+					<h4 class="it-event-2-title">
+						<a href="{{ route('pages.events.detail', ['btec-2nd-conference-2024-event']) }}" style="font-family:'Khmer OS Siemreap';">
+							វិទ្យាស្ថានគរុកោសល្យបាត់ដំបង រៀបចំសនិ្នសីទអប់រំប្រចាំឆ្នាំ២០២៤ លើកម្ពស់វប្បធម៌ស្រាវជ្រាវអប់រំ និងគុណភាពគ្រូបង្រៀននៅកម្ពុជា ស្របតាមការរីកចម្រើននៃបច្ចេកវិទ្យាឌីជីថល
+						</a>
+					</h4>
+					<div class="it-event-2-text" style="height:224px;max-height:224px;overflow:hidden;font-family:'Khmer OS Siemreap';">
+						<p class="mb-0 pb-10">(បាត់ដំបង)៖ វិទ្យាស្ថានគរុកោសល្យបាត់ដំបង បានកម្មវិធីសនិ្នសីទអប់រំប្រចាំឆ្នាំ២០២៤ ​ក្រោមប្រធានបទ«សមាហរណកម្មបច្ចេកវិទ្យាព័ត៌មាននិងសារគមនាគមន៍ និងការស្រាវជ្រាវក្នុងការបង្រៀន និងរៀនដើម្បីគាំទ្របរិវត្តកម្មឌីជីថលនៃការអប់រំនៅកម្ពុជា» ដើម្បីលើកកម្ពស់វប្បធម៌ស្រាវជ្រាវអប់រំនៅកម្ពុជា ​និងរុញច្រានគុណភាពនៃការអប់រំ និងបណ្តុះបណ្តាលគ្រូនៅកម្ពុជា។</p>
+					</div>
+					<div class="it-event-2-meta"></div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+		<div class="it-event-2-item-box">
+			<div class="it-event-2-item">
+				<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
 					<a href="{{ route('pages.events.detail', ['btec-2nd-conference-2024']) }}">
 						<img src="{{ asset('assets/img/event/btec-2nd-conference-2024.jpg') }}" alt=""></a>
 				</div>
@@ -191,7 +213,7 @@ Our Events
 		</div>
 	</div>
 
-	<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+	<?php /* ?><div class="col-xl-4 col-lg-6 col-md-6 mb-30">
 		<div class="it-event-2-item-box">
 			<div class="it-event-2-item">
 				<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
@@ -217,7 +239,7 @@ Our Events
 		</div>
 	</div>
 
-	<?php /* ?><div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+	<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
 		<div class="it-event-2-item-box">
 			<div class="it-event-2-item">
 				<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
