@@ -18,6 +18,28 @@ Our Events
 		<div class="it-event-2-item-box">
 			<div class="it-event-2-item">
 				<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
+					<a href="{{ route('pages.events.detail', ['btec-opening-ceremony-student-teacher-12-plus-4-generation-3th']) }}">
+						<img src="{{ asset('assets/img/event/btec-opening-ceremony-student-teacher-12-plus-4-generation-3th.jpg') }}" alt=""></a>
+				</div>
+				<div class="it-event-2-content">
+					<h4 class="it-event-2-title">
+						<a href="{{ route('pages.events.detail', ['btec-opening-ceremony-student-teacher-12-plus-4-generation-3th']) }}" style="font-family:'Khmer OS Siemreap';">
+							កម្មវិធីបើកបវេសនកាល គរុនិស្សិត (១២+៤)ជំនាន់ទី ៣ (សម្រាប់ពត៌មានលម្អិតសូមចូលទៅកាន់តំណរភ្ជាប់ខាងក្រោម)
+						</a>
+					</h4>
+					<div class="it-event-2-text" style="height:224px;max-height:224px;overflow:hidden;font-family:'Khmer OS Siemreap';">
+						<p class="mb-0 pb-10">នៅ ថ្ងៃចន្ទ៤រោច ខែ កត្តិក ឆ្នាំរោង ឆស័ក ព.ស ២៥៦៨ ថ្ងៃទី ៤ ខែ វិច្ឆិកា ឆ្នាំ២០២៤ នៅវិទ្យាស្ថានគរុកោសល្យបាត់ដំបងបាន «ប្រារព្ធកម្មវិធី បើកបវេសនកាល និងការសំណេះសំណាលជាមួយ មាតាបិតា អាណាព្យាបាល គរុនិស្សិតបរិញ្ញាបត្រអប់រំ(១២+៤) ឆ្នាំទី៤ ជំនាន់ទី ៣ នៃវិទ្យាស្ថានគរុកោសល្យបាត់ដំបង» ក្រោមអធិតីភាពដ៍ខ្ពង់ខ្ពស់ ឯកឧត្តមបណ្ឌិត ជា រដ្ឋា នាយកវិទ្យាស្ថានគរុកោសល្យបាត់ដំបង និង គណៈគ្រប់គ្រង គ្រូឧទ្ទេស គរុនិស្សិត និងមាតាបិតា អាណាព្យាបាល។ (https://www.facebook.com/TEC.Battambang/posts/1072419851558242)</p>
+					</div>
+					<div class="it-event-2-meta"></div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+		<div class="it-event-2-item-box">
+			<div class="it-event-2-item">
+				<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
 					<a href="{{ route('pages.events.detail', ['btec-2nd-conference-2024-event']) }}">
 						<img src="{{ asset('assets/img/event/btec-2nd-conference-2024-event.jpg') }}" alt=""></a>
 				</div>
@@ -191,7 +213,7 @@ Our Events
 		</div>
 	</div>
 
-	<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+	<?php /* ?><div class="col-xl-4 col-lg-6 col-md-6 mb-30">
 		<div class="it-event-2-item-box">
 			<div class="it-event-2-item">
 				<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
@@ -213,7 +235,7 @@ Our Events
 		</div>
 	</div>
 
-	<?php /* ?><div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+	<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
 		<div class="it-event-2-item-box">
 			<div class="it-event-2-item">
 				<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
