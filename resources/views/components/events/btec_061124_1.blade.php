@@ -11,6 +11,7 @@
 
                     <div class="it-evn-details-text mb-40" style="font-family:'Khmer OS Siemreap';">
                         <p>កម្រងរូបភាព សន្និសីទអប់រំប្រចាំឆ្នាំ២០២៤ នៃវិទ្យាស្ថានគរុកោសល្យបាត់ដំបង ក្រោមប្រធានបទ «សមាហរណកម្មបច្ចេកវិទ្យាព័ត៌មាន និងសារគមនាគមន៍ និងការស្រាវជ្រាវ​ ក្នុងការបង្រៀន និងរៀន ដើម្បីគាំទ្របរិវត្តកម្មឌីជីថលនៃការអប់រំនៅកម្ពុជា»</p>
+                        <p><a href="https://m.facebook.com/story.php?story_fbid=1073339151466312&id=100063707119315" target="_blank"><strong><u>Link to Facebook Post</u></strong></a></p>
                         <p>-------------------------</p>
 
                         <hr style="margin-top:50px;">

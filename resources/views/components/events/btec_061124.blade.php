@@ -11,6 +11,7 @@
 
                     <div class="it-evn-details-text mb-40" style="font-family:'Khmer OS Siemreap';">
                         <p>ភាពជាដៃគូរវាងវិស័យរដ្ឋ និងឯកជនដើម្បីធ្វើឱ្យប្រសើរឡើងប្រព័ន្ធនៃការបណ្តុះបណ្តាលគ្រូ និងគុណភាពអប់រំនៅកម្ពុជា</p>
+                        <p><a href="https://m.facebook.com/story.php?story_fbid=1074147914718769&id=100063707119315" target="_blank"><strong><u>Link to Facebook Post</u></strong></a></p>
                         <p>-------------------------</p>
 
                         <hr style="margin-top:50px;">
