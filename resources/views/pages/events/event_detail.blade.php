@@ -121,6 +121,10 @@
         <x-events.btec_021124 />
     @elseif($event_title == 'btec-opening-ceremony-student-teacher-12-plus-4-generation-3th')
         <x-events.btec_051124 />
+    @elseif($event_title == 'Public-Private-Partnership-to-Improve-Teacher-Training-System-and-Quality-of-Education-in-Cambodia')
+        <x-events.btec_061124 />
+    @elseif($event_title == 'BTEC-Annual-Education-Conference-2024-Gallery')
+        <x-events.btec_061124_1 />
     @else
         <x-events.event_detail />
     @endif

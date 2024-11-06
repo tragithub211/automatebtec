@@ -18,6 +18,50 @@ Our Events
 		<div class="it-event-2-item-box">
 			<div class="it-event-2-item">
 				<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
+					<a href="{{ route('pages.events.detail', ['BTEC-Annual-Education-Conference-2024-Gallery']) }}">
+						<img src="{{ asset('assets/img/event/btec-annual-education-conference-2024-gallery.jpg') }}" alt=""></a>
+				</div>
+				<div class="it-event-2-content">
+					<h4 class="it-event-2-title">
+						<a href="{{ route('pages.events.detail', ['BTEC-Annual-Education-Conference-2024-Gallery']) }}" style="font-family:'Khmer OS Siemreap';">
+							កម្រងរូបភាព សន្និសីទអប់រំប្រចាំឆ្នាំ២០២៤ នៃវិទ្យាស្ថានគរុកោសល្យបាត់ដំបង ក្រោមប្រធានបទ «សមាហរណកម្មបច្ចេកវិទ្យាព័ត៌មាន និងសារគមនាគមន៍ និងការស្រាវជ្រាវ​ ក្នុងការបង្រៀន និងរៀន ដើម្បីគាំទ្របរិវត្តកម្មឌីជីថលនៃការអប់រំនៅកម្ពុជា»
+						</a>
+					</h4>
+					<div class="it-event-2-text" style="height:224px;max-height:224px;overflow:hidden;font-family:'Khmer OS Siemreap';">
+						<p class="mb-0 pb-10">កម្រងរូបភាព សន្និសីទអប់រំប្រចាំឆ្នាំ២០២៤ នៃវិទ្យាស្ថានគរុកោសល្យបាត់ដំបង ក្រោមប្រធានបទ «សមាហរណកម្មបច្ចេកវិទ្យាព័ត៌មាន និងសារគមនាគមន៍ និងការស្រាវជ្រាវ​ ក្នុងការបង្រៀន និងរៀន ដើម្បីគាំទ្របរិវត្តកម្មឌីជីថលនៃការអប់រំនៅកម្ពុជា»</p>
+					</div>
+					<div class="it-event-2-meta"></div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+		<div class="it-event-2-item-box">
+			<div class="it-event-2-item">
+				<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
+					<a href="{{ route('pages.events.detail', ['Public-Private-Partnership-to-Improve-Teacher-Training-System-and-Quality-of-Education-in-Cambodia']) }}">
+						<img src="{{ asset('assets/img/event/public-private-partnership-workshop.jpg') }}" alt=""></a>
+				</div>
+				<div class="it-event-2-content">
+					<h4 class="it-event-2-title">
+						<a href="{{ route('pages.events.detail', ['Public-Private-Partnership-to-Improve-Teacher-Training-System-and-Quality-of-Education-in-Cambodia']) }}" style="font-family:'Khmer OS Siemreap';">
+							ភាពជាដៃគូរវាងវិស័យរដ្ឋ និងឯកជនដើម្បីធ្វើឱ្យប្រសើរឡើងប្រព័ន្ធនៃការបណ្តុះបណ្តាលគ្រូ និងគុណភាពអប់រំនៅកម្ពុជា
+						</a>
+					</h4>
+					<div class="it-event-2-text" style="height:224px;max-height:224px;overflow:hidden;font-family:'Khmer OS Siemreap';">
+						<p class="mb-0 pb-10">ភាពជាដៃគូរវាងវិស័យរដ្ឋ និងឯកជនដើម្បីធ្វើឱ្យប្រសើរឡើងប្រព័ន្ធនៃការបណ្តុះបណ្តាលគ្រូ និងគុណភាពអប់រំនៅកម្ពុជា</p>
+					</div>
+					<div class="it-event-2-meta"></div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+		<div class="it-event-2-item-box">
+			<div class="it-event-2-item">
+				<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
 					<a href="{{ route('pages.events.detail', ['btec-opening-ceremony-student-teacher-12-plus-4-generation-3th']) }}">
 						<img src="{{ asset('assets/img/event/btec-opening-ceremony-student-teacher-12-plus-4-generation-3th.jpg') }}" alt=""></a>
 				</div>
@@ -169,7 +213,7 @@ Our Events
 		</div>
 	</div>
 
-	<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+	<?php /* ?><div class="col-xl-4 col-lg-6 col-md-6 mb-30">
 		<div class="it-event-2-item-box">
 			<div class="it-event-2-item">
 				<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
@@ -213,7 +257,7 @@ Our Events
 		</div>
 	</div>
 
-	<?php /* ?><div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+	<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
 		<div class="it-event-2-item-box">
 			<div class="it-event-2-item">
 				<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
