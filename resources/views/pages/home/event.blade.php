@@ -41,7 +41,7 @@ Our Events
 			<div class="it-event-2-item">
 				<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
 					<a href="{{ route('pages.events.detail', ['Public-Private-Partnership-to-Improve-Teacher-Training-System-and-Quality-of-Education-in-Cambodia']) }}">
-						<img src="{{ asset('assets/img/event/public-private-partnership-workshop.jpg') }}" alt=""></a>
+						<img src="{{ asset('assets/img/event/partnership-workshop.jpg') }}" alt=""></a>
 				</div>
 				<div class="it-event-2-content">
 					<h4 class="it-event-2-title">
