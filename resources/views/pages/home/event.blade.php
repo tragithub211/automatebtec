@@ -18,6 +18,32 @@ Our Events
 		<div class="it-event-2-item-box">
 			<div class="it-event-2-item">
 				<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
+					<a href="{{ route('pages.events.detail', ['Osteopathie-by-French-and-Khmer-doctors-of-Hattha-Vichesas-Organization-to-teachers-and-student-teacher-of-Battambang-Teacher-Education-College']) }}">
+						<img src="{{ asset('assets/img/event/osteopathie-by-french-doctors-to-btec-staff-and-student.jpg') }}" alt=""></a>
+				</div>
+				<div class="it-event-2-content">
+					<h4 class="it-event-2-title">
+						<a href="{{ route('pages.events.detail', ['Osteopathie-by-French-and-Khmer-doctors-of-Hattha-Vichesas-Organization-to-teachers-and-student-teacher-of-Battambang-Teacher-Education-College']) }}" style="font-family:'Khmer OS Siemreap';">
+							ការព្យាបាលលំនឹងសរីរាង្គ (Ostéopathie) ដោយក្រុមគ្រូពេទ្យជនជាតិបារាំងនិងខ្មែរនៃអង្គការហត្ថាវេជ្ជសាស្រ្ត(Hattha Vichesas Organisation)ដល់មន្រ្តីអប់រំ គរុនិស្សិតនៃវិទ្យាស្ថានគរុកោសល្យបាត់ដំបង
+						</a>
+					</h4>
+					<div class="it-event-2-text" style="height:224px;max-height:224px;overflow:hidden;font-family:'Khmer OS Siemreap';">
+						<p class="mb-0 pb-10">បាត់ដំបង៖ ថ្ងៃទី៧ ខែវិច្ឆិកា ឆ្នាំ២០២៤ នេះ នៅវិទ្យាស្ថានគរុកោសល្យបាត់ដំបងបានទទួលស្វាគមន៍ ក្រុមគ្រូពេទ្យស្ម័គ្រចិត្ដជនជាតិបារាំង និងខ្មែរ នៃអង្គការហត្ថាវេជ្ជសាស្រ្ត(Hattha Vichesas) មកបំពេញបេសកកម្មព្យាបាលលំនឹងសរីរាង្គ (Ostéopathie) ជូនគ្រូឧទ្ទេស និងគរុនិស្សិតនៃវិទ្យាស្ថានគរុកោសល្យបាត់ដំបងដោយឥតគិតថ្លៃរយៈពេល០២ថ្ងៃនៅក្នុងទីតាំងនៃវិទ្យាស្ថាន។ ឯកឧត្ដមបណ្ឌិត ជា រដ្ឋា នាយកវិទ្យាស្ថានគរុកោសល្យបាត់ដំបង បានទទួលសា្វគមណ៍ និងថ្លែងអំណរគុណយ៉ាងជ្រាលជ្រៅដល់អង្គការហត្ថាវេជ្ជសាស្រ្ត ដែលដឹកនាំដោយលោកសាស្រ្តាចារ្យវេជ្ជបណ្ឌិត Patrick JOUHAUD ក្នុងការផ្ដល់សេវាព្យាបាលនេះ ដល់មន្រ្តីអប់រំ និងគរុនិស្សិតវិទ្យាស្ថានគរុកោសល្យបាត់ដំបងដើម្បីធ្វើឱ្យប្រសើរឡើងនូវសុខភាពផ្លូវចិត្ត បន្ថយភាពតានទឹង និងបញ្ហាសុខភាពផ្សេងៗ។ សូមបញ្ជាក់ផងដែរថា ការព្យាបាលលំនឹងសរីរាង្គ (Ostéopathie) ជាការព្យាបាលដែលអាចអនុញ្ញាតឱ្យធ្វើរោគវិនិច្ឆ័យអំពីរោគសញ្ញាផ្សេងៗ ដូចជាសម្ពាធនៅក្នុងទ្រូង ការរងទុក្ខផ្លូវចិត្ត ការសង្ស័យអំពីរោគរបេង ការឈឺចាប់ផ្នែកក្បាល ដែលពាក់ព័ន្ធនឹងបញ្ហាមាត់ធ្មេញ  កង្វះអាហាររូបត្ថម្ភ ឬ អំពើហឹង្សាជាដើម។ ការព្យាបាលលំនឹងសរីរាង្គ (Ostéopathie) មានសារៈប្រយោជន៍ច្រើនសម្រាប់គ្រូឧទ្ទេស និងគរុនិស្សិត ដូចខាងក្រោម៖
+១. ការព្យាបាលនេះអាចជួយបន្ថយសម្ពាធ និងគ្រោះថ្នាក់ផ្សេងៗដែលគ្រូឧទ្ទេស និងគរុនិស្សិតប្រឈមមុខ ដូចជា សម្ពាធដែលកើតមានក្នុងការសិក្សា និងការងារ។
+២. ការព្យាបាលអាចជួយសម្រួលសុខភាពរបស់ពួកគាត់ ធ្វើឱ្យមានសមត្ថភាពកាន់តែខ្ពស់ក្នុងការសិក្សា និងការបំពេញការងារ។
+៣. ការព្យាបាលលំនឹងសរីរាង្គ អាចជួយកាត់បន្ថយការរងទុក្ខផ្លូវចិត្ត និងបញ្ហាសុខភាពផ្លូវចិត្តផ្សេងៗ ដែលអាចមានផលប៉ះពាល់ដល់សមត្ថភាពការសិក្សា។
+៤. វាអាចជួយព្យាបាលរោគសញ្ញាផ្សេងៗដូចជា ការឈឺចាប់ក្នុងទ្រូង ការឈឺក្បាល និងបញ្ហាអាហាររូបត្ថម្ភ ដែលអាចប៉ះពាល់ដល់គុណភាពជីវិត។</p>
+					</div>
+					<div class="it-event-2-meta"></div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+		<div class="it-event-2-item-box">
+			<div class="it-event-2-item">
+				<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
 					<a href="{{ route('pages.events.detail', ['BTEC-Annual-Education-Conference-2024-Gallery']) }}">
 						<img src="{{ asset('assets/img/event/btec-annual-education-conference-2024-gallery.jpg') }}" alt=""></a>
 				</div>
@@ -191,7 +217,7 @@ Our Events
 		</div>
 	</div>
 
-	<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+	<?php /* ?><div class="col-xl-4 col-lg-6 col-md-6 mb-30">
 		<div class="it-event-2-item-box">
 			<div class="it-event-2-item">
 				<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
@@ -213,7 +239,7 @@ Our Events
 		</div>
 	</div>
 
-	<?php /* ?><div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+	<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
 		<div class="it-event-2-item-box">
 			<div class="it-event-2-item">
 				<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">

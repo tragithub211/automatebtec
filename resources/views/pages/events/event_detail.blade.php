@@ -125,6 +125,8 @@
         <x-events.btec_061124 />
     @elseif($event_title == 'BTEC-Annual-Education-Conference-2024-Gallery')
         <x-events.btec_061124_1 />
+    @elseif($event_title == 'Osteopathie-by-French-and-Khmer-doctors-of-Hattha-Vichesas-Organization-to-teachers-and-student-teacher-of-Battambang-Teacher-Education-College')
+        <x-events.btec_071124 />
     @else
         <x-events.event_detail />
     @endif
