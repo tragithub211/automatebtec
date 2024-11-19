@@ -18,6 +18,50 @@ Our Events
 		<div class="it-event-2-item-box">
 			<div class="it-event-2-item">
 				<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
+					<a href="{{ route('pages.events.detail', ['BTEC-Graduation-Ceremony-for-Student-Teachers-2024']) }}">
+						<img src="{{ asset('assets/img/event/btec-graduation-ceremony-2024-02.jpg') }}" alt=""></a>
+				</div>
+				<div class="it-event-2-content">
+					<h4 class="it-event-2-title">
+						<a href="{{ route('pages.events.detail', ['BTEC-Graduation-Ceremony-for-Student-Teachers-2024']) }}" style="font-family:'Khmer OS Siemreap';">
+							អបអរសាទរ ពិធីប្រគល់សញ្ញាបត្រជូនដល់គរុនិស្សិត គរុសិស្ស នៃវិទ្យាស្ថានគរុកោសល្យបាត់ដំបង
+						</a>
+					</h4>
+					<div class="it-event-2-text" style="height:224px;max-height:224px;overflow:hidden;font-family:'Khmer OS Siemreap';">
+						<p class="mb-0 pb-10"> បាត់ដំបង៖ នារសៀលថ្ងៃទី១៧ ខែវិច្ឆិកា ឆ្នាំ២០២៤ ឯកឧត្ដមបណ្ឌិតសភាចារ្យ ហង់ជួន ណារ៉ុន ឧបនាយករដ្ឋមន្ត្រី រដ្ឋមន្ត្រីក្រសួងអប់រំ យុវជន និងកីឡា បានអញ្ជើញចូលរួមជាអធិបតី ក្នុងពិធីប្រគល់សញ្ញាបត្រជូនដល់គរុនិស្សិត គរុសិស្ស នៃវិទ្យាស្ថានគរុកោសល្យបាត់ដំបង និងមានការចូលរួមពី ឯកឧត្តម លោកជំទាវ ថ្នាក់ដឹកនាំក្រសួង ឯកឧត្តមអភិបាលនៃគណៈអភិបាលខេត្តបាត់ដំបង លោក លោកស្រី គណៈគ្រប់គ្រង លោកគ្រូ អ្នកគ្រូ បុគ្គលិកអប់រំ អតីតគរុនិស្សិត គរុសិស្ស នៃវិទ្យាស្ថានគរុកោសល្យបាត់ដំបង និងគរុនិស្សិត-គរុសិស្សជ័យលាភីទាំងអស់ សរុបចំនួនប្រមាណ ៦០០នាក់។</p>
+					</div>
+					<div class="it-event-2-meta"></div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+		<div class="it-event-2-item-box">
+			<div class="it-event-2-item">
+				<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
+					<a href="{{ route('pages.events.detail', ['BTEC-become-the-15th-Deputy-Member-of-AUF']) }}">
+						<img src="{{ asset('assets/img/event/btec-become-the-15th-deputy-member-of-auf.jpg') }}" alt=""></a>
+				</div>
+				<div class="it-event-2-content">
+					<h4 class="it-event-2-title">
+						<a href="{{ route('pages.events.detail', ['BTEC-become-the-15th-Deputy-Member-of-AUF']) }}" style="font-family:'Khmer OS Siemreap';">
+							វិទ្យាស្ថានគរុកោសល្យបាត់ដំបង បានចូលជាសមាជិករងទី១៥ នៃទីភ្នាក់ងារឧត្ដមសិក្សាប្រើប្រាស់ភាសាបារាំង (AUF) នៅកម្ពុជា។
+						</a>
+					</h4>
+					<div class="it-event-2-text" style="height:224px;max-height:224px;overflow:hidden;font-family:'Khmer OS Siemreap';">
+						<p class="mb-0 pb-10">ជាមួយសមាជិកភាពនេះ វ.គ.ប. នឹងតភ្ជាប់ទៅបណ្ដាញសាកលវិទ្យាល័យ ១០០៧ ក្នុង ១១៩ ប្រទេស។</p>
+					</div>
+					<div class="it-event-2-meta"></div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+		<div class="it-event-2-item-box">
+			<div class="it-event-2-item">
+				<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
 					<a href="{{ route('pages.events.detail', ['BTEC-2nd-Technical-Council-Meeting-2024']) }}">
 						<img src="{{ asset('assets/img/event/btec-2nd-technical-council-meeting-2024.jpg') }}" alt=""></a>
 				</div>
@@ -154,28 +198,6 @@ Our Events
 		<div class="it-event-2-item-box">
 			<div class="it-event-2-item">
 				<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
-					<a href="{{ route('pages.events.detail', ['btec-2nd-conference-2024-event']) }}">
-						<img src="{{ asset('assets/img/event/btec-2nd-conference-2024-event.jpg') }}" alt=""></a>
-				</div>
-				<div class="it-event-2-content">
-					<h4 class="it-event-2-title">
-						<a href="{{ route('pages.events.detail', ['btec-2nd-conference-2024-event']) }}" style="font-family:'Khmer OS Siemreap';">
-							វិទ្យាស្ថានគរុកោសល្យបាត់ដំបង រៀបចំសនិ្នសីទអប់រំប្រចាំឆ្នាំ២០២៤ លើកម្ពស់វប្បធម៌ស្រាវជ្រាវអប់រំ និងគុណភាពគ្រូបង្រៀននៅកម្ពុជា ស្របតាមការរីកចម្រើននៃបច្ចេកវិទ្យាឌីជីថល
-						</a>
-					</h4>
-					<div class="it-event-2-text" style="height:224px;max-height:224px;overflow:hidden;font-family:'Khmer OS Siemreap';">
-						<p class="mb-0 pb-10">(បាត់ដំបង)៖ វិទ្យាស្ថានគរុកោសល្យបាត់ដំបង បានកម្មវិធីសនិ្នសីទអប់រំប្រចាំឆ្នាំ២០២៤ ​ក្រោមប្រធានបទ«សមាហរណកម្មបច្ចេកវិទ្យាព័ត៌មាននិងសារគមនាគមន៍ និងការស្រាវជ្រាវក្នុងការបង្រៀន និងរៀនដើម្បីគាំទ្របរិវត្តកម្មឌីជីថលនៃការអប់រំនៅកម្ពុជា» ដើម្បីលើកកម្ពស់វប្បធម៌ស្រាវជ្រាវអប់រំនៅកម្ពុជា ​និងរុញច្រានគុណភាពនៃការអប់រំ និងបណ្តុះបណ្តាលគ្រូនៅកម្ពុជា។</p>
-					</div>
-					<div class="it-event-2-meta"></div>
-				</div>
-			</div>
-		</div>
-	</div>
-
-	<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
-		<div class="it-event-2-item-box">
-			<div class="it-event-2-item">
-				<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
 					<a href="{{ route('pages.events.detail', ['btec-2nd-conference-2024']) }}">
 						<img src="{{ asset('assets/img/event/btec-2nd-conference-2024.jpg') }}" alt=""></a>
 				</div>
@@ -196,6 +218,28 @@ Our Events
 	</div>
 
 	<?php /* ?><div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+		<div class="it-event-2-item-box">
+			<div class="it-event-2-item">
+				<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
+					<a href="{{ route('pages.events.detail', ['btec-2nd-conference-2024-event']) }}">
+						<img src="{{ asset('assets/img/event/btec-2nd-conference-2024-event.jpg') }}" alt=""></a>
+				</div>
+				<div class="it-event-2-content">
+					<h4 class="it-event-2-title">
+						<a href="{{ route('pages.events.detail', ['btec-2nd-conference-2024-event']) }}" style="font-family:'Khmer OS Siemreap';">
+							វិទ្យាស្ថានគរុកោសល្យបាត់ដំបង រៀបចំសនិ្នសីទអប់រំប្រចាំឆ្នាំ២០២៤ លើកម្ពស់វប្បធម៌ស្រាវជ្រាវអប់រំ និងគុណភាពគ្រូបង្រៀននៅកម្ពុជា ស្របតាមការរីកចម្រើននៃបច្ចេកវិទ្យាឌីជីថល
+						</a>
+					</h4>
+					<div class="it-event-2-text" style="height:224px;max-height:224px;overflow:hidden;font-family:'Khmer OS Siemreap';">
+						<p class="mb-0 pb-10">(បាត់ដំបង)៖ វិទ្យាស្ថានគរុកោសល្យបាត់ដំបង បានកម្មវិធីសនិ្នសីទអប់រំប្រចាំឆ្នាំ២០២៤ ​ក្រោមប្រធានបទ«សមាហរណកម្មបច្ចេកវិទ្យាព័ត៌មាននិងសារគមនាគមន៍ និងការស្រាវជ្រាវក្នុងការបង្រៀន និងរៀនដើម្បីគាំទ្របរិវត្តកម្មឌីជីថលនៃការអប់រំនៅកម្ពុជា» ដើម្បីលើកកម្ពស់វប្បធម៌ស្រាវជ្រាវអប់រំនៅកម្ពុជា ​និងរុញច្រានគុណភាពនៃការអប់រំ និងបណ្តុះបណ្តាលគ្រូនៅកម្ពុជា។</p>
+					</div>
+					<div class="it-event-2-meta"></div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
 		<div class="it-event-2-item-box">
 			<div class="it-event-2-item">
 				<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
