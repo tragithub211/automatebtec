@@ -18,6 +18,28 @@ Our Events
 		<div class="it-event-2-item-box">
 			<div class="it-event-2-item">
 				<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
+					<a href="{{ route('pages.events.detail', ['BTEC-2nd-Technical-Council-Meeting-2024']) }}">
+						<img src="{{ asset('assets/img/event/btec-2nd-technical-council-meeting-2024.jpg') }}" alt=""></a>
+				</div>
+				<div class="it-event-2-content">
+					<h4 class="it-event-2-title">
+						<a href="{{ route('pages.events.detail', ['BTEC-2nd-Technical-Council-Meeting-2024']) }}" style="font-family:'Khmer OS Siemreap';">
+							កិច្ចប្រជុំក្រុមប្រឹក្សាបច្ចេកទេស នៃវិទ្យាស្ថានគរុកោសល្យបាត់ដំបង(វ.គ.ប)លើកទី២ បូកសរុបលទ្ធផលការងាររយៈពេល១០ខែ ដើមឆ្នាំ២០២៤ និងលើកទិសដៅការងារបន្ត
+						</a>
+					</h4>
+					<div class="it-event-2-text" style="height:224px;max-height:224px;overflow:hidden;font-family:'Khmer OS Siemreap';">
+						<p class="mb-0 pb-10">បាត់ដំបង៖ នាព្រឹកថ្ងៃអាទិត្យ ទី១៧ ខែវិច្ឆិកា ឆ្នាំ២០២៤ វិទ្យាស្ថានគរុកោសល្យបាត់ដំបង(វ.គ.ប)បានរៀបចំកិច្ចប្រជុំក្រុមប្រឹក្សាបច្ចេកទេសលើកទី២ ដើម្បីបូកសរុបលទ្ធផលការងាររយៈពេល១០ខែ ដើមឆ្នាំ២០២៤ និងលើកទិសដៅការងារបន្ត ក្រោមអធិបតីភាពដ៏ខ្ពង់ខ្ពស់ ឯកឧត្តមបណ្ឌិតសភាចារ្យ ហង់ជួន ណារ៉ុន ឧបនាយករដ្ឋមន្រ្តី រដ្ឋមន្រ្តីក្រសួងអប់រំ យុវជន និងកីឡា និងជាប្រធានក្រុមប្រឹក្សាបច្ចេកទេសនៃវិទ្យាស្ថានគរុកោសល្យបាត់ដំបង ដោយមានការអញ្ជើញចូលរួមពី ឯកឧត្តម លោកជំទាវ លោក-លោកស្រី អនុប្រធាន សមាជិក សមាជិកា ក្រុមប្រឹក្សាបច្ចេកទេសប្រមាណ ២០ រូប។</p>
+					</div>
+					<div class="it-event-2-meta"></div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+		<div class="it-event-2-item-box">
+			<div class="it-event-2-item">
+				<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
 					<a href="{{ route('pages.events.detail', ['Fukuoka-and-Kizuna-Global-Wing-Youth-Cultural-Exchange-Study-Tour']) }}">
 						<img src="{{ asset('assets/img/event/japan-youth-study-tour.jpg') }}" alt=""></a>
 				</div>
@@ -173,7 +195,7 @@ Our Events
 		</div>
 	</div>
 
-	<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+	<?php /* ?><div class="col-xl-4 col-lg-6 col-md-6 mb-30">
 		<div class="it-event-2-item-box">
 			<div class="it-event-2-item">
 				<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
@@ -217,7 +239,7 @@ Our Events
 		</div>
 	</div>
 
-	<?php /* ?><div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+	<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
 		<div class="it-event-2-item-box">
 			<div class="it-event-2-item">
 				<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
