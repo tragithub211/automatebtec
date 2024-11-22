@@ -28,8 +28,18 @@
 														<tbody>
 															<tr style="text-align: center;">
 																<td>
+																	<a href="https://btec.edu.kh" color="#7075db" class="social-links__LinkAnchor-sc-py8uhj-2 hBVWAh" style="display: inline-block; padding: 0px; background-color: rgb(112, 117, 219);" target="_blank">
+																		<img src="https://png.pngtree.com/png-clipart/20190630/original/pngtree-vector-house-icon-png-image_4163914.jpg" alt="facebook" color="#7075db" width="24" class="social-links__LinkImage-sc-py8uhj-1 hSTSwA" style="background-color: rgb(112, 117, 219); max-width: 135px; display: block;">
+																	</a>
+																</td>
+																<td style="padding-left:4px;">
 																	<a href="https://www.facebook.com/TEC.Battambang" color="#7075db" class="social-links__LinkAnchor-sc-py8uhj-2 hBVWAh" style="display: inline-block; padding: 0px; background-color: rgb(112, 117, 219);" target="_blank">
 																		<img src="https://cdn2.hubspot.net/hubfs/53/tools/email-signature-generator/icons/facebook-icon-2x.png" alt="facebook" color="#7075db" width="24" class="social-links__LinkImage-sc-py8uhj-1 hSTSwA" style="background-color: rgb(112, 117, 219); max-width: 135px; display: block;">
+																	</a>
+																</td>
+																<td style="padding-left:4px;">
+																	<a href="https://t.me/btecnews" color="#7075db" class="social-links__LinkAnchor-sc-py8uhj-2 hBVWAh" style="display: inline-block; padding: 0px; background-color: rgb(112, 117, 219);" target="_blank">
+																		<img src="https://ia601403.us.archive.org/17/items/png-transparent-blue-and-white-icon-illustration-telegram-logo-computer-icons-sc/png-transparent-blue-and-white-icon-illustration-telegram-logo-computer-icons-scalable-graphics-telegram-miscellaneous-blue-angle.png" alt="facebook" color="#7075db" width="24" class="social-links__LinkImage-sc-py8uhj-1 hSTSwA" style="background-color: rgb(112, 117, 219); max-width: 135px; display: block;">
 																	</a>
 																</td>
 																<td width="5"><div></div></td>
@@ -50,7 +60,7 @@
 										<span>Ratha Chea, PhD</span>
 									</h2>
 									<p color="#000000" font-size="medium" class="company-details__CompanyContainer-sc-j5pyy8-0 VnOLK" style="margin: 0px; font-weight: 600; color: rgb(0, 0, 0); font-size: 14px; line-height: 22px;">
-										<span>Director</span><span>&nbsp;|&nbsp;</span><span>Freshwater ecologist</span>
+										<span>Director General</span><span>&nbsp;|&nbsp;</span><span>Freshwater ecologist</span>
 									</p>
 									<p color="#000000" font-size="medium" class="company-details__CompanyContainer-sc-j5pyy8-0 VnOLK" style="margin: 0px; font-weight: 600; color: rgb(0, 0, 0); font-size: 14px; line-height: 22px;">
 										<span>Battambang Teacher Education College (BTEC)</span>
