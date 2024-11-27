@@ -18,6 +18,28 @@ Our Events
 		<div class="it-event-2-item-box">
 			<div class="it-event-2-item">
 				<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
+					<a href="{{ route('pages.events.detail', ['BTEC-Competency-Test-Academic-Year-2024-2025']) }}">
+						<img src="{{ asset('assets/img/event/btec-competency-test-2024-2025.jpg') }}" alt=""></a>
+				</div>
+				<div class="it-event-2-content">
+					<h4 class="it-event-2-title">
+						<a href="{{ route('pages.events.detail', ['BTEC-Competency-Test-Academic-Year-2024-2025']) }}" style="font-family:'Khmer OS Siemreap';">
+							ការប្រឡងវាស់ស្ទង់សមត្ថភាពដើមឆ្នាំសិក្សា២០២៤-២០២៥
+						</a>
+					</h4>
+					<div class="it-event-2-text" style="height:224px;max-height:224px;overflow:hidden;font-family:'Khmer OS Siemreap';">
+						<p class="mb-0 pb-10">បាត់ដំបង៖ នៅរសៀលថ្ងៃអង្គារ ទី២៦ ខែវិច្ឆិកា ឆ្នាំ២០២៤ វិទ្យាស្ថានគរុកោសល្យបាត់ដំបងបានរៀបចំការប្រឡងវាស់ស្ទង់សមត្ថភាពដើមឆ្នាំសិក្សា២០២៤-២០២៥ សម្រាប់គរុនិស្សិតដែលកំពុងទទួលការបណ្ដុះបណ្ដាលនៅក្នុងវិទ្យាស្ថាន។   ការធ្វើតេស្តនេះមានគោលបំណងវាយតម្លៃសមត្ថភាពគរុនិស្សិតនៅដើមឆ្នាំសិក្សា ដែលជាមូលដ្ឋានសម្រាប់វាស់វែងប្រសិទ្ធភាព និងគុណភាពនៃការបណ្តុះបណ្តាលគ្រូបង្រៀននៅវិទ្យាស្ថានគរុកោសល្យបាត់ដំបង និងដើម្បីគាំទ្រដល់ការរៀបចំកែលម្អកម្មវិធីសិក្សាឱ្យបានល្អប្រសើរ។   គរុនិស្សិតដែលកំពុងទទួលការបណ្ដុះបណ្ដាលតាមប្រព័ន្ធបរិញ្ញាបត្រអប់រំគ្រូបង្រៀន បរិញ្ញាបត្រ+១ និង១២+៤ ឆ្នាំទី១ និងឆ្នាំទី៤ សរុបចំនួន៤៤២នាក់ ដែលក្នុងនោះមានស្រីចំនួន៣០៦នាក់ បានចូលរួមការធ្វើតេស្តរយៈពេល ១២០នាទី ទាំងតេស្តសរសេរដៃ និងតេស្តអនឡាញតាម Google Forms លើគ្រប់មុខវិជ្ជាដែលពួកគេបាននឹងកំពុងសិក្សានៅក្នុងឆ្នាំសិក្សា២០២៤-២០២៥ ដោយមានចំនួន១០០សំណួរ ក្នុងទម្រង់ពហុជ្រើសរើស។</p>
+					</div>
+					<div class="it-event-2-meta"></div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+		<div class="it-event-2-item-box">
+			<div class="it-event-2-item">
+				<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
 					<a href="{{ route('pages.events.detail', ['Master-Scholarship-at-Thailand']) }}">
 						<img src="{{ asset('assets/img/event/master-scholarship-thailand.jpg') }}" alt=""></a>
 				</div>
@@ -261,7 +283,7 @@ Our Events
 		</div>
 	</div>
 
-	<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+	<?php /* ?><div class="col-xl-4 col-lg-6 col-md-6 mb-30">
 		<div class="it-event-2-item-box">
 			<div class="it-event-2-item">
 				<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
@@ -283,7 +305,7 @@ Our Events
 		</div>
 	</div>
 
-	<?php /* ?><div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+	<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
 		<div class="it-event-2-item-box">
 			<div class="it-event-2-item">
 				<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">

@@ -137,6 +137,8 @@
         <x-events.btec_171124 />
     @elseif($event_title == 'Master-Scholarship-at-Thailand')
         <x-events.btec_201124 />
+    @elseif($event_title == 'BTEC-Competency-Test-Academic-Year-2024-2025')
+        <x-events.btec_271124 />
     @else
         <x-events.event_detail />
     @endif
