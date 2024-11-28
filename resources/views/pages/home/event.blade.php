@@ -18,6 +18,32 @@ Our Events
 		<div class="it-event-2-item-box">
 			<div class="it-event-2-item">
 				<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
+					<a href="{{ route('pages.events.detail', ['BTEC-Collaborate-with-US-Embassy-on-Workshop-Project-Based-Teaching']) }}">
+						<img src="{{ asset('assets/img/event/btec-us-embassy-workshop-project-based-teaching.jpg') }}" alt=""></a>
+				</div>
+				<div class="it-event-2-content">
+					<h4 class="it-event-2-title">
+						<a href="{{ route('pages.events.detail', ['BTEC-Collaborate-with-US-Embassy-on-Workshop-Project-Based-Teaching']) }}" style="font-family:'Khmer OS Siemreap';">
+							មហាវិទ្យាល័យអប់រំវិទ្យាសាស្ត្រសង្គមនៃវិទ្យាស្ថានគរុកោសល្យបាត់ដំបង សហការជាមួយ ស្ថានទូតសហរដ្ឋអាមេរិក នឹងរៀបចំសិក្ខាសាលាស្តីអំពី៖“ការបង្រៀនតាមបែបគំរោង”
+						</a>
+					</h4>
+					<div class="it-event-2-text" style="height:224px;max-height:224px;overflow:hidden;font-family:'Khmer OS Siemreap';">
+						<p class="mb-0 pb-10">មហាវិទ្យាល័យអប់រំវិទ្យាសាស្ត្រសង្គមនៃវិទ្យាស្ថានគរុកោសល្យបាត់ដំបង សហការជាមួយ ស្ថានទូតសហរដ្ឋអាមេរិក នឹងរៀបចំសិក្ខាសាលាស្តីអំពី៖“ការបង្រៀនតាមបែបគំរោង”
+							កាលបរិច្ឆេទៈថ្ងៃ អង្គារ ទី ៣ ខែ ធ្នូ ឆ្នាំ ២០២៤
+							ទីតាំង: សាលសហសិក្សាទី ១
+							ពេលវេលាៈ ម៉ោង ១:0០ ដល់ ម៉ោង ៥ៈ០០
+							វាគ្មិនកិត្តិយស: លោកស្រីសាស្ត្រាចារ្យបណ្ឌិត Merrly Kravitz</p>
+					</div>
+					<div class="it-event-2-meta"></div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+		<div class="it-event-2-item-box">
+			<div class="it-event-2-item">
+				<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
 					<a href="{{ route('pages.events.detail', ['BTEC-Competency-Test-Academic-Year-2024-2025']) }}">
 						<img src="{{ asset('assets/img/event/btec-competency-test-2024-2025.jpg') }}" alt=""></a>
 				</div>
@@ -261,7 +287,7 @@ Our Events
 		</div>
 	</div>
 
-	<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+	<?php /* ?><div class="col-xl-4 col-lg-6 col-md-6 mb-30">
 		<div class="it-event-2-item-box">
 			<div class="it-event-2-item">
 				<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
@@ -283,7 +309,7 @@ Our Events
 		</div>
 	</div>
 
-	<?php /* ?><div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+	<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
 		<div class="it-event-2-item-box">
 			<div class="it-event-2-item">
 				<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
