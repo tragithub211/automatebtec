@@ -15,7 +15,7 @@
 
                         <h6 style="margin-top:50px;">Facebook's post below:</h6>
                         <p>
-                            <a href="https://www.facebook.com/TEC.Battambang/posts/1089993379800889" target="_blank">
+                            <a href="https://www.facebook.com/TEC.Battambang/posts/1094792735987620" target="_blank">
                                 <img src="{{ asset('assets/img/facebook-post.jpg') }}" alt="Click me here" style="width:192px;">
                             </a>
                         </p>
