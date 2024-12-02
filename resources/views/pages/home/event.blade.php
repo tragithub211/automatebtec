@@ -18,6 +18,28 @@ Our Events
 		<div class="it-event-2-item-box">
 			<div class="it-event-2-item">
 				<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
+					<a href="{{ route('pages.events.detail', ['PISA-Test-Academic-Year-2024-2025']) }}">
+						<img src="{{ asset('assets/img/event/pisa-test-academic-year-2024-2025.jpg') }}" alt=""></a>
+				</div>
+				<div class="it-event-2-content">
+					<h4 class="it-event-2-title">
+						<a href="{{ route('pages.events.detail', ['PISA-Test-Academic-Year-2024-2025']) }}" style="font-family:'Khmer OS Siemreap';">
+							ដំណើរការប្រឡងតេស្តស្ដង់ដាដើមឆ្នាំសិក្សា២០២៤-២០២៥
+						</a>
+					</h4>
+					<div class="it-event-2-text" style="height:224px;max-height:224px;overflow:hidden;font-family:'Khmer OS Siemreap';">
+						<p class="mb-0 pb-10">នៅព្រឹកថ្ងៃទី០២ ខែធ្នូ ឆ្នាំ២០២៤ អនុវិទ្យាល័យអនុវត្តន៍ នៃវិទ្យាស្ថានគរុកោសល្យបាត់ដំបង បានរៀបចំការប្រឡងតេស្តស្ដង់ដាដើមឆ្នាំសិក្សា ក្រោមអធិបតីភាព លោក គី សុខហេង នាយករងវិទ្យាស្ថានគរុកោសល្យបាត់ដំបង និង លោក ថូ សំរិទ្ធ សង្កាត់ព្រែកព្រះស្ដេច ព្រមទាំងលោកគ្រូអ្នកគ្រូ មកពីវិទ្យាស្ថានគរុកោសល្យបាត់ដំបង លោកគ្រូអ្នកគ្រូនៃអនុវិទ្យាល័យអនុវត្តន៍ និងអាណាព្យាបាលសិស្សានុសិស្ស ចូលរួមពិនិត្យដំណើរការសំណេរ។</p>
+					</div>
+					<div class="it-event-2-meta"></div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+		<div class="it-event-2-item-box">
+			<div class="it-event-2-item">
+				<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
 					<a href="{{ route('pages.events.detail', ['BTEC-Collaborate-with-US-Embassy-on-Workshop-Project-Based-Teaching']) }}">
 						<img src="{{ asset('assets/img/event/btec-us-embassy-workshop-project-based-teaching.jpg') }}" alt=""></a>
 				</div>
@@ -264,7 +286,7 @@ Our Events
 		</div>
 	</div>
 
-	<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+	<?php /* ?><div class="col-xl-4 col-lg-6 col-md-6 mb-30">
 		<div class="it-event-2-item-box">
 			<div class="it-event-2-item">
 				<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
@@ -287,7 +309,7 @@ Our Events
 		</div>
 	</div>
 
-	<?php /* ?><div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+	<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
 		<div class="it-event-2-item-box">
 			<div class="it-event-2-item">
 				<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">

@@ -141,6 +141,8 @@
         <x-events.btec_271124 />
     @elseif($event_title == 'BTEC-Collaborate-with-US-Embassy-on-Workshop-Project-Based-Teaching')
         <x-events.btec_281124 />
+    @elseif($event_title == 'PISA-Test-Academic-Year-2024-2025')
+        <x-events.btec_021224 />
     @else
         <x-events.event_detail />
     @endif
