@@ -18,6 +18,28 @@ Our Events
 		<div class="it-event-2-item-box">
 			<div class="it-event-2-item">
 				<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
+					<a href="{{ route('pages.events.detail', ['Reflection-of-Activities-and-Results-forumZFD']) }}">
+						<img src="{{ asset('assets/img/event/reflection-of-activities-and-results-forumzfd.jpg') }}" alt=""></a>
+				</div>
+				<div class="it-event-2-content">
+					<h4 class="it-event-2-title">
+						<a href="{{ route('pages.events.detail', ['Reflection-of-Activities-and-Results-forumZFD']) }}" style="font-family:'Khmer OS Siemreap';">
+							ការឆ្លុះបញ្ចាំងពីសកម្មភាព និងលទ្ធផលការងារ ដែលបានធ្វើរយៈពេលមួយឆ្នាំកន្លងទៅ និងរៀបចំផែនការបន្ត ព្រមទាំងបង្កើនទំនាក់ទំនងល្អរវាងដៃគូរ ដែលរៀបចំឡើងដោយ អង្គការ forumZFD
+						</a>
+					</h4>
+					<div class="it-event-2-text" style="height:224px;max-height:224px;overflow:hidden;font-family:'Khmer OS Siemreap';">
+						<p class="mb-0 pb-10">នាថ្ងៃទី១-២ ខែធ្នូ ឆ្នាំ២០២៤ គណៈគ្រប់គ្រង និងគ្រូឧទ្ទេសបង្គោលវិទ្យាស្ថានគរុកោសល្យបាត់ដំបង បានចូលរួមឆ្លុះបញ្ចាំងពីសកម្មភាព និងលទ្ធផលការងារឆ្នាំ២០២៤ និងលើកទិសដៅបន្ត ឆ្នាំ២០២៥។ ទាំងគ្រូឧទ្ទេសបង្គោលវិទ្យាស្ថាន ទាំងអង្គការ forumZFD បានវាយតម្លៃខ្ពស់ចំពោះលទ្ធផលការងារ ក៏ដូចជាការសហការគ្នាបានយ៉ាងល្អស្ដីពីភាពជាដៃគូវាង BTEC និង អង្គការ forumZFD ក្នុងរយៈពេលប៉ុន្មានខែកន្លងមក។ កិច្ចសហការប្រតិបត្តិការរវាង BTEC និងforumZFD នឹងបន្ត (១)បំប៉នសមត្ថភាពគ្រូបង្គោល គ្រូឧទ្ទេស និងគរុនិស្សិត (២)បញ្ជ្រាបវិធីសាស្ត្រទំនាក់ទំនងបែបអហឹង្សាក្នុងថ្នាក់រៀន (៣)រៀបចំកៀនបណ្ណាល័យសន្តិភាព (៤)គាំទ្រគ្រូបង្គោលធ្វើការស្រាវជ្រាវ និង(៥)សហការរៀបចំសន្និសីទអប់រំប្រចាំឆ្នាំលើកទីបី។</p>
+					</div>
+					<div class="it-event-2-meta"></div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+		<div class="it-event-2-item-box">
+			<div class="it-event-2-item">
+				<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
 					<a href="{{ route('pages.events.detail', ['PISA-Test-Academic-Year-2024-2025']) }}">
 						<img src="{{ asset('assets/img/event/pisa-test-academic-year-2024-2025.jpg') }}" alt=""></a>
 				</div>
@@ -264,7 +286,7 @@ Our Events
 		</div>
 	</div>
 
-	<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+	<?php /* ?><div class="col-xl-4 col-lg-6 col-md-6 mb-30">
 		<div class="it-event-2-item-box">
 			<div class="it-event-2-item">
 				<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
@@ -286,7 +308,7 @@ Our Events
 		</div>
 	</div>
 
-	<?php /* ?><div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+	<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
 		<div class="it-event-2-item-box">
 			<div class="it-event-2-item">
 				<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
