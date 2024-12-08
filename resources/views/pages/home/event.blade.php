@@ -18,6 +18,50 @@ Our Events
 		<div class="it-event-2-item-box">
 			<div class="it-event-2-item">
 				<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
+					<a href="{{ route('pages.events.detail', ['BTEC-Launch-CPD-on-Pedagogy-and-Teaching-Methods-in-a-New-Context']) }}">
+						<img src="{{ asset('assets/img/event/btec-launch-cpd-on-new-topic-2024.jpg') }}" alt=""></a>
+				</div>
+				<div class="it-event-2-content">
+					<h4 class="it-event-2-title">
+						<a href="{{ route('pages.events.detail', ['BTEC-Launch-CPD-on-Pedagogy-and-Teaching-Methods-in-a-New-Context']) }}" style="font-family:'Khmer OS Siemreap';">
+							កម្មវិធីបើកវគ្គអភិវឌ្ឍវិជ្ជាជីវៈជាប្រចាំ(CPD)ស្តីពី “គរុកោសល្យ និងវិធីសាស្រ្តបង្រៀនក្នុងបរិបទថ្មី” នៃវិទ្យាស្ថានគរុកោសល្យបាត់ដំបង
+						</a>
+					</h4>
+					<div class="it-event-2-text" style="height:224px;max-height:224px;overflow:hidden;font-family:'Khmer OS Siemreap';">
+						<p class="mb-0 pb-10">នារសៀលថ្ងៃសៅរ៍ ទី០៧ ខែធ្នូ ឆ្នាំ២០២៤ វិទ្យាស្ថានគរុកោសល្យបាត់ដំបង បានរៀបចំកម្មវិធីបើកវគ្គសិក្សាខ្លី CPD ស្តីពី “គរុកោសល្យ និងវិធីសាស្រ្តបង្រៀនក្នុងបរិបទថ្មី” ជូនដល់សិក្ខាកាម ៧៩ រូប ដែលបានចុះឈ្មោះចូលរៀនកម្មវិធីបើកវគ្គអភិវឌ្ឍវិជ្ជាជីវៈជាប្រចាំរបស់វិទ្យាស្ថានដើម្បីធ្វើបច្ចុប្បន្នភាពចំណេះដឹងលើគរុកោសល្យ វិធីសាស្រ្តបង្រៀនផ្សាភ្ជាប់នឹងបំណិនសតវត្សទី២១។កម្មវិធីវិក្រឹតការគ្រូបង្រៀនតាមរយៈកម្មវិធីអភិវឌ្ឍវិជ្ជាជីវៈជាប្រចាំ(CPD) ជាបេសកកម្មអាទិភាពមួយរបស់វិទ្យាស្ថានក្នុងការចូលរួមចំណែកលើកកម្ពស់គុណវុឌ្ឍិគ្រូបង្រៀន ក៏ដូចជាការធ្វើបច្ចុប្បន្នភាពចំណេះដឹងវិជ្ជាជីវៈគ្រូបង្រៀន អនុលោមតាមស្តង់ដាវិជ្ជាជីវៈគ្រូបង្រៀនកម្ពុជា ពិសេស ស្តង់ដា “ការសិក្សាវិជ្ជាជីវៈ” ដែលតម្រូវឱ្យគ្រូបង្រៀនត្រូវធ្វើស័្វយសិក្សា អភិវឌ្ឍចំណេះដឹងវិជ្ជាជីវៈជាប្រចាំ ដើម្បីធ្វើឱ្យប្រសើរឡើងនូវការរៀននិងបង្រៀន និងលើកកម្ពស់លទ្ធផលសិក្សារបស់សិស្ស ដែលជាសូចនាករគន្លឹះក្នុងកំណែទម្រង់អភិបាលកិច្ចសាលារៀន ដាក់ចេញដោយរាជរដ្ឋាភិបាលកម្ពុជា និងគោលនយោបាយស្តង់ដាសាលារៀនគំរូរបស់ក្រសួងអប់រំ យុវជន និងកីឡា។ </p>
+					</div>
+					<div class="it-event-2-meta"></div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+		<div class="it-event-2-item-box">
+			<div class="it-event-2-item">
+				<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
+					<a href="{{ route('pages.events.detail', ['Closing-Ceremony-of-the-8th-Annual-Science-Fair']) }}">
+						<img src="{{ asset('assets/img/event/closing-ceremony-of-the-8th-annual-science-fail.jpg') }}" alt=""></a>
+				</div>
+				<div class="it-event-2-content">
+					<h4 class="it-event-2-title">
+						<a href="{{ route('pages.events.detail', ['Closing-Ceremony-of-the-8th-Annual-Science-Fair']) }}" style="font-family:'Khmer OS Siemreap';">
+							កម្មវិធីបិទពិព័រណ៍វិទ្យាសាស្រ្តប្រចាំឆ្នាំលើកទី៨ និងការប្រគល់ពានរង្វាន់ មេដាយមាស-ប្រាក់-សំរឹទ្ធិ ជូនសិស្សជ័យលាភី ក្រោមអធិបតីភាពដ៏ខ្ពង់ខ្ពស់ ឯកឧត្តមបណ្ឌិតសភាចារ្យ ហង់ជួន ណារ៉ុន ឧបនាយករដ្ឋមន្រ្តី រដ្ឋមន្រ្តីក្រសួងអប់រំ យុវជន និងកីឡា
+						</a>
+					</h4>
+					<div class="it-event-2-text" style="height:224px;max-height:224px;overflow:hidden;font-family:'Khmer OS Siemreap';">
+						<p class="mb-0 pb-10">បាត់ដំបង៖ នារសៀលថ្ងៃសៅរ៍ ទី០៧ ខែធ្នូ ឆ្នាំ២០២៤ ឯកឧត្តមបណ្ឌិតសភាចារ្យ ហង់ជួន ណារ៉ុន ឧបនាយករដ្ឋមន្រ្តី រដ្ឋមន្រ្តីក្រសួងអប់រំ យុវជន និងកីឡា បានអញ្ជើញចូលរួមជាអធិបតីដ៏ខ្ពង់ខ្ពស់ ក្នុងកម្មវិធីបិទពិព័រណ៍វិទ្យាសាស្រ្តប្រចាំឆ្នាំលើទី៨ និងការប្រគល់ពានរង្វាន់ មេដាយមាស-ប្រាក់-សំរឹទ្ធិ ជូនសិស្សជ័យលាភីនៃការប្រឡងសញ្ញាបត្រមធ្យមសិក្សាទុតិយភូមិ ដោយសហការរៀបចំឡើងដោយក្រុមហ៊ុនអន្តរជាតិ ឌូវី អ៊ិនធើណេសិនណល និងវិទ្យាស្ថានគរុកោសល្យបាត់ដំបង ដែលកម្មវិធីពិព័រណ៍វិទ្យាសាស្រ្តប្រចាំឆ្នាំលើទី៨ ត្រូវបានរៀបចំឡើងក្រោមប្រធានបទ៖អនាគតប្រកបដោយនិរន្តរភាពតាមរយៈវិទ្យាសាស្រ្ត និងបច្ចេកវិទ្យាថ្មី។ កម្មវិធីពិព័រណ៍វិទ្យាសាស្រ្តប្រចាំឆ្នាំលើកទី៨ ត្រូវបានរៀបចំឡើងរយៈពេល២ថ្ងៃ ចាប់ពីថ្ងៃទី០៦ ដល់ទី០៧ ខែធ្នូ ឆ្នាំ២០២៤ នៅវិទ្យាស្ថានគរុកោសល្យបាត់ដំបង ដែលមានអ្នកចូលរួមទស្សនាប្រមាណ ២០០០ នាក់។</p>
+					</div>
+					<div class="it-event-2-meta"></div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+		<div class="it-event-2-item-box">
+			<div class="it-event-2-item">
+				<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
 					<a href="{{ route('pages.events.detail', ['Reflection-of-Activities-and-Results-forumZFD']) }}">
 						<img src="{{ asset('assets/img/event/reflection-of-activities-and-results-forumzfd.jpg') }}" alt=""></a>
 				</div>
@@ -242,7 +286,7 @@ Our Events
 		</div>
 	</div>
 
-	<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+	<?php /* ?><div class="col-xl-4 col-lg-6 col-md-6 mb-30">
 		<div class="it-event-2-item-box">
 			<div class="it-event-2-item">
 				<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
@@ -286,7 +330,7 @@ Our Events
 		</div>
 	</div>
 
-	<?php /* ?><div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+	<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
 		<div class="it-event-2-item-box">
 			<div class="it-event-2-item">
 				<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
