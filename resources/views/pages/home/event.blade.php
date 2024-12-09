@@ -18,6 +18,28 @@ Our Events
 		<div class="it-event-2-item-box">
 			<div class="it-event-2-item">
 				<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
+					<a href="{{ route('pages.events.detail', ['Minister-of-Education-Youth-and-Sports-Meeting-with-forumZFD']) }}">
+						<img src="{{ asset('assets/img/event/minister-of-education-meeting-with-forumzfd.jpg') }}" alt=""></a>
+				</div>
+				<div class="it-event-2-content">
+					<h4 class="it-event-2-title">
+						<a href="{{ route('pages.events.detail', ['Minister-of-Education-Youth-and-Sports-Meeting-with-forumZFD']) }}" style="font-family:'Khmer OS Siemreap';">
+							កម្មវិធីជំនួបពិភាក្សាការងាររបស់ឯកឧត្ដមបណ្ឌិតសភាចារ្យ ហង់ជួន ណារ៉ុន ឧបនាយករដ្ឋមន្ត្រី រដ្ឋមន្ត្រីក្រសួងអប់រំយុវជន និងកីឡា ជាមួយអង្គការវេទិកាសេវាសន្តិភាពស៊ីវិល (forumZFD) ប្រចាំកម្ពុជា
+						</a>
+					</h4>
+					<div class="it-event-2-text" style="height:224px;max-height:224px;overflow:hidden;font-family:'Khmer OS Siemreap';">
+						<p class="mb-0 pb-10">បាត់ដំបង៖ នាព្រឹកថ្ងៃអាទិត្យ ទី៨ ខែធ្នូ ឆ្នាំ២០២៤ វិទ្យាស្ថានគរុកោសល្យបាត់ដំបង បានរៀបចំកិច្ចប្រជុំពិភាក្សាការងារ ក្រោមអធិបតីភាពឯកឧត្ដមបណ្ឌិតសភាចារ្យ ហង់ជួន ណារ៉ុន ឧបនាយករដ្ឋមន្ត្រី រដ្ឋមន្ត្រីក្រសួងអប់រំយុវជន និងកីឡា និងមានការអញ្ជើញចូលរួមពីថ្នាក់ដឹកនាំក្រសួងអប់រំ យុវជន និងកីឡា គណៈគ្រប់គ្រងវិទ្យាស្ថានគរុកោសល្យបាត់ដំបង ព្រមទាំងតំណាងអង្គការវេទិកាសេវាសន្តិភាពស៊ីវិល (forumZFD) ប្រចាំកម្ពុជា។</p>
+					</div>
+					<div class="it-event-2-meta"></div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+		<div class="it-event-2-item-box">
+			<div class="it-event-2-item">
+				<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
 					<a href="{{ route('pages.events.detail', ['BTEC-Launch-CPD-on-Pedagogy-and-Teaching-Methods-in-a-New-Context']) }}">
 						<img src="{{ asset('assets/img/event/btec-launch-cpd-on-new-topic-2024.jpg') }}" alt=""></a>
 				</div>
@@ -260,7 +282,7 @@ Our Events
 		</div>
 	</div>
 
-	<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+	<?php /* ?><div class="col-xl-4 col-lg-6 col-md-6 mb-30">
 		<div class="it-event-2-item-box">
 			<div class="it-event-2-item">
 				<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
@@ -286,7 +308,7 @@ Our Events
 		</div>
 	</div>
 
-	<?php /* ?><div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+	<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
 		<div class="it-event-2-item-box">
 			<div class="it-event-2-item">
 				<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
