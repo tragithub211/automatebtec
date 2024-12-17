@@ -18,6 +18,28 @@ Our Events
 		<div class="it-event-2-item-box">
 			<div class="it-event-2-item">
 				<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
+					<a href="{{ route('pages.events.detail', ['BTEC-General-English-Program']) }}">
+						<img src="{{ asset('assets/img/event/btec-general-english-program.jpg') }}" alt=""></a>
+				</div>
+				<div class="it-event-2-content">
+					<h4 class="it-event-2-title">
+						<a href="{{ route('pages.events.detail', ['BTEC-General-English-Program']) }}" style="font-family:'Khmer OS Siemreap';">
+							កម្មវិធីភាសាអង់គ្លេសទូទៅ / General English Program
+						</a>
+					</h4>
+					<div class="it-event-2-text" style="height:224px;max-height:224px;overflow:hidden;font-family:'Khmer OS Siemreap';">
+						<p class="mb-0 pb-10">វគ្គភាសាអង់គ្លេសទូទៅនៃវិទ្យាស្ថានគរុកោសល្យបាត់ដំបងបង្កើតឡើងដើម្បីពង្រឹងបំណិនប្រើប្រាស់ភាសាអង់គ្លេសសម្រាប់ទំនាក់ទំនង ធ្វើបទបង្ហាញ ការស្រាវជ្រាវ ដល់គ្រូឧទ្ទេស គរុនិស្សិត និងជំនាញទន់សត្សវត្សទី២១ ដល់គ្រូឧទ្ទេស គរុនិស្សិត និងសិស្សានុសិស្ស។សិក្សាជាមួយគ្រូដែលមានបទពិសោធន៍បង្រៀន និងបណ្តុះបណ្តាលទាំងក្នុងនិងក្រៅប្រទេស។</p>
+					</div>
+					<div class="it-event-2-meta"></div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+		<div class="it-event-2-item-box">
+			<div class="it-event-2-item">
+				<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
 					<a href="{{ route('pages.events.detail', ['Promoting-Young-Technology-and-Science-Teacher-Training-from-ASEAN-in-China']) }}">
 						<img src="{{ asset('assets/img/event/promoting-young-technology-science-teacher.jpg') }}" alt=""></a>
 				</div>
@@ -260,7 +282,7 @@ Our Events
 		</div>
 	</div>
 
-	<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+	<?php /* ?><div class="col-xl-4 col-lg-6 col-md-6 mb-30">
 		<div class="it-event-2-item-box">
 			<div class="it-event-2-item">
 				<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">
@@ -282,7 +304,7 @@ Our Events
 		</div>
 	</div>
 
-	<?php /* ?><div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+	<div class="col-xl-4 col-lg-6 col-md-6 mb-30">
 		<div class="it-event-2-item-box">
 			<div class="it-event-2-item">
 				<div class="it-event-2-thumb fix" style="height:255px;max-height:255px;">

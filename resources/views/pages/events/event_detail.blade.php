@@ -153,6 +153,8 @@
         <x-events.btec_091224 />
     @elseif($event_title == 'Promoting-Young-Technology-and-Science-Teacher-Training-from-ASEAN-in-China')
         <x-events.btec_161224 />
+    @elseif($event_title == 'BTEC-General-English-Program')
+        <x-events.btec_171224 />
     @else
         <x-events.event_detail />
     @endif
